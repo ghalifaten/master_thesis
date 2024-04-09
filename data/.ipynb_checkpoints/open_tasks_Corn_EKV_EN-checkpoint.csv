@@ -1,0 +1,3 @@
+taskId,tenant,language,title,description,context,topic,hints,solutionSteps,replacements,resource,sampleSolutions,stepifier,word_count
+16125,4pXoyTaEFlJaVwAypNUXcg,Cornelsen EN,EN,(API TEST),"Was ist der Oberbegriff? Rande, Karotte, Lauch, Bohne...",,,[],['Gemüse'],,,[''],SENTENCE,8
+16126,fq0rtjwXs79bZKorNNJxs,Cornelsen EN,EN,(API_TEST),When was the battle of Waterloo?,,,[],['The battle of Waterloo was in 1815.'],,,[''],SENTENCE,6
