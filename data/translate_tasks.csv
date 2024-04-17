@@ -1,0 +1,232 @@
+language,description,context,tenant_id,tenant_name,topic_name,topic_description,word_count
+15898,deu,"Translate ""Ich habe gestern Abend ferngesehen."" to English.",,93.0,DataEnricher,,,8
+15899,deu,"Translate ""Er hat ein Abendessen bestellt."" to English.",,93.0,DataEnricher,,,8
+15900,deu,"Translate ""Ich hatte nichts zum Abendessen."" to English.",,93.0,DataEnricher,,,8
+15901,deu,"Translate ""Ich will kein Abendessen."" to English.",,93.0,DataEnricher,,,7
+15902,deu,"Translate ""Tom macht gerade Abendessen."" to English.",,93.0,DataEnricher,,,7
+15903,deu,"Translate ""Das Leben ist voller Abenteuer."" to English.",,93.0,DataEnricher,,,8
+15904,deu,"Translate ""Ich konnte nicht ablehnen."" to English.",,93.0,DataEnricher,,,7
+15905,deu,"Translate ""Das machst du doch mit Absicht!"" to English.",,93.0,DataEnricher,,,9
+15906,deu,"Translate ""Das war sicher nicht mit Absicht."" to English.",,93.0,DataEnricher,,,9
+15907,deu,"Translate ""Er hatte die Absicht, sie zu heiraten."" to English.",,93.0,DataEnricher,,,10
+15908,deu,"Translate ""Hast du das mit Absicht getan?"" to English.",,93.0,DataEnricher,,,9
+15909,deu,"Translate ""Ich habe nicht die Absicht, mich zu entschuldigen."" to English.",,93.0,DataEnricher,,,11
+15910,deu,"Translate ""Meine Frau wollte ein Kind adoptieren."" to English.",,93.0,DataEnricher,,,9
+15911,deu,"Translate ""Der Affe fiel vom Baum."" to English.",,93.0,DataEnricher,,,8
+15912,deu,"Translate ""Mein Affe ist fortgelaufen."" to English.",,93.0,DataEnricher,,,7
+15913,deu,"Translate ""Das war ein Albtraum."" to English.",,93.0,DataEnricher,,,7
+15914,deu,"Translate ""Er zeigte mir sein Album."" to English.",,93.0,DataEnricher,,,8
+15915,deu,"Translate ""Es ist mir nicht erlaubt, Alkohol zu trinken."" to English.",,93.0,DataEnricher,,,11
+15916,deu,"Translate ""Haben Sie Getränke ohne Alkohol?"" to English.",,93.0,DataEnricher,,,8
+15917,deu,"Translate ""Ich kann keinen Alkohol trinken."" to English.",,93.0,DataEnricher,,,8
+15918,deu,"Translate ""Ich trinke keinen Alkohol."" to English.",,93.0,DataEnricher,,,7
+15919,deu,"Translate ""Sie war dem Alkohol nicht abgeneigt."" to English.",,93.0,DataEnricher,,,9
+15920,nds,"Translate ""Ich habe bis zum Alter von 6 in Osaka gelebt."" to English.",,93.0,DataEnricher,,,13
+15921,deu,"Translate ""Sie hat im Alter von 25 geheiratet."" to English.",,93.0,DataEnricher,,,10
+15922,deu,"Translate ""Welches Alter hat Ihr Sohn?"" to English.",,93.0,DataEnricher,,,8
+15923,eng,"Translate ""Was ist die Alternative?"" to English.",,93.0,DataEnricher,,,7
+15924,deu,"Translate ""Jane scheint sich auf der Party zu amüsieren."" to English.",,93.0,DataEnricher,,,11
+15925,deu,"Translate ""Darf ich dir jetzt etwas zu trinken anbieten?"" to English.",,93.0,DataEnricher,,,11
+15926,deu,"Translate ""Das wird sich nicht ändern."" to English.",,93.0,DataEnricher,,,8
+15927,deu,"Translate ""Die Zeiten ändern sich."" to English.",,93.0,DataEnricher,,,7
+15928,deu,"Translate ""Tom muss seine Einstellung ändern."" to English.",,93.0,DataEnricher,,,8
+15929,deu,"Translate ""Vielleicht ändern sich die Preise."" to English.",,93.0,DataEnricher,,,8
+15930,deu,"Translate ""Es war dumm von dir, sein Angebot anzunehmen."" to English.",,93.0,DataEnricher,,,11
+15931,deu,"Translate ""Ich akzeptiere das Angebot."" to English.",,93.0,DataEnricher,,,7
+15932,deu,"Translate ""Ich werde dein Angebot annehmen."" to English.",,93.0,DataEnricher,,,8
+15933,deu,"Translate ""Ich werde dein Angebot annehmen."" to English.",,93.0,DataEnricher,,,8
+15934,deu,"Translate ""Deine Antwort ist falsch."" to English.",,93.0,DataEnricher,,,7
+15935,deu,"Translate ""Du hast die Antwort gefunden."" to English.",,93.0,DataEnricher,,,8
+15936,deu,"Translate ""Hast du eine Antwort von Tom erhalten?"" to English.",,93.0,DataEnricher,,,10
+15937,deu,"Translate ""Kennen Sie die Antwort?"" to English.",,93.0,DataEnricher,,,7
+15938,deu,"Translate ""Deine Antworten waren bis auf eine richtig."" to English.",,93.0,DataEnricher,,,10
+15939,deu,"Translate ""Muss ich auf die Frage antworten?"" to English.",,93.0,DataEnricher,,,9
+15940,deu,"Translate ""Ich brauche keinen Anwalt."" to English.",,93.0,DataEnricher,,,7
+15941,deu,"Translate ""Der Apfel ist noch nicht reif."" to English.",,93.0,DataEnricher,,,9
+15942,deu,"Translate ""Ich esse gerade einen Apfel."" to English.",,93.0,DataEnricher,,,8
+15943,deu,"Translate ""Ist das ein Apfel?"" to English.",,93.0,DataEnricher,,,7
+15944,deu,"Translate ""Unter dem Schreibtisch liegt ein Apfel."" to English.",,93.0,DataEnricher,,,9
+15945,deu,"Translate ""Wie schmeckt der Apfel?"" to English.",,93.0,DataEnricher,,,7
+15946,deu,"Translate ""Er erledigt seine Arbeit."" to English.",,93.0,DataEnricher,,,7
+15947,deu,"Translate ""Er ist mit seiner Arbeit zufrieden."" to English.",,93.0,DataEnricher,,,9
+15948,deu,"Translate ""Ich bin von der Arbeit sehr müde."" to English.",,93.0,DataEnricher,,,10
+15949,deu,"Translate ""Ich habe Arbeit für dich."" to English.",,93.0,DataEnricher,,,8
+15950,deu,"Translate ""Ich muss die Arbeit bis vier Uhr abgeschlossen haben."" to English.",,93.0,DataEnricher,,,12
+15951,deu,"Translate ""Ich setze meine Arbeit fort."" to English.",,93.0,DataEnricher,,,8
+15952,deu,"Translate ""Tom fährt mit dem Auto zur Arbeit."" to English.",,93.0,DataEnricher,,,10
+15953,deu,"Translate ""Tom hat schon eine Arbeit gefunden."" to English.",,93.0,DataEnricher,,,9
+15954,deu,"Translate ""Unsere Arbeit hört nie auf."" to English.",,93.0,DataEnricher,,,8
+15955,deu,"Translate ""Arbeiten Sie mit Tom zusammen?"" to English.",,93.0,DataEnricher,,,8
+15956,deu,"Translate ""Ein Mensch muss arbeiten."" to English.",,93.0,DataEnricher,,,7
+15957,deu,"Translate ""Er will nicht in einer Fabrik arbeiten."" to English.",,93.0,DataEnricher,,,10
+15958,deu,"Translate ""Ich gab vor zu arbeiten."" to English.",,93.0,DataEnricher,,,8
+15959,deu,"Translate ""Ich war am Arbeiten."" to English.",,93.0,DataEnricher,,,7
+15960,deu,"Translate ""Ich brauche nur einen Arbeiter."" to English.",,93.0,DataEnricher,,,8
+15961,nds,"Translate ""Sie sind wirklich ein fleißiger Arbeiter."" to English.",,93.0,DataEnricher,,,9
+15962,deu,"Translate ""Das ist der Computer, auf dem er seine Artikel schreibt."" to English.",,93.0,DataEnricher,,,13
+15963,deu,"Translate ""Der Artikel war in französischer Sprache verfasst."" to English.",,93.0,DataEnricher,,,10
+15964,deu,"Translate ""Haben Sie diesen Artikel gelesen?"" to English.",,93.0,DataEnricher,,,8
+15965,deu,"Translate ""Habt ihr diesen Artikel gelesen?"" to English.",,93.0,DataEnricher,,,8
+15966,deu,"Translate ""Ich kann diesen Artikel nicht ins Arabische übersetzen."" to English.",,93.0,DataEnricher,,,11
+15967,deu,"Translate ""Ich beschloss, Arzt zu werden."" to English.",,93.0,DataEnricher,,,8
+15968,deu,"Translate ""Wo ist der Arzt?"" to English.",,93.0,DataEnricher,,,7
+15969,deu,"Translate ""Diese Aufgabe ist zu viel für ihn."" to English.",,93.0,DataEnricher,,,10
+15970,deu,"Translate ""Ich konnte die Aufgabe leicht lösen."" to English.",,93.0,DataEnricher,,,9
+15971,deu,"Translate ""Ich will nicht aufgeben."" to English.",,93.0,DataEnricher,,,7
+15972,nds,"Translate ""Die Zeitung hat eine große Auflage."" to English.",,93.0,DataEnricher,,,9
+15973,deu,"Translate ""Es gibt keine Fehler in deinem Aufsatz."" to English.",,93.0,DataEnricher,,,10
+15974,deu,"Translate ""Der alte Mann ist auf einem Auge blind."" to English.",,93.0,DataEnricher,,,11
+15975,deu,"Translate ""Ich habe Sand im Auge."" to English.",,93.0,DataEnricher,,,8
+15976,deu,"Translate ""Was das Auge nicht sieht, bekümmert das Herz nicht."" to English.",,93.0,DataEnricher,,,12
+15977,deu,"Translate ""Welches Auge tut dir weh?"" to English.",,93.0,DataEnricher,,,8
+15978,deu,"Translate ""Gibt es im Französischen einen ähnlichen Ausdruck?"" to English.",,93.0,DataEnricher,,,10
+15979,deu,"Translate ""Was bedeutet dieser Ausdruck in diesem Zusammenhang?"" to English.",,93.0,DataEnricher,,,10
+15980,deu,"Translate ""Du solltest nicht mehr Geld ausgeben, als du verdienst."" to English.",,93.0,DataEnricher,,,12
+15981,deu,"Translate ""Darf ich mir dein Auto ausleihen?"" to English.",,93.0,DataEnricher,,,9
+15982,deu,"Translate ""Kann ich mir mal dein Auto ausleihen?"" to English.",,93.0,DataEnricher,,,10
+15983,deu,"Translate ""Wie viele Bücher kann ich gleichzeitig ausleihen?"" to English.",,93.0,DataEnricher,,,10
+15984,deu,"Translate ""Warum ist das Aussehen so wichtig?"" to English.",,93.0,DataEnricher,,,9
+15985,nds,"Translate ""Wir haben eine große Auswahl an Obst im Supermarkt."" to English.",,93.0,DataEnricher,,,12
+15986,deu,"Translate ""Der Autor hat einen schönen Stil."" to English.",,93.0,DataEnricher,,,9
+15987,deu,"Translate ""Das Baby hörte auf zu schreien."" to English.",,93.0,DataEnricher,,,9
+15988,deu,"Translate ""Das Baby schläft tief und fest."" to English.",,93.0,DataEnricher,,,9
+15989,deu,"Translate ""Das Baby wachte mitten in der Nacht auf."" to English.",,93.0,DataEnricher,,,11
+15990,deu,"Translate ""Ich schlief wie ein Baby."" to English.",,93.0,DataEnricher,,,8
+15991,deu,"Translate ""Sie gebar ein gesundes Baby."" to English.",,93.0,DataEnricher,,,8
+15992,nds,"Translate ""Er nahm ein heißes Bad und schaltete den Fernseher ein."" to English.",,93.0,DataEnricher,,,13
+15993,deu,"Translate ""Hast du schon ein Bad genommen, Takashi?"" to English.",,93.0,DataEnricher,,,10
+15994,deu,"Translate ""Ich nahm ein Bad."" to English.",,93.0,DataEnricher,,,7
+15995,deu,"Translate ""Ich nehme fast jeden Tag ein Bad."" to English.",,93.0,DataEnricher,,,10
+15996,deu,"Translate ""Es ist praktisch, so nahe am Bahnhof zu wohnen."" to English.",,93.0,DataEnricher,,,12
+15997,deu,"Translate ""Wie komme ich zum Bahnhof?"" to English.",,93.0,DataEnricher,,,8
+15998,deu,"Translate ""Wo ist der nächste Bahnhof?"" to English.",,93.0,DataEnricher,,,8
+15999,deu,"Translate ""Bakterien vermehren sich durch Teilung."" to English.",,93.0,DataEnricher,,,8
+16000,deu,"Translate ""Die Katze spielt mit dem Ball."" to English.",,93.0,DataEnricher,,,9
+16001,nds,"Translate ""Wo ist der Ball?"" to English.",,93.0,DataEnricher,,,7
+16002,deu,"Translate ""Eine Banane ist gelb."" to English.",,93.0,DataEnricher,,,7
+16003,deu,"Translate ""Ich esse eine Banane."" to English.",,93.0,DataEnricher,,,7
+16004,eng,"Translate ""Tom isst eine Banane."" to English.",,93.0,DataEnricher,,,7
+16005,deu,"Translate ""Die Bank kannst du leicht finden."" to English.",,93.0,DataEnricher,,,9
+16006,deu,"Translate ""Ich bin zur Bank gegangen."" to English.",,93.0,DataEnricher,,,8
+16007,deu,"Translate ""Sie arbeitet in einer Bank."" to English.",,93.0,DataEnricher,,,8
+16008,deu,"Translate ""Unter dem Baum ist eine Bank."" to English.",,93.0,DataEnricher,,,9
+16009,deu,"Translate ""Wieso hast du die Bank rot gestrichen?"" to English.",,93.0,DataEnricher,,,10
+16010,deu,"Translate ""Ich will in bar bezahlt werden."" to English.",,93.0,DataEnricher,,,9
+16011,eng,"Translate ""Alle Jungen spielen gerne Baseball."" to English.",,93.0,DataEnricher,,,8
+16012,deu,"Translate ""Er interessiert sich nicht sehr für Baseball."" to English.",,93.0,DataEnricher,,,10
+16013,deu,"Translate ""Ich spiele gern Baseball."" to English.",,93.0,DataEnricher,,,7
+16014,eng,"Translate ""Magst du Baseball, Bin?"" to English.",,93.0,DataEnricher,,,7
+16015,nob,"Translate ""Mike spielt gerne Basketball."" to English.",,93.0,DataEnricher,,,7
+16016,deu,"Translate ""Sie hat früher Basketball gespielt."" to English.",,93.0,DataEnricher,,,8
+16017,deu,"Translate ""Wir bauen Reis an."" to English.",,93.0,DataEnricher,,,7
+16018,deu,"Translate ""Wir werden eine Mauer bauen."" to English.",,93.0,DataEnricher,,,8
+16019,deu,"Translate ""Aber der Bauer lächelte ihn an."" to English.",,93.0,DataEnricher,,,9
+16020,deu,"Translate ""Was der Bauer nicht kennt, das isst er nicht."" to English.",,93.0,DataEnricher,,,12
+16021,deu,"Translate ""Dieser Baum ist so alt wie jener."" to English.",,93.0,DataEnricher,,,10
+16022,deu,"Translate ""Ich stehe unter dem Baum."" to English.",,93.0,DataEnricher,,,8
+16023,deu,"Translate ""Tom pflanzte einen Baum."" to English.",,93.0,DataEnricher,,,7
+16024,deu,"Translate ""Tom pflückte einen Apfel vom Baum."" to English.",,93.0,DataEnricher,,,9
+16025,deu,"Translate ""Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt."" to English.",,93.0,DataEnricher,,,12
+16026,deu,"Translate ""Dieser Satz kann im Grunde alles bedeuten."" to English.",,93.0,DataEnricher,,,10
+16027,deu,"Translate ""Was hat das zu bedeuten?"" to English.",,93.0,DataEnricher,,,8
+16028,deu,"Translate ""Die Bedeutung dieses Satzes ist unklar."" to English.",,93.0,DataEnricher,,,9
+16029,deu,"Translate ""Ja, aber das hat keine Bedeutung."" to English.",,93.0,DataEnricher,,,9
+16030,deu,"Translate ""Worte haben selten nur eine Bedeutung."" to English.",,93.0,DataEnricher,,,9
+16031,deu,"Translate ""Ich akzeptiere, aber nur unter einer Bedingung."" to English.",,93.0,DataEnricher,,,10
+16032,deu,"Translate ""Ich war naiv und leicht zu beeindrucken."" to English.",,93.0,DataEnricher,,,10
+16033,deu,"Translate ""Ich wollte Tom beeindrucken."" to English.",,93.0,DataEnricher,,,7
+16034,deu,"Translate ""Wann hast du vor zu beginnen?"" to English.",,93.0,DataEnricher,,,9
+16035,deu,"Translate ""Wir müssen vor fünf beginnen."" to English.",,93.0,DataEnricher,,,8
+16036,deu,"Translate ""Werden Sie mich begleiten?"" to English.",,93.0,DataEnricher,,,7
+16037,deu,"Translate ""Ich habe meinen Hund auf dem Haustierfriedhof begraben."" to English.",,93.0,DataEnricher,,,11
+16038,deu,"Translate ""Doktor, es ist das falsche Bein!"" to English.",,93.0,DataEnricher,,,9
+16039,deu,"Translate ""Ich habe Schmerzen im rechten Bein."" to English.",,93.0,DataEnricher,,,9
+16040,deu,"Translate ""Mein Hund hat Tom ins Bein gebissen."" to English.",,93.0,DataEnricher,,,10
+16041,eng,"Translate ""Tom hat ein Bein verloren."" to English.",,93.0,DataEnricher,,,8
+16042,deu,"Translate ""Wir haben ein interessantes Beispiel."" to English.",,93.0,DataEnricher,,,8
+16043,deu,"Translate ""Eugene wird den Nobelpreis für seinen Beitrag zur Literatur erhalten."" to English.",,93.0,DataEnricher,,,13
+16044,deu,"Translate ""Jeder darf etwas beitragen."" to English.",,93.0,DataEnricher,,,7
+16045,deu,"Translate ""Ich wollte Tom nicht beleidigen."" to English.",,93.0,DataEnricher,,,8
+16046,deu,"Translate ""Sein Benehmen ist immer ehrenhaft."" to English.",,93.0,DataEnricher,,,8
+16047,deu,"Translate ""Benötigen Sie unsere Hilfe?"" to English.",,93.0,DataEnricher,,,7
+16048,deu,"Translate ""Benötigen wir eine internationale Sprache?"" to English.",,93.0,DataEnricher,,,8
+16049,deu,"Translate ""Ich werde Ihre Hilfe benötigen."" to English.",,93.0,DataEnricher,,,8
+16050,deu,"Translate ""Ich werde seine Hilfe benötigen."" to English.",,93.0,DataEnricher,,,8
+16051,deu,"Translate ""Wir benötigen deine Unterstützung."" to English.",,93.0,DataEnricher,,,7
+16052,deu,"Translate ""Uns geht das Benzin aus."" to English.",,93.0,DataEnricher,,,8
+16053,deu,"Translate ""Wir hatten kein Benzin mehr."" to English.",,93.0,DataEnricher,,,8
+16054,deu,"Translate ""Du hast mich gut beraten."" to English.",,93.0,DataEnricher,,,8
+16055,deu,"Translate ""Ich habe mich mit meiner Schwester beraten."" to English.",,93.0,DataEnricher,,,10
+16056,deu,"Translate ""Auf dem Berg gibt es viele Affen."" to English.",,93.0,DataEnricher,,,10
+16057,deu,"Translate ""Die Sonne ist hinter einem Berg untergegangen."" to English.",,93.0,DataEnricher,,,10
+16058,deu,"Translate ""Das ist ein ziemlich riskanter Beruf."" to English.",,93.0,DataEnricher,,,9
+16059,deu,"Translate ""Was sind Sie von Beruf?"" to English.",,93.0,DataEnricher,,,8
+16060,deu,"Translate ""Wir können dich nicht beschützen."" to English.",,93.0,DataEnricher,,,8
+16061,deu,"Translate ""Wir können Sie nicht beschützen."" to English.",,93.0,DataEnricher,,,8
+16062,deu,"Translate ""Wir werden Sie beschützen."" to English.",,93.0,DataEnricher,,,7
+16063,deu,"Translate ""Es bringt nichts, sich zu beschweren."" to English.",,93.0,DataEnricher,,,9
+16064,deu,"Translate ""Ich will mich beschweren."" to English.",,93.0,DataEnricher,,,7
+16065,deu,"Translate ""Meine Kunden beschweren sich nie."" to English.",,93.0,DataEnricher,,,8
+16066,deu,"Translate ""Besitzen Sie ein Auto?"" to English.",,93.0,DataEnricher,,,7
+16067,deu,"Translate ""Das Glück liegt nicht darin, viele Dinge zu besitzen."" to English.",,93.0,DataEnricher,,,12
+16068,deu,"Translate ""Ausnahmen bestätigen die Regel."" to English.",,93.0,DataEnricher,,,7
+16069,deu,"Translate ""Ich kann das nicht bestätigen."" to English.",,93.0,DataEnricher,,,8
+16070,deu,"Translate ""Kann jemand Ihre Geschichte bestätigen?"" to English.",,93.0,DataEnricher,,,8
+16071,deu,"Translate ""Münzen bestehen aus Metall."" to English.",,93.0,DataEnricher,,,7
+16072,deu,"Translate ""Nicht alle Kandidaten können die Prüfung bestehen."" to English.",,93.0,DataEnricher,,,10
+16073,deu,"Translate ""Die wollten mich bestrafen."" to English.",,93.0,DataEnricher,,,7
+16074,deu,"Translate ""Unser Besucher sitzt im Wohnzimmer."" to English.",,93.0,DataEnricher,,,8
+16075,deu,"Translate ""Ich werde mich an dieser Abmachung nicht beteiligen."" to English.",,93.0,DataEnricher,,,11
+16076,deu,"Translate ""Wir alle beten für Japan."" to English.",,93.0,DataEnricher,,,8
+16077,nds,"Translate ""Das Telefon ist außer Betrieb."" to English.",,93.0,DataEnricher,,,8
+16078,deu,"Translate ""Der Fahrstuhl ist heute außer Betrieb."" to English.",,93.0,DataEnricher,,,9
+16079,nds,"Translate ""Unser Kühlschrank ist außer Betrieb."" to English.",,93.0,DataEnricher,,,8
+16080,deu,"Translate ""Er liegt schon eine Woche krank im Bett."" to English.",,93.0,DataEnricher,,,11
+16081,deu,"Translate ""Ich geh etwa um zehn ins Bett."" to English.",,93.0,DataEnricher,,,10
+16082,deu,"Translate ""Ich habe den ganzen Tag im Bett verbracht."" to English.",,93.0,DataEnricher,,,11
+16083,deu,"Translate ""Seid ihr noch im Bett?"" to English.",,93.0,DataEnricher,,,8
+16084,deu,"Translate ""Ich habe keinen Beweis."" to English.",,93.0,DataEnricher,,,7
+16085,deu,"Translate ""Wir haben keinen Beweis."" to English.",,93.0,DataEnricher,,,7
+16086,deu,"Translate ""Kannst du das beweisen?"" to English.",,93.0,DataEnricher,,,7
+16087,deu,"Translate ""Wie können wir es beweisen?"" to English.",,93.0,DataEnricher,,,8
+16088,deu,"Translate ""Wir haben die Beziehung mit ihnen beendet."" to English.",,93.0,DataEnricher,,,10
+16089,deu,"Translate ""Die Bibliothek ist in der Stadtmitte."" to English.",,93.0,DataEnricher,,,9
+16090,deu,"Translate ""Du darfst seine Bibliothek benutzen."" to English.",,93.0,DataEnricher,,,8
+16091,deu,"Translate ""Wo ist die Bibliothek?"" to English.",,93.0,DataEnricher,,,7
+16092,deu,"Translate ""Mich hat eine Biene gestochen."" to English.",,93.0,DataEnricher,,,8
+16093,deu,"Translate ""Ich bestellte ein Bier."" to English.",,93.0,DataEnricher,,,7
+16094,deu,"Translate ""Sie mag Bier lieber als Wein."" to English.",,93.0,DataEnricher,,,9
+16095,nds,"Translate ""Tom mag weder Bier noch Wein."" to English.",,93.0,DataEnricher,,,9
+16096,deu,"Translate ""Ich habe dieses Bild selbst gezeichnet."" to English.",,93.0,DataEnricher,,,9
+16097,eng,"Translate ""Picasso hat dieses Bild 1950 gemalt."" to English.",,93.0,DataEnricher,,,9
+16098,deu,"Translate ""Sie zeichnet ein Bild."" to English.",,93.0,DataEnricher,,,7
+16099,deu,"Translate ""Ich habe Biologie immer gehasst."" to English.",,93.0,DataEnricher,,,8
+16100,deu,"Translate ""Er kann ein bisschen Chinesisch sprechen."" to English.",,93.0,DataEnricher,,,9
+16101,deu,"Translate ""Ich spreche ein bisschen Spanisch."" to English.",,93.0,DataEnricher,,,8
+16102,deu,"Translate ""Mein Vater ist ein bisschen altmodisch."" to English.",,93.0,DataEnricher,,,9
+16103,deu,"Translate ""Tom muss ein bisschen abnehmen."" to English.",,93.0,DataEnricher,,,8
+16104,nds,"Translate ""Ein trockenes Blatt fiel zu Boden."" to English.",,93.0,DataEnricher,,,9
+16105,deu,"Translate ""Ich bleibe morgen zu Hause."" to English.",,93.0,DataEnricher,,,8
+16106,deu,"Translate ""Ich habe vor, im Hotel zu bleiben."" to English.",,93.0,DataEnricher,,,10
+16107,deu,"Translate ""Ihr braucht nicht zu bleiben."" to English.",,93.0,DataEnricher,,,8
+16108,deu,"Translate ""Wie lange wirst du bleiben?"" to English.",,93.0,DataEnricher,,,8
+16109,deu,"Translate ""Hast du einen Bleistift?"" to English.",,93.0,DataEnricher,,,7
+16110,deu,"Translate ""Ich habe meinen Bleistift vergessen."" to English.",,93.0,DataEnricher,,,8
+16111,deu,"Translate ""Wie lang ist dieser Bleistift?"" to English.",,93.0,DataEnricher,,,8
+16112,deu,"Translate ""Da steht eine Blume auf dem Tisch."" to English.",,93.0,DataEnricher,,,10
+16113,deu,"Translate ""Gefällt dir diese Blume?"" to English.",,93.0,DataEnricher,,,7
+16114,eng,"Translate ""Das Blut war hellrot."" to English.",,93.0,DataEnricher,,,7
+16115,eng,"Translate ""Dein Blut ist rot."" to English.",,93.0,DataEnricher,,,7
+16127,eng,Can you translate the following sentence?Er lebt in einem grossen Haus.,,93.0,DataEnricher,,,11
+16137,deu,Translate the following sentence to English: Der Junge isst einen Apfel.,,93.0,DataEnricher,,,11
+16140,deu,"Translate ""Ich habe durst."" to english.",,93.0,DataEnricher,,,6
+16594,deu,"Translate ""Sie entschieden sich, eine Brücke zu bauen."" to English.",,93.0,DataEnricher,,,10
+16630,deu,"Translate ""Tom wollte niemanden beleidigen."" to English.",,93.0,DataEnricher,,,7
+16135,eng,"Translate ""He loves me"" to german:",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6
+16131,eng,"Translate ""He loves me"" to german:",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6
+16133,eng,"Translate ""He loves me"" to german:",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6
+16134,eng,"Translate ""He loves me"" to german:",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6
+16130,eng,"Translate ""He loves me"" to german",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6
+16960,eng,Translate the following sentence to Englishh: Wir sitzen vor dem Computer.,,8.0,demo,,,11
+16832,eng,Translate the follwing sentence to Englisch:He is sitting in front of the computer.,,8.0,demo,,,13
+15188,eng,Translate this sentence into English:El gato bebe leche.,,18.0,connectsolutions_en,,,8
