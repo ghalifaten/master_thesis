@@ -1,0 +1,620 @@
+language,description,context,tenant_id,tenant_name,topic_name,topic_description,word_count,taskId
+15898,deu,"Translate ""Ich habe gestern Abend ferngesehen."" to English.",,93.0,DataEnricher,,,8,3zHah3WHaBL69lxjz0xPdA
+15899,deu,"Translate ""Er hat ein Abendessen bestellt."" to English.",,93.0,DataEnricher,,,8,7dgOqVF3wM07eiRRzsTEYV
+15900,deu,"Translate ""Ich hatte nichts zum Abendessen."" to English.",,93.0,DataEnricher,,,8,9yd745wscDf9ERA8P2pfhW
+15901,deu,"Translate ""Ich will kein Abendessen."" to English.",,93.0,DataEnricher,,,7,6ZsjZ1Fpkk76aNTpKZucfx
+15902,deu,"Translate ""Tom macht gerade Abendessen."" to English.",,93.0,DataEnricher,,,7,22BFD78ilPM8TchKxPNRFF
+15903,deu,"Translate ""Das Leben ist voller Abenteuer."" to English.",,93.0,DataEnricher,,,8,50vh0FAZ3TDaHo84QdFocv
+15904,deu,"Translate ""Ich konnte nicht ablehnen."" to English.",,93.0,DataEnricher,,,7,a8fhbpOctnB81BMgXtazcU
+15905,deu,"Translate ""Das machst du doch mit Absicht!"" to English.",,93.0,DataEnricher,,,9,20A4Hx4UDtf8CLvEdGBbCn
+15906,deu,"Translate ""Das war sicher nicht mit Absicht."" to English.",,93.0,DataEnricher,,,9,7DSzCegF1Gz9C7jXDbf0ae
+15907,deu,"Translate ""Er hatte die Absicht, sie zu heiraten."" to English.",,93.0,DataEnricher,,,10,SsFyvivPiXa3xCGUqNzhy
+15908,deu,"Translate ""Hast du das mit Absicht getan?"" to English.",,93.0,DataEnricher,,,9,4iiM8cAHjYH75flvADkcFR
+15909,deu,"Translate ""Ich habe nicht die Absicht, mich zu entschuldigen."" to English.",,93.0,DataEnricher,,,11,4WQPpjZzXl05Tdu6W5xxVt
+15910,deu,"Translate ""Meine Frau wollte ein Kind adoptieren."" to English.",,93.0,DataEnricher,,,9,7FH3sCf1EL78jEz8orF9ab
+15911,deu,"Translate ""Der Affe fiel vom Baum."" to English.",,93.0,DataEnricher,,,8,4YROUyqd8jj7fi3DT8SnHu
+15912,deu,"Translate ""Mein Affe ist fortgelaufen."" to English.",,93.0,DataEnricher,,,7,8IRZQCLrsBh9uuBth2dbc3
+15913,deu,"Translate ""Das war ein Albtraum."" to English.",,93.0,DataEnricher,,,7,f5FBKIiyFd7QCzbq4GgKP
+15914,deu,"Translate ""Er zeigte mir sein Album."" to English.",,93.0,DataEnricher,,,8,50hyowIp3hd7pHJnrWGCla
+15915,deu,"Translate ""Es ist mir nicht erlaubt, Alkohol zu trinken."" to English.",,93.0,DataEnricher,,,11,a2EFy1quyXd6bb286NW5Qb
+15916,deu,"Translate ""Haben Sie Getränke ohne Alkohol?"" to English.",,93.0,DataEnricher,,,8,6K4ImkCIaj08kpmj1XbVws
+15917,deu,"Translate ""Ich kann keinen Alkohol trinken."" to English.",,93.0,DataEnricher,,,8,8ZITtwQdx9G9AKb7jyIPS3
+15918,deu,"Translate ""Ich trinke keinen Alkohol."" to English.",,93.0,DataEnricher,,,7,9Wm7IWwrNhRayy5g2gj6rA
+15919,deu,"Translate ""Sie war dem Alkohol nicht abgeneigt."" to English.",,93.0,DataEnricher,,,9,17aU9nWh0eLag81mXI2h3O
+15920,nds,"Translate ""Ich habe bis zum Alter von 6 in Osaka gelebt."" to English.",,93.0,DataEnricher,,,13,8PqBcI1KZWl8Mtq0B8FxL4
+15921,deu,"Translate ""Sie hat im Alter von 25 geheiratet."" to English.",,93.0,DataEnricher,,,10,aAkIziPCaJX7lPIBr9JQwY
+15922,deu,"Translate ""Welches Alter hat Ihr Sohn?"" to English.",,93.0,DataEnricher,,,8,3zGud8VQ8yNaycnVTBNazJ
+15923,eng,"Translate ""Was ist die Alternative?"" to English.",,93.0,DataEnricher,,,7,acmZVlmedq577WAV5BInIC
+15924,deu,"Translate ""Jane scheint sich auf der Party zu amüsieren."" to English.",,93.0,DataEnricher,,,11,1oTr9NmVjOc7V9UGrEs4ah
+15925,deu,"Translate ""Darf ich dir jetzt etwas zu trinken anbieten?"" to English.",,93.0,DataEnricher,,,11,6hmk7XLEG7361cQCL6t3Wb
+15926,deu,"Translate ""Das wird sich nicht ändern."" to English.",,93.0,DataEnricher,,,8,7EkwqUuuM7L71QhYSquY9C
+15927,deu,"Translate ""Die Zeiten ändern sich."" to English.",,93.0,DataEnricher,,,7,3lriGJFEm9W8W71JHWyfDX
+15928,deu,"Translate ""Tom muss seine Einstellung ändern."" to English.",,93.0,DataEnricher,,,8,5flo6UARSgZ8n2lBBqtBn1
+15929,deu,"Translate ""Vielleicht ändern sich die Preise."" to English.",,93.0,DataEnricher,,,8,2whKClfmekVaHLvKfAiPVa
+15930,deu,"Translate ""Es war dumm von dir, sein Angebot anzunehmen."" to English.",,93.0,DataEnricher,,,11,aKyigEtilsvaz9cxURMjNY
+15931,deu,"Translate ""Ich akzeptiere das Angebot."" to English.",,93.0,DataEnricher,,,7,51vgitPthWZ7rU5CTzq5VV
+15932,deu,"Translate ""Ich werde dein Angebot annehmen."" to English.",,93.0,DataEnricher,,,8,22UHAQsTne57THcsK0NPCi
+15933,deu,"Translate ""Ich werde dein Angebot annehmen."" to English.",,93.0,DataEnricher,,,8,9MpZ9PyNope91FHJ6hDVrI
+15934,deu,"Translate ""Deine Antwort ist falsch."" to English.",,93.0,DataEnricher,,,7,2tXp4qsxJtY5AN7ivJqsVE
+15935,deu,"Translate ""Du hast die Antwort gefunden."" to English.",,93.0,DataEnricher,,,8,5QMm78gBppxaJVq91HE6i5
+15936,deu,"Translate ""Hast du eine Antwort von Tom erhalten?"" to English.",,93.0,DataEnricher,,,10,aS38m2r9A37aEFQXHdmakv
+15937,deu,"Translate ""Kennen Sie die Antwort?"" to English.",,93.0,DataEnricher,,,7,1zeg3zMm9df7GMEk4S1mUH
+15938,deu,"Translate ""Deine Antworten waren bis auf eine richtig."" to English.",,93.0,DataEnricher,,,10,aCD2v49jXCD7FKmZex0H8I
+15939,deu,"Translate ""Muss ich auf die Frage antworten?"" to English.",,93.0,DataEnricher,,,9,6QkSj5tcnin7Hqbix7qbxW
+15940,deu,"Translate ""Ich brauche keinen Anwalt."" to English.",,93.0,DataEnricher,,,7,2r2SYFcYe9N6mNTHUlcK8f
+15941,deu,"Translate ""Der Apfel ist noch nicht reif."" to English.",,93.0,DataEnricher,,,9,8KAr1JaOTRu8nGNYfn9Vww
+15942,deu,"Translate ""Ich esse gerade einen Apfel."" to English.",,93.0,DataEnricher,,,8,2PqNTcM5pSPav1Hou9ZWcW
+15943,deu,"Translate ""Ist das ein Apfel?"" to English.",,93.0,DataEnricher,,,7,WCz20kHwET8k3MVbqppy6
+15944,deu,"Translate ""Unter dem Schreibtisch liegt ein Apfel."" to English.",,93.0,DataEnricher,,,9,BQF0srBMWT7Gzo7BZ2uzK
+15945,deu,"Translate ""Wie schmeckt der Apfel?"" to English.",,93.0,DataEnricher,,,7,63LwneDO7eg8AK3biY87MO
+15946,deu,"Translate ""Er erledigt seine Arbeit."" to English.",,93.0,DataEnricher,,,7,a9LEBCdqQ1T7bSqECtwYJb
+15947,deu,"Translate ""Er ist mit seiner Arbeit zufrieden."" to English.",,93.0,DataEnricher,,,9,7eAdNIMwTdZ8bNDzMdsKNi
+15948,deu,"Translate ""Ich bin von der Arbeit sehr müde."" to English.",,93.0,DataEnricher,,,10,66WZeewVaQUapMbr4L8zqc
+15949,deu,"Translate ""Ich habe Arbeit für dich."" to English.",,93.0,DataEnricher,,,8,94XarI5tWg871T4PHzFaq0
+15950,deu,"Translate ""Ich muss die Arbeit bis vier Uhr abgeschlossen haben."" to English.",,93.0,DataEnricher,,,12,7QYKkjMFgIs6pLnqer8efv
+15951,deu,"Translate ""Ich setze meine Arbeit fort."" to English.",,93.0,DataEnricher,,,8,48PYN7qDGQA88NvuCHTt7f
+15952,deu,"Translate ""Tom fährt mit dem Auto zur Arbeit."" to English.",,93.0,DataEnricher,,,10,55935gEnVks6d5pwpkPcfP
+15953,deu,"Translate ""Tom hat schon eine Arbeit gefunden."" to English.",,93.0,DataEnricher,,,9,62XXodCNboB9Cyi11h9FbL
+15954,deu,"Translate ""Unsere Arbeit hört nie auf."" to English.",,93.0,DataEnricher,,,8,g2dXexhLZjaE28QsnLCfW
+15955,deu,"Translate ""Arbeiten Sie mit Tom zusammen?"" to English.",,93.0,DataEnricher,,,8,797sy1iQXSt8BJYZq96yLR
+15956,deu,"Translate ""Ein Mensch muss arbeiten."" to English.",,93.0,DataEnricher,,,7,4dylAImdwEVa6pPjZkhMUo
+15957,deu,"Translate ""Er will nicht in einer Fabrik arbeiten."" to English.",,93.0,DataEnricher,,,10,63YBIHhkCW38OC9yqetsjl
+15958,deu,"Translate ""Ich gab vor zu arbeiten."" to English.",,93.0,DataEnricher,,,8,4YrjGF9DmAX6HVSsVxBnST
+15959,deu,"Translate ""Ich war am Arbeiten."" to English.",,93.0,DataEnricher,,,7,7NnuagJq9QP9YdCJJbnutO
+15960,deu,"Translate ""Ich brauche nur einen Arbeiter."" to English.",,93.0,DataEnricher,,,8,azUng1lvtHdaD9eXmHM7uQ
+15961,nds,"Translate ""Sie sind wirklich ein fleißiger Arbeiter."" to English.",,93.0,DataEnricher,,,9,1GVHJpYzrqt9ya6Zp92WoT
+15962,deu,"Translate ""Das ist der Computer, auf dem er seine Artikel schreibt."" to English.",,93.0,DataEnricher,,,13,pwS6KHkC5ya2O14CH4bSX
+15963,deu,"Translate ""Der Artikel war in französischer Sprache verfasst."" to English.",,93.0,DataEnricher,,,10,3EjA3fuWrzb9aKIdPjGK2z
+15964,deu,"Translate ""Haben Sie diesen Artikel gelesen?"" to English.",,93.0,DataEnricher,,,8,Gd2rwRvZBJ8xQakCjGMDl
+15965,deu,"Translate ""Habt ihr diesen Artikel gelesen?"" to English.",,93.0,DataEnricher,,,8,9FKxB1Z1sa689zUnfxMo3B
+15966,deu,"Translate ""Ich kann diesen Artikel nicht ins Arabische übersetzen."" to English.",,93.0,DataEnricher,,,11,2VtkZeTFX3L9FLJIwep6bI
+15967,deu,"Translate ""Ich beschloss, Arzt zu werden."" to English.",,93.0,DataEnricher,,,8,3whOtWugTQD9PEYssWCra7
+15968,deu,"Translate ""Wo ist der Arzt?"" to English.",,93.0,DataEnricher,,,7,863cPdHAwxM6jrpWi7Kx5h
+15969,deu,"Translate ""Diese Aufgabe ist zu viel für ihn."" to English.",,93.0,DataEnricher,,,10,8yDGFEId9zC9J5b6jWEiXY
+15970,deu,"Translate ""Ich konnte die Aufgabe leicht lösen."" to English.",,93.0,DataEnricher,,,9,79cfNQucdqR9l6Lm4XhKpQ
+15971,deu,"Translate ""Ich will nicht aufgeben."" to English.",,93.0,DataEnricher,,,7,738Cr1GCEP49iUi8HnYTQ3
+15972,nds,"Translate ""Die Zeitung hat eine große Auflage."" to English.",,93.0,DataEnricher,,,9,2pXzMgU5xZH9y5Mlr1tFS4
+15973,deu,"Translate ""Es gibt keine Fehler in deinem Aufsatz."" to English.",,93.0,DataEnricher,,,10,7XOLcCX9H5W8l8aETO1gGX
+15974,deu,"Translate ""Der alte Mann ist auf einem Auge blind."" to English.",,93.0,DataEnricher,,,11,62HICEhR1sK6bT8gDgzzkI
+15975,deu,"Translate ""Ich habe Sand im Auge."" to English.",,93.0,DataEnricher,,,8,1dxt2rW5BSQ8iLFIvlsExo
+15976,deu,"Translate ""Was das Auge nicht sieht, bekümmert das Herz nicht."" to English.",,93.0,DataEnricher,,,12,aJsqPyUd9InaAF4SOj0z0B
+15977,deu,"Translate ""Welches Auge tut dir weh?"" to English.",,93.0,DataEnricher,,,8,2NJsgQEIjJQ7TULpMozCyd
+15978,deu,"Translate ""Gibt es im Französischen einen ähnlichen Ausdruck?"" to English.",,93.0,DataEnricher,,,10,2JmiuY3H00s7KurVGUjwwA
+15979,deu,"Translate ""Was bedeutet dieser Ausdruck in diesem Zusammenhang?"" to English.",,93.0,DataEnricher,,,10,aFtcB6e1XSKamsPzZYTTBO
+15980,deu,"Translate ""Du solltest nicht mehr Geld ausgeben, als du verdienst."" to English.",,93.0,DataEnricher,,,12,2SvLuio6AlL5V2q7XMFOod
+15981,deu,"Translate ""Darf ich mir dein Auto ausleihen?"" to English.",,93.0,DataEnricher,,,9,5G4iA5xgmbT8mZI5gL35GC
+15982,deu,"Translate ""Kann ich mir mal dein Auto ausleihen?"" to English.",,93.0,DataEnricher,,,10,1CpKXSaT8uY6kOUILEEAqV
+15983,deu,"Translate ""Wie viele Bücher kann ich gleichzeitig ausleihen?"" to English.",,93.0,DataEnricher,,,10,1XIEegpxpeo5Kd1rFXvYEO
+15984,deu,"Translate ""Warum ist das Aussehen so wichtig?"" to English.",,93.0,DataEnricher,,,9,2Euo5WsJi5D5Ud4n9QL89B
+15985,nds,"Translate ""Wir haben eine große Auswahl an Obst im Supermarkt."" to English.",,93.0,DataEnricher,,,12,1xKZgPaBlPsapUmouTzuZq
+15986,deu,"Translate ""Der Autor hat einen schönen Stil."" to English.",,93.0,DataEnricher,,,9,2fd2bEiRXlC5TpTCPiGvef
+15987,deu,"Translate ""Das Baby hörte auf zu schreien."" to English.",,93.0,DataEnricher,,,9,9pNfo56cP8n8P5yxcKdePs
+15988,deu,"Translate ""Das Baby schläft tief und fest."" to English.",,93.0,DataEnricher,,,9,3VuuoeU3MVV7zGdDRIs2Yu
+15989,deu,"Translate ""Das Baby wachte mitten in der Nacht auf."" to English.",,93.0,DataEnricher,,,11,6fyE0CZX57F9oWwxdL5V72
+15990,deu,"Translate ""Ich schlief wie ein Baby."" to English.",,93.0,DataEnricher,,,8,aNo0Vc3M5RLaHlfFOv92p3
+15991,deu,"Translate ""Sie gebar ein gesundes Baby."" to English.",,93.0,DataEnricher,,,8,Z7XGAQVItb6RHRDpEoOL5
+15992,nds,"Translate ""Er nahm ein heißes Bad und schaltete den Fernseher ein."" to English.",,93.0,DataEnricher,,,13,9CRQwA02WE97kL7WGBnC7n
+15993,deu,"Translate ""Hast du schon ein Bad genommen, Takashi?"" to English.",,93.0,DataEnricher,,,10,3FYigAOOHYja0DyawKR3l4
+15994,deu,"Translate ""Ich nahm ein Bad."" to English.",,93.0,DataEnricher,,,7,Vn99qWpOWGaVsoZSkC7V6
+15995,deu,"Translate ""Ich nehme fast jeden Tag ein Bad."" to English.",,93.0,DataEnricher,,,10,6sSl1NwMUMwal80v3nnGET
+15996,deu,"Translate ""Es ist praktisch, so nahe am Bahnhof zu wohnen."" to English.",,93.0,DataEnricher,,,12,39F2sLPHte493osmUUVV0Y
+15997,deu,"Translate ""Wie komme ich zum Bahnhof?"" to English.",,93.0,DataEnricher,,,8,7ySYPlY9zj28RgvoGihTEy
+15998,deu,"Translate ""Wo ist der nächste Bahnhof?"" to English.",,93.0,DataEnricher,,,8,7Ks1kGHjbpq9KL42AlPJO2
+15999,deu,"Translate ""Bakterien vermehren sich durch Teilung."" to English.",,93.0,DataEnricher,,,8,2SJzyco6q2a8KXsVEko5IT
+16000,deu,"Translate ""Die Katze spielt mit dem Ball."" to English.",,93.0,DataEnricher,,,9,23GDKYWKkYV6EtJc45lHhX
+16001,nds,"Translate ""Wo ist der Ball?"" to English.",,93.0,DataEnricher,,,7,5h9awIGOtrK89xuAuXw1rr
+16002,deu,"Translate ""Eine Banane ist gelb."" to English.",,93.0,DataEnricher,,,7,aJJVPDdcxXQ7YgQblDIngD
+16003,deu,"Translate ""Ich esse eine Banane."" to English.",,93.0,DataEnricher,,,7,3bg53tmUbUL7ghc0YnQURi
+16004,eng,"Translate ""Tom isst eine Banane."" to English.",,93.0,DataEnricher,,,7,V2lGMV9xar6MerL0KV6H1
+16005,deu,"Translate ""Die Bank kannst du leicht finden."" to English.",,93.0,DataEnricher,,,9,1lqAy1JrEmf6DQhE4SfgBi
+16006,deu,"Translate ""Ich bin zur Bank gegangen."" to English.",,93.0,DataEnricher,,,8,aAdhFihRwCUaoNSUn3yV48
+16007,deu,"Translate ""Sie arbeitet in einer Bank."" to English.",,93.0,DataEnricher,,,8,7mWRsp2zZNd9JDhaiSDrtM
+16008,deu,"Translate ""Unter dem Baum ist eine Bank."" to English.",,93.0,DataEnricher,,,9,QH17czdtDf7qdO5LomcPH
+16009,deu,"Translate ""Wieso hast du die Bank rot gestrichen?"" to English.",,93.0,DataEnricher,,,10,1G3cU96xT406rDBe9RXqvr
+16010,deu,"Translate ""Ich will in bar bezahlt werden."" to English.",,93.0,DataEnricher,,,9,6fWFTlwHbNe8ZAAkw21GN6
+16011,eng,"Translate ""Alle Jungen spielen gerne Baseball."" to English.",,93.0,DataEnricher,,,8,596WDZdWc1X7tggFUrhhM7
+16012,deu,"Translate ""Er interessiert sich nicht sehr für Baseball."" to English.",,93.0,DataEnricher,,,10,7ITnctAFbTk9FWeiqfmXHV
+16013,deu,"Translate ""Ich spiele gern Baseball."" to English.",,93.0,DataEnricher,,,7,9fRbalhkhsP6M7cPZKy5G9
+16014,eng,"Translate ""Magst du Baseball, Bin?"" to English.",,93.0,DataEnricher,,,7,2qjHZDKvS7j5QOxTlxgTwS
+16015,nob,"Translate ""Mike spielt gerne Basketball."" to English.",,93.0,DataEnricher,,,7,5wuznrgH6Em9mF0A4VntPE
+16016,deu,"Translate ""Sie hat früher Basketball gespielt."" to English.",,93.0,DataEnricher,,,8,8UgZ1bMvz798fQfSv23jKi
+16017,deu,"Translate ""Wir bauen Reis an."" to English.",,93.0,DataEnricher,,,7,3R9UH6cuCG46g0RemDHZLX
+16018,deu,"Translate ""Wir werden eine Mauer bauen."" to English.",,93.0,DataEnricher,,,8,42fF4LfzZ225HS6hiVVzaD
+16019,deu,"Translate ""Aber der Bauer lächelte ihn an."" to English.",,93.0,DataEnricher,,,9,3PWSNsM3Rgg6oOYIhqokrV
+16020,deu,"Translate ""Was der Bauer nicht kennt, das isst er nicht."" to English.",,93.0,DataEnricher,,,12,8UWHXHQylhY7qhz9rITmIy
+16021,deu,"Translate ""Dieser Baum ist so alt wie jener."" to English.",,93.0,DataEnricher,,,10,5bG0oOEDdN4aifkqwUc8Q2
+16022,deu,"Translate ""Ich stehe unter dem Baum."" to English.",,93.0,DataEnricher,,,8,6zgOsbf0aFm5AOlGiKSrhv
+16023,deu,"Translate ""Tom pflanzte einen Baum."" to English.",,93.0,DataEnricher,,,7,7COUUUJHoQ37uAvXkRc8EP
+16024,deu,"Translate ""Tom pflückte einen Apfel vom Baum."" to English.",,93.0,DataEnricher,,,9,8CxHtuRhGTZ7ffDlz1EXC5
+16025,deu,"Translate ""Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt."" to English.",,93.0,DataEnricher,,,12,7k9SyTuQbGL5Tz58WeH6Sb
+16026,deu,"Translate ""Dieser Satz kann im Grunde alles bedeuten."" to English.",,93.0,DataEnricher,,,10,3xDAVb6XTwHavSJ5KJ4nz2
+16027,deu,"Translate ""Was hat das zu bedeuten?"" to English.",,93.0,DataEnricher,,,8,jbVpsvDERJ9H72coj2D0U
+16028,deu,"Translate ""Die Bedeutung dieses Satzes ist unklar."" to English.",,93.0,DataEnricher,,,9,aaCSimvhtyda0JcHwNhbk9
+16029,deu,"Translate ""Ja, aber das hat keine Bedeutung."" to English.",,93.0,DataEnricher,,,9,9YUXS86bUMJapR6JgwbIFT
+16030,deu,"Translate ""Worte haben selten nur eine Bedeutung."" to English.",,93.0,DataEnricher,,,9,1WppWXBUwQB99eNtrITCtD
+16031,deu,"Translate ""Ich akzeptiere, aber nur unter einer Bedingung."" to English.",,93.0,DataEnricher,,,10,8183ifn7P2x8GV9CoE7m0n
+16032,deu,"Translate ""Ich war naiv und leicht zu beeindrucken."" to English.",,93.0,DataEnricher,,,10,54LZXORfBJo7xukajs2nof
+16033,deu,"Translate ""Ich wollte Tom beeindrucken."" to English.",,93.0,DataEnricher,,,7,4lgDkE60mFe6cUTL0oEkI8
+16034,deu,"Translate ""Wann hast du vor zu beginnen?"" to English.",,93.0,DataEnricher,,,9,eUPBrBIfqp7KeouooRLvT
+16035,deu,"Translate ""Wir müssen vor fünf beginnen."" to English.",,93.0,DataEnricher,,,8,5seyDsjO5JO8ziexFoVuRq
+16036,deu,"Translate ""Werden Sie mich begleiten?"" to English.",,93.0,DataEnricher,,,7,ajT9gezHfW06EUIRo0JYsc
+16037,deu,"Translate ""Ich habe meinen Hund auf dem Haustierfriedhof begraben."" to English.",,93.0,DataEnricher,,,11,7wJfnjQzmwcabrqF6FJ0QT
+16038,deu,"Translate ""Doktor, es ist das falsche Bein!"" to English.",,93.0,DataEnricher,,,9,13c7Kvkm3XA6KRNfjo0Wbe
+16039,deu,"Translate ""Ich habe Schmerzen im rechten Bein."" to English.",,93.0,DataEnricher,,,9,2s1jSgC2nFc6MxqViT2WB4
+16040,deu,"Translate ""Mein Hund hat Tom ins Bein gebissen."" to English.",,93.0,DataEnricher,,,10,DZNA9pFWLL7r7kQlARNJN
+16041,eng,"Translate ""Tom hat ein Bein verloren."" to English.",,93.0,DataEnricher,,,8,3lr1ZeVsuyE6JWjdbK559N
+16042,deu,"Translate ""Wir haben ein interessantes Beispiel."" to English.",,93.0,DataEnricher,,,8,5uK1ZtM2bpna15nB1lHSod
+16043,deu,"Translate ""Eugene wird den Nobelpreis für seinen Beitrag zur Literatur erhalten."" to English.",,93.0,DataEnricher,,,13,4s8Al8iUEvM7OYPyKTMlOe
+16044,deu,"Translate ""Jeder darf etwas beitragen."" to English.",,93.0,DataEnricher,,,7,7BESpFFTdAX8Wgqb4vHThL
+16045,deu,"Translate ""Ich wollte Tom nicht beleidigen."" to English.",,93.0,DataEnricher,,,8,abEDm0m4HCSaHd48vsPzuW
+16046,deu,"Translate ""Sein Benehmen ist immer ehrenhaft."" to English.",,93.0,DataEnricher,,,8,7kWwOuxLKCcaAApToX2dEN
+16047,deu,"Translate ""Benötigen Sie unsere Hilfe?"" to English.",,93.0,DataEnricher,,,7,D29UMzfb2N6Qc3AwCfjbO
+16048,deu,"Translate ""Benötigen wir eine internationale Sprache?"" to English.",,93.0,DataEnricher,,,8,8ziA9gkfFaS9jEN4oI147d
+16049,deu,"Translate ""Ich werde Ihre Hilfe benötigen."" to English.",,93.0,DataEnricher,,,8,4Hxh2X2VCnya179P3f2sxB
+16050,deu,"Translate ""Ich werde seine Hilfe benötigen."" to English.",,93.0,DataEnricher,,,8,9CtmMqhuqhG9IHJ0hju8YL
+16051,deu,"Translate ""Wir benötigen deine Unterstützung."" to English.",,93.0,DataEnricher,,,7,ajH6zEq9C0K9NlMoj5prV4
+16052,deu,"Translate ""Uns geht das Benzin aus."" to English.",,93.0,DataEnricher,,,8,1BK3wvJN1iV8hCqPx8JHFP
+16053,deu,"Translate ""Wir hatten kein Benzin mehr."" to English.",,93.0,DataEnricher,,,8,NFjZFecgiZ6TZ0ZTt1xa6
+16054,deu,"Translate ""Du hast mich gut beraten."" to English.",,93.0,DataEnricher,,,8,3cxMDBWsbsGaeuGy8ksIyq
+16055,deu,"Translate ""Ich habe mich mit meiner Schwester beraten."" to English.",,93.0,DataEnricher,,,10,4WnUilpxA9K5L8bYguNJEs
+16056,deu,"Translate ""Auf dem Berg gibt es viele Affen."" to English.",,93.0,DataEnricher,,,10,7P4DANoTfzM69ZTW8OQTX2
+16057,deu,"Translate ""Die Sonne ist hinter einem Berg untergegangen."" to English.",,93.0,DataEnricher,,,10,6TwaaiPuTSA8QNd1peprxj
+16058,deu,"Translate ""Das ist ein ziemlich riskanter Beruf."" to English.",,93.0,DataEnricher,,,9,5UNa7GwQ85Qa5uTxuz7crp
+16059,deu,"Translate ""Was sind Sie von Beruf?"" to English.",,93.0,DataEnricher,,,8,3aPyDiFFLsM9UmzDijsoGO
+16060,deu,"Translate ""Wir können dich nicht beschützen."" to English.",,93.0,DataEnricher,,,8,qmXAxbDGwaAJRMTAx9Ie
+16061,deu,"Translate ""Wir können Sie nicht beschützen."" to English.",,93.0,DataEnricher,,,8,5Pdg54Aeie18YFwqXuylJ7
+16062,deu,"Translate ""Wir werden Sie beschützen."" to English.",,93.0,DataEnricher,,,7,1oIv5PGOTut7XSCWpuIIQd
+16063,deu,"Translate ""Es bringt nichts, sich zu beschweren."" to English.",,93.0,DataEnricher,,,9,4CnVzYDLBMl6mjgncRPEO5
+16064,deu,"Translate ""Ich will mich beschweren."" to English.",,93.0,DataEnricher,,,7,nMjLrtGHOW6k6ZsxtqFHC
+16065,deu,"Translate ""Meine Kunden beschweren sich nie."" to English.",,93.0,DataEnricher,,,8,1KzItk0jPoJ8rQNsskP7Ug
+16066,deu,"Translate ""Besitzen Sie ein Auto?"" to English.",,93.0,DataEnricher,,,7,1rKKxlIInqm8hiYhiKLxF1
+16067,deu,"Translate ""Das Glück liegt nicht darin, viele Dinge zu besitzen."" to English.",,93.0,DataEnricher,,,12,8E48tnqaG789WgoNa5QaRF
+16068,deu,"Translate ""Ausnahmen bestätigen die Regel."" to English.",,93.0,DataEnricher,,,7,17enUA6MSwI86D5QoNM65x
+16069,deu,"Translate ""Ich kann das nicht bestätigen."" to English.",,93.0,DataEnricher,,,8,4qYZCztHXQX8TcJjw0LvmO
+16070,deu,"Translate ""Kann jemand Ihre Geschichte bestätigen?"" to English.",,93.0,DataEnricher,,,8,3VYKZCESWCPajgZxBGBowi
+16071,deu,"Translate ""Münzen bestehen aus Metall."" to English.",,93.0,DataEnricher,,,7,9LCfy3F8mxY9YaA5yZMQDa
+16072,deu,"Translate ""Nicht alle Kandidaten können die Prüfung bestehen."" to English.",,93.0,DataEnricher,,,10,4zk7SwbHJNT8UBbIjXLlZB
+16073,deu,"Translate ""Die wollten mich bestrafen."" to English.",,93.0,DataEnricher,,,7,5squtglwZVbaEbR9atJO8x
+16074,deu,"Translate ""Unser Besucher sitzt im Wohnzimmer."" to English.",,93.0,DataEnricher,,,8,9eVJukXagqq6AOQahiFzqi
+16075,deu,"Translate ""Ich werde mich an dieser Abmachung nicht beteiligen."" to English.",,93.0,DataEnricher,,,11,5dDPXa5ma0U9tDqVhzphCs
+16076,deu,"Translate ""Wir alle beten für Japan."" to English.",,93.0,DataEnricher,,,8,8aa2ebRFs0k5VI7Va2DM61
+16077,nds,"Translate ""Das Telefon ist außer Betrieb."" to English.",,93.0,DataEnricher,,,8,9mOMkcbC2y27uJoTplSZAh
+16078,deu,"Translate ""Der Fahrstuhl ist heute außer Betrieb."" to English.",,93.0,DataEnricher,,,9,5UZclGYur5Y6Kbm4m9ONry
+16079,nds,"Translate ""Unser Kühlschrank ist außer Betrieb."" to English.",,93.0,DataEnricher,,,8,2ZKaIvcyNQc7RqgzrpO4l7
+16080,deu,"Translate ""Er liegt schon eine Woche krank im Bett."" to English.",,93.0,DataEnricher,,,11,7wEsYMJDi7E7Od2pPSGOVM
+16081,deu,"Translate ""Ich geh etwa um zehn ins Bett."" to English.",,93.0,DataEnricher,,,10,im2v9YDif68sQe393eni3
+16082,deu,"Translate ""Ich habe den ganzen Tag im Bett verbracht."" to English.",,93.0,DataEnricher,,,11,7zZdRH6Oj0K7Au4oI9uVYt
+16083,deu,"Translate ""Seid ihr noch im Bett?"" to English.",,93.0,DataEnricher,,,8,82sdxfyyceM9RaAHcMxcBN
+16084,deu,"Translate ""Ich habe keinen Beweis."" to English.",,93.0,DataEnricher,,,7,4xdj6L8TQ165E50uhhgx2F
+16085,deu,"Translate ""Wir haben keinen Beweis."" to English.",,93.0,DataEnricher,,,7,94hck44iOg466zd0xxQgOm
+16086,deu,"Translate ""Kannst du das beweisen?"" to English.",,93.0,DataEnricher,,,7,6489UW9fMFk87AO5nyWQmz
+16087,deu,"Translate ""Wie können wir es beweisen?"" to English.",,93.0,DataEnricher,,,8,aNTCZdFf9hW8DEGYi058Ut
+16088,deu,"Translate ""Wir haben die Beziehung mit ihnen beendet."" to English.",,93.0,DataEnricher,,,10,1Mgk55i6YTh8ZSWgp1XO8H
+16089,deu,"Translate ""Die Bibliothek ist in der Stadtmitte."" to English.",,93.0,DataEnricher,,,9,8fZfHzAkN5y8jUIUHLOBQ3
+16090,deu,"Translate ""Du darfst seine Bibliothek benutzen."" to English.",,93.0,DataEnricher,,,8,1yO06uSMcdj7ROMOlqSRXG
+16091,deu,"Translate ""Wo ist die Bibliothek?"" to English.",,93.0,DataEnricher,,,7,afT9hLFwm4N85Joi0QouI4
+16092,deu,"Translate ""Mich hat eine Biene gestochen."" to English.",,93.0,DataEnricher,,,8,94tfnGB5y1H7obUJdIfyLv
+16093,deu,"Translate ""Ich bestellte ein Bier."" to English.",,93.0,DataEnricher,,,7,9DSb0YzQXAN7PKGOH6mSM8
+16094,deu,"Translate ""Sie mag Bier lieber als Wein."" to English.",,93.0,DataEnricher,,,9,578BgMSWupj9u3P9Gzxy22
+16095,nds,"Translate ""Tom mag weder Bier noch Wein."" to English.",,93.0,DataEnricher,,,9,9c8a3xo9UGZ7PKmJmJFaYL
+16096,deu,"Translate ""Ich habe dieses Bild selbst gezeichnet."" to English.",,93.0,DataEnricher,,,9,aW1X8eF8Xc87NArOOacU1Z
+16097,eng,"Translate ""Picasso hat dieses Bild 1950 gemalt."" to English.",,93.0,DataEnricher,,,9,57HbgDSRNfm7aMimynDjFs
+16098,deu,"Translate ""Sie zeichnet ein Bild."" to English.",,93.0,DataEnricher,,,7,7SGOEYpS4VQ7mtwDL4piIS
+16099,deu,"Translate ""Ich habe Biologie immer gehasst."" to English.",,93.0,DataEnricher,,,8,9qfQZ0G4TpH8hv8B3TIg2X
+16100,deu,"Translate ""Er kann ein bisschen Chinesisch sprechen."" to English.",,93.0,DataEnricher,,,9,9hpF7fq8VsRaIahCjZDutX
+16101,deu,"Translate ""Ich spreche ein bisschen Spanisch."" to English.",,93.0,DataEnricher,,,8,aZ0bPchsurN7BGMNi5gC6Z
+16102,deu,"Translate ""Mein Vater ist ein bisschen altmodisch."" to English.",,93.0,DataEnricher,,,9,9OCJ1Pk9vS19Kw8LzZA8jA
+16103,deu,"Translate ""Tom muss ein bisschen abnehmen."" to English.",,93.0,DataEnricher,,,8,8tKN0lsv1XV5YaZTNGk8kR
+16104,nds,"Translate ""Ein trockenes Blatt fiel zu Boden."" to English.",,93.0,DataEnricher,,,9,7ArKqX8jjzO7hXtMs8Q5TY
+16105,deu,"Translate ""Ich bleibe morgen zu Hause."" to English.",,93.0,DataEnricher,,,8,nQ6lkx675g8hcZkmHyAJr
+16106,deu,"Translate ""Ich habe vor, im Hotel zu bleiben."" to English.",,93.0,DataEnricher,,,10,6J72GjMnZm284Wrho68olC
+16107,deu,"Translate ""Ihr braucht nicht zu bleiben."" to English.",,93.0,DataEnricher,,,8,6OVjeJ2R7FB5PwBDpbFBKv
+16108,deu,"Translate ""Wie lange wirst du bleiben?"" to English.",,93.0,DataEnricher,,,8,4l8QYdC51jr5Y6EjwmV7Ri
+16109,deu,"Translate ""Hast du einen Bleistift?"" to English.",,93.0,DataEnricher,,,7,3ylP5r0lSbU6MK776zXLNn
+16110,deu,"Translate ""Ich habe meinen Bleistift vergessen."" to English.",,93.0,DataEnricher,,,8,6Ih76XgOQ9a99DbEa2NCsR
+16111,deu,"Translate ""Wie lang ist dieser Bleistift?"" to English.",,93.0,DataEnricher,,,8,9kVchsY8I5s8lNxWnkXIC9
+16112,deu,"Translate ""Da steht eine Blume auf dem Tisch."" to English.",,93.0,DataEnricher,,,10,41cyUBNuI865BKtwcvzxUH
+16113,deu,"Translate ""Gefällt dir diese Blume?"" to English.",,93.0,DataEnricher,,,7,6prtNHu0zSs6Ngj3mA3R19
+16114,eng,"Translate ""Das Blut war hellrot."" to English.",,93.0,DataEnricher,,,7,4KvtWWdJmOj93Qd0fECz2x
+16115,eng,"Translate ""Dein Blut ist rot."" to English.",,93.0,DataEnricher,,,7,5lOeK6n256P7L1e1US3v6C
+16127,eng,Can you translate the following sentence?Er lebt in einem grossen Haus.,,93.0,DataEnricher,,,11,4B8o2bX7SnWaIJ1sT9rgxU
+16137,deu,Translate the following sentence to English: Der Junge isst einen Apfel.,,93.0,DataEnricher,,,11,7Vr7wY5XITpalEJbJqyMKD
+16140,deu,"Translate ""Ich habe durst."" to english.",,93.0,DataEnricher,,,6,870VWoRALxZahUqPFQEgSJ
+16594,deu,"Translate ""Sie entschieden sich, eine Brücke zu bauen."" to English.",,93.0,DataEnricher,,,10,96PTNeCqkHc8CdBByYNrEo
+16630,deu,"Translate ""Tom wollte niemanden beleidigen."" to English.",,93.0,DataEnricher,,,7,12QfXkR96hp8Hyu8mSN1gm
+16135,eng,"Translate ""He loves me"" to german:",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6,6tKWn39JVqC6nMBv9vQoGD
+16131,eng,"Translate ""He loves me"" to german:",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6,XZZNGpJJoP9NfrRPSfR8w
+16133,eng,"Translate ""He loves me"" to german:",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6,4VGrQMsi4Lf6HJR9cpYwXt
+16134,eng,"Translate ""He loves me"" to german:",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6,9fRq8FcU04z6cylMYhxZpp
+16130,eng,"Translate ""He loves me"" to german",,101.0,api-trial-leonore.guillain-at-gmail.com,,,6,4zcsaIGJPKc5XQ9cX2N0vo
+16960,eng,Translate the following sentence to Englishh: Wir sitzen vor dem Computer.,,8.0,demo,,,11,6mKC3ZZRZ2e851rbwWW1sI
+16832,eng,Translate the follwing sentence to Englisch:He is sitting in front of the computer.,,8.0,demo,,,13,3b7qmW4YtZWaMTxBhOJUoX
+15188,eng,Translate this sentence into English:El gato bebe leche.,,18.0,connectsolutions_en,,,8,13x8a4qn1yVaOmcfngHOOf
+15347,eng,Translate into German:Він народився у Швейцарії.,,8.0,demo,,,6,9Aa4h4yosMb9oAglIYVbMr
+15348,eng,Translate into German:Я не швейцарець.,,8.0,demo,,,5,5j0Rr5jlDk59GqSn89amX6
+15349,eng,Translate into German:Берн — столиця Швейцарії.,,8.0,demo,,,6,51WUAJ5Jhyj8muonf80QXj
+15350,eng,Translate into German:Він поїхав до Швейцарії.,,8.0,demo,,,6,aD9JiUzKLxf9w4r1S1Ka0o
+15632,eng,"Translate the following sentence to English:""Tim wohnt in einem blauen Haus.""",,58.0,client_EN,,,11,2YUaD24fUfP7pWjwIr92iP
+15671,eng,Translate this sentence into English (write in Present simple):Homer arbeitet in einem Atomkraftwerk.,,58.0,client_EN,Language learning,,13,2hVjXIPswXaaxcD8sqe6WU
+16833,eng,Translate the follwing sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,8HnDlUIbyHT9Qg3g4dEcnZ
+16835,eng,Translate the follwing sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,26u1vZhdpuH9kDcA6xx78A
+16836,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Compute.,,8.0,demo,,,11,2g6FRUOGCBT848lgs8vRT8
+16838,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,8CnJ1bv8P0A5Ys928bGLkP
+16879,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,2r70eBNTN0b8jBDuFJraVm
+16955,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,9Auc5FCKJZ9a3C1o8ZVSPh
+16961,eng,Translate the following sentence to English: “Wir sitzen vor dem Computer”,,8.0,demo,,,11,aVV5G2jXiRC9XY4lewgl52
+16962,eng,Translate the following sentence to English: “Wir sitzen vor dem Computer”.,,8.0,demo,,,11,3QhKw6gI8Gv66Bn0DECl3x
+16963,eng,Translate the following sentence to English: “Wir sitzen vor dem Computer”,,8.0,demo,,,11,70BQepo7Lrh9ytaxzfYUEL
+16964,eng,Translate the following sentence to English: “Wir sitzen vor dem Computer”.,,8.0,demo,,,11,3eIgMDzwCtE9KJY7hdeWw5
+16965,eng,Translate the following sentence to English: “Wir sitzen vor dem Computer”.,,8.0,demo,,,11,aSacCa6TTFZ7JJTuBGDuto
+16966,eng,Translate the following sentence to English: “Wir sitzen vor dem Computer”.,,8.0,demo,,,11,agZkm3sxPvX7L24cYYUOXh
+16969,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,80tPbAIaz639UnhvfOTQk9
+16990,eng,Translate the following sentence to Englisch.Wir sitzen vor dem Computer.,,8.0,demo,,,10,8XMxmEj6Zhv9ISipWcB5V0
+16995,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,aJO9g6bQe0S8pgYoAlDsa3
+16996,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,7sfUa4iy70U9hK4QcrUDYh
+17021,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,ajMl7TLPty37H2glVIR1jS
+17039,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,35M2HOXs9Vh5NUFqGeXc4Z
+17040,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,2C6NkA9f5559LHUU59ttax
+17045,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,9ZWpRvH9lXo5ZhktyDtHZq
+17046,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,6iAgstS7O2b6VZLmGr23KQ
+17047,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,9F7dGxuu1fx7q4deULh5pu
+17075,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,4XFkfbY9aeNarXVxeydkXb
+17077,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,aabkDpf1In5aLCEpfF0oLx
+17078,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,5uPP9nFbStx6JoiIif02Yv
+17079,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,3rjTCMSMHTB5Xl6wescySE
+17080,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,62IFV9FppkB7hGveaOOMtM
+17081,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,8ru9r5mSYKg9YUQAwZ6kke
+17105,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,4T0cuixLf938KPQc3mcPWo
+17106,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,2S9l7epVSccaLe48Xozb76
+17142,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,5sfYvW5OuJt5z1ZG8IaOOj
+17157,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,4egjYsdh9Ze65AithRSW6I
+17158,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,afcGSrIYt9e7hPJWR8xVvE
+17159,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,3ov5vBM4EGk7w0z9EnLMZZ
+17160,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,zjSljLL2366dydpnkQ9cb
+17290,eng,Translate the following sentence to English: Wir sitzen vor dem Computer.,,8.0,demo,,,11,1AQeVmedUi75X5TGoLqV4j
+17305,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,1evEEGuxXhF8xv1tOWtjxQ
+17365,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,57MxBKH2TYg7yimYo0bDY5
+17376,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,qqbKE61Hz18cPFw7dwQxC
+17386,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,4KVELcwjHQoakCAEz6cPmJ
+17391,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,9HAc5jeYPSzabRgkqgCnRP
+17401,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,8nblrizP2BF7H4WWocLGff
+17402,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,29zbFnMqo0I8UQ2pJErBVt
+17430,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,4oYrV7fkBalaYHsWeP7lEU
+17431,eng,Translate the following sentence to Englisch: Wir arbeiten mit dem Computer.,,8.0,demo,,,11,3zhZER88ZTDaDbiX38IyOw
+17442,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,6669VVFbufq6Qvqe1w9hRw
+17459,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,49UOHKqiMwq85ZZIHZxCU6
+17460,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,1LRldjOWzZm6Ifs4aCI0Q1
+17465,eng,Translate the follwing sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,8dvl2IHZABj7nGzkfGBvSU
+17472,eng,Translate the following sentence to English: Wir sitzen vor dem Computer.,,8.0,demo,,,11,7Uw9z5ng3bU9ps3Za62wAO
+17490,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,9cJekFHxmNj6wjzqZBmBR9
+17493,eng,Translate the following sentence to Englisch: Das Haus ist gross.,,8.0,demo,,,10,aihqUkbypiq9gnAMnzc6eK
+17494,eng,Translate the following sentence to Englisch: Das Haus ist gross.,,8.0,demo,,,10,9LryhUZQVKP9U9s9RHlVES
+17495,eng,Translate the following sentence to Englisch: Das Haus ist gross.,,8.0,demo,,,10,WmuFF72WzT83czdaACLx5
+17499,eng,Translate the following sentence to Englisch: Das Haus ist gross.,,8.0,demo,,,10,8YYBHbP9SFK5TMaSGUcaEM
+17576,eng,Now combine your choices with the following words/phrases to form meaningful collocations/phrases and translate them. racist logic • dangerous • bought into • put … weight on • racialized ways of thinking • racist • Native American ancestry • privacy,"Three quotes about society The minute we become an integrated whole, we look through the same eyes and we see a whole different world together. ___ Azizah Al-Hibri, American philosopher and legal scholar Peace is not unity in similarity but unity in diversity, in the comparison and conciliation of differences. ___ Mikhail Gorbachev, former Russian president Unlike a drop of water which loses its identity when it joins the ocean, man does not lose his being in the society in which he lives. Man’s life is independent. He is born not for the development of the society alone, but for the development of his self. ___ B. R. Ambedkar, former Indian Minister of Law and Justice   The House on Mango Street My name In English my name means hope. In Spanish it means too many letters. It means sadness, it means waiting. It is like the number nine. A muddy color. It is the Mexican records my father plays on Sunday mornings when he is shaving, songs like sobbing. It was my great-grandmother’s name and now it is mine. She was a horse woman too, born like me in the Chinese year of the horse – which is supposed 1 to be bad luck if you’re born female – but I think this is a Chinese lie because the Chinese, like the Mexicans, don’t like their women strong. My great-grandmother. I would’ve liked to have known her, a wild horse of a woman, so wild she wouldn’t marry. Until my great-grandfather threw a sack over her head and carried her off. Just like that, as if she were a fancy chandelier 2 . That’s the way he did it. And the story goes she never forgave him. She looked out the window her whole life, the way so many women sit their sadness on an elbow. I wonder if she made the best with what she got or was she sorry because she couldn’t be all the things she wanted to be. Esperanza. I have inherited her name, but I don’t want to inherit her place by the window. At school they say my name funny as if the syllables were made out of tin and hurt the roof of your mouth. But in Spanish my name is made out of a softer something, like silver, not quite as thick as my sister’s name – Magdalena – which is uglier than mine. Magdalena who at least can come home and become Nenny. But I am always Esperanza. I would like to baptize 3 myself under a new name, a name more like the real me, the one nobody sees. Esperanza as Lisandra or Maritza or Zeze the X. Yes. Something like Zeze the X will do. ___ From: Sandra Cisneros, The House on Mango Street , 2009 1 to suppose to believe; 2 chandelier [ˌʃændəˈlɪə] Kronleuchter ; 3 to baptize taufen   Still I Rise You may write me down in history With your bitter, twisted lies, You may trod 1 me in the very dirt But still, like dust, I’ll rise. – Does my sassiness 2 upset you? Why are you beset 3 with gloom? ’Cause I walk like I’ve got oil wells Pumping in my living room. – Just like moons and like suns, With the certainty of tides, Just like hopes springing high, Still I’ll rise. – Did you want to see me broken? Bowed head and lowered eyes? Shoulders falling down like teardrops, Weakened by my soulful cries? – Does my haughtiness 4 offend you? Don’t you take it awful hard ’Cause I laugh like I’ve got gold mines Diggin’ in my own backyard. – You may shoot me with your words, You may cut me with your eyes, You may kill me with your hatefulness, But still, like air, I’ll rise. Does my sexiness upset you? Does it come as a surprise That I dance like I’ve got diamonds At the meeting of my thighs? – Out of the huts of history’s shame I rise Up from a past that’s rooted in pain I rise I’m a black ocean, leaping and wide, – Welling 5 and swelling I bear in the tide. – Leaving behind nights of terror and fear I rise Into a daybreak that’s wondrously clear I rise Bringing the gifts that my ancestors gave, I am the dream and the hope of the slave. I rise I rise I rise. ___ Maya Angelou, 1978 1 trod (past participle of to tread) to crush, to step on; 2 sassiness lively, bold behaviour; 3 to be beset with/by to be decorated/covered/studded with (e.g. jewels); 4 haughtiness [ˈhɔ:tɪnəs] arrogance, pride; 5 to well (up) to flood, to increase, to rise",139.0,EKV_English,,,40,5WP3Hu3XuN56yILh1zgAmP
+17646,eng,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,8.0,demo,,,11,9Lo0DSVjE6679mt7AE6YoS
+17650,eng,Translate the following sentence to Englisch: Das Haus ist gross.,,8.0,demo,,,10,VOnvCYMdNe6nDEKzfBBYr
+17725,eng,Translate the following sentence to Englisch: Das Haus ist gross.,,8.0,demo,,,10,YZmwYVgDVh7477b5QhfrW
+16147,deu,"Übersetzen Sie den Satz: ""Er hat ein Abendessen bestellt.""",,99.0,vocitrainer,,,9,7n1zXhsIUrp9zbrQsaWSTb
+16149,deu,"Übersetzen Sie den Satz: ""Ich brauche keinen Anwalt.""",,99.0,vocitrainer,,,8,3yFWdyLYR9m6z9rvt5v68J
+16151,deu,"Übersetzen Sie den Satz: ""Der Autor hat einen schönen Stil.""",,99.0,vocitrainer,,,10,18nxa5Mkihza9KiLzl60Lj
+16155,deu,"Übersetzen Sie den Satz: ""Das ist ein ziemlich riskanter Beruf.""",,99.0,vocitrainer,,,10,2eEIscvJrK48V6xWfPg0lI
+16157,deu,"Übersetzen Sie den Satz: ""Ist dein Büro hier in der Nähe?""",,99.0,vocitrainer,,,11,50ukobAkVAD6skno4tMJ48
+16161,deu,"Übersetzen Sie den Satz: ""Der Kapitän kontrolliert das ganze Schiff.""",,99.0,vocitrainer,,,10,9QJBSYMcO6R8FBEtCaDoPi
+16163,deu,"Übersetzen Sie den Satz: ""Er ging zum Zahnarzt.""",,99.0,vocitrainer,,,8,3Ni8KNyirNHa6J5UY0fwDj
+16165,deu,"Übersetzen Sie den Satz: ""Das wird sich nicht ändern.""",,99.0,vocitrainer,,,9,9qdlTZc3IOH5OhXWdy5DVp
+16167,deu,"Übersetzen Sie den Satz: ""Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.""",,99.0,vocitrainer,,,13,9qAdYATcooU9jAKRthtRnL
+16169,deu,"Übersetzen Sie den Satz: ""Wir alle beten für Japan.""",,99.0,vocitrainer,,,9,aGs8timT8jB77tim2PSXfi
+16171,deu,"Übersetzen Sie den Satz: ""Ich bleibe morgen zu Hause.""",,99.0,vocitrainer,,,9,6hZWVvDdlsw8IRkKNcLf7W
+16173,deu,"Übersetzen Sie den Satz: ""Ich kann nicht an alles denken.""",,99.0,vocitrainer,,,10,4mBFymZpomf9VGsE7A37VX
+16175,deu,"Übersetzen Sie den Satz: ""Seine Eltern erwarten zu viel von ihm.""",,99.0,vocitrainer,,,11,7GQAFt6TAcHaTpOMPoN511
+16177,deu,"Übersetzen Sie den Satz: ""Nicht alle Vögel können fliegen.""",,99.0,vocitrainer,,,9,2qVe1xOLm7r7u20NFxyIig
+16179,deu,"Übersetzen Sie den Satz: ""Die Christen glauben an Jesus Christus.""",,99.0,vocitrainer,,,10,6Dtyx35vs7L8Rhv0QRWeqw
+16181,deu,"Übersetzen Sie den Satz: ""Die Karotten kosten drei Dollar.""",,99.0,vocitrainer,,,9,6bTyn069lmn7Wk4GuqrIXr
+16183,deu,"Übersetzen Sie den Satz: ""Fische leben im Meer.""",,99.0,vocitrainer,,,8,8LRv23QYIil6uRa6NnjHDI
+16185,deu,"Übersetzen Sie den Satz: ""Die Regel gilt nur für Ausländer.""",,99.0,vocitrainer,,,10,aGCau04yq9vaI295VcWVWy
+16187,deu,"Übersetzen Sie den Satz: ""Er ist größer als sein Bruder.""",,99.0,vocitrainer,,,10,2r5bZQDgLje8dFi9VGz3HA
+16189,deu,"Übersetzen Sie den Satz: ""Die Jugendlichen sprechen fast kein Russisch mehr.""",,99.0,vocitrainer,,,11,9Pgg0EH9cqJ91Gz3x1OpSp
+16191,deu,"Übersetzen Sie den Satz: ""Ich muss keine Brille mehr tragen.""",,99.0,vocitrainer,,,10,2N0TX5Davwu64oQBpueJLi
+16193,deu,"Übersetzen Sie den Satz: ""Ich verdiene doppelt so viel wie du.""",,99.0,vocitrainer,,,11,1Rap5L1Fksq8PngQ349sEn
+16195,deu,"Übersetzen Sie den Satz: ""Ich kann verstehen, warum Sie Tom nicht mögen.""",,99.0,vocitrainer,,,12,aqeEnb0njSqahJfm6okTXL
+16197,deu,"Übersetzen Sie den Satz: ""Blumen wachsen in warmen Ländern.""",,99.0,vocitrainer,,,9,9zLvNMpU03F9jO6pQcQrwC
+16199,deu,"Übersetzen Sie den Satz: ""Sie wollen bei der Metro arbeiten?""",,99.0,vocitrainer,,,10,3I8zTxp4joS9OJAdYGNAWm
+16201,deu,"Übersetzen Sie den Satz: ""Kann ich mit Karte zahlen?""",,99.0,vocitrainer,,,9,16xcc0TbvVB9omhygR1xCj
+16203,deu,"Übersetzen Sie den Satz: ""Ich hatte nichts zum Abendessen.""",,99.0,vocitrainer,,,9,aY8cxgbXpXy7WoQdHMstpj
+16205,deu,"Übersetzen Sie den Satz: ""Ich will kein Abendessen.""",,99.0,vocitrainer,,,8,5Zxs9pMMC7a7Y8WXNzpmrl
+16207,deu,"Übersetzen Sie den Satz: ""Tom macht gerade Abendessen.""",,99.0,vocitrainer,,,8,41ByccZilFQ5YkiANrER8q
+16210,deu,"Übersetzen Sie den Satz: ""Ich kann keinen Alkohol trinken.""",,99.0,vocitrainer,,,9,2MFDue9qIWG7VryMKoM6Sy
+16213,deu,"Übersetzen Sie den Satz: ""Sie war dem Alkohol nicht abgeneigt.""",,99.0,vocitrainer,,,10,ucOBtxkZU87ZJOpioLOMD
+16215,deu,"Übersetzen Sie den Satz: ""Ich esse gerade einen Apfel.""",,99.0,vocitrainer,,,9,7bpj0A6OQX08cG63HKRukv
+16217,deu,"Übersetzen Sie den Satz: ""Unter dem Schreibtisch liegt ein Apfel.""",,99.0,vocitrainer,,,10,7hVkkQbu91q9vZtnreIHxB
+16219,deu,"Übersetzen Sie den Satz: ""Wie schmeckt der Apfel?""",,99.0,vocitrainer,,,8,9L2DPQihowm6jTMzjBi8PG
+16221,deu,"Übersetzen Sie den Satz: ""Ich esse eine Banane.""",,99.0,vocitrainer,,,8,5yuZLytnry1a4sB8y2Aw1q
+16223,deu,"Übersetzen Sie den Satz: ""Tom isst eine Banane.""",,99.0,vocitrainer,,,8,1DzH233jIxu73FV9oh5Plo
+16225,deu,"Übersetzen Sie den Satz: ""Ich stehe unter dem Baum.""",,99.0,vocitrainer,,,9,4c0NyyWA9M371lNjiJ8lxO
+16227,deu,"Übersetzen Sie den Satz: ""Tom pflanzte einen Baum.""",,99.0,vocitrainer,,,8,576yT4CMT9x9BAqqjHLAq7
+16229,deu,"Übersetzen Sie den Satz: ""Tom pflückte einen Apfel vom Baum.""",,99.0,vocitrainer,,,10,5b67U1YWuyj8LnILOyK7MI
+16231,deu,"Übersetzen Sie den Satz: ""Sie mag Bier lieber als Wein.""",,99.0,vocitrainer,,,10,6QwPzeZOCVV7PUThUnuWub
+16233,deu,"Übersetzen Sie den Satz: ""Französisches Brot schmeckt gut.""",,99.0,vocitrainer,,,8,60GW9j7TQHZ6CJK2xDmBmL
+16235,deu,"Übersetzen Sie den Satz: ""Ich muss noch Brot kaufen.""",,99.0,vocitrainer,,,9,FHSOGiJQOq8VbBNfCmetN
+16237,deu,"Übersetzen Sie den Satz: ""Wer hat das Brot gegessen?""",,99.0,vocitrainer,,,9,3qjQXviUSlo9MQel0h0Zhx
+16239,deu,"Übersetzen Sie den Satz: ""Sie macht Diät, um abzunehmen.""",,99.0,vocitrainer,,,9,6wc73J555iU6PIBnO6BLRy
+16241,deu,"Übersetzen Sie den Satz: ""Sie müssen eine Diät halten.""",,99.0,vocitrainer,,,9,1O8yCNmy16xnBE4BWT66
+16243,deu,"Übersetzen Sie den Satz: ""Wer ist auf Diät?""",,99.0,vocitrainer,,,8,5XvF8lxKprK7aGFvYvFmBP
+16245,deu,"Übersetzen Sie den Satz: ""Wir sind gerade auf Diät.""",,99.0,vocitrainer,,,9,41UcyHdLXH1aN3O9nWvAom
+16247,deu,"Übersetzen Sie den Satz: ""Er isst ein Ei.""",,99.0,vocitrainer,,,8,2SmU2SslVD89pUWjETbJyg
+16249,deu,"Übersetzen Sie den Satz: ""Ich esse jeden Tag zum Frühstück ein gekochtes Ei.""",,99.0,vocitrainer,,,13,3khI7qFdxni8Pdsc2aZoSJ
+16251,deu,"Übersetzen Sie den Satz: ""Tom kocht ein Ei.""",,99.0,vocitrainer,,,8,41jdal63ST36LQ5ylStDZy
+16253,deu,"Übersetzen Sie den Satz: ""Was war zuerst da, das Huhn oder das Ei?""",,99.0,vocitrainer,,,13,aP1ajNPEucl90GxMnthhJC
+16255,deu,"Übersetzen Sie den Satz: ""Ich will kein Fleisch.""",,99.0,vocitrainer,,,8,9a9NKzaSYyf9TVHso09nri
+16257,deu,"Übersetzen Sie den Satz: ""Tom isst kein Fleisch.""",,99.0,vocitrainer,,,8,EK4KKTkrd2aBIfWyNZi1Y
+16259,deu,"Übersetzen Sie den Satz: ""Tom isst kein rotes Fleisch.""",,99.0,vocitrainer,,,9,4dff78bzt8R60FxdO5Y6Nh
+16261,deu,"Übersetzen Sie den Satz: ""Tom mag sowohl Fleisch als auch Fisch.""",,99.0,vocitrainer,,,11,42yfv1ipMPO9oDfqnGs5gK
+16263,deu,"Übersetzen Sie den Satz: ""Was hast du zum Frühstück gegessen?""",,99.0,vocitrainer,,,10,7LMRzk2AIQb6ZR4NGNrZrB
+16265,deu,"Übersetzen Sie den Satz: ""Warum essen Sie kein Gemüse?""",,99.0,vocitrainer,,,9,5wYovvDQuhZ9vFb4XoThlg
+16267,deu,"Übersetzen Sie den Satz: ""Ich trinke gerne Kaffee ohne Zucker.""",,99.0,vocitrainer,,,10,41AgfBmfEeC685D4yspT0m
+16269,deu,"Übersetzen Sie den Satz: ""Meine Liebe, biete doch den Gästen Kaffee an!""",,99.0,vocitrainer,,,12,6HQoASZy6b7dsHrvQFsDr
+16271,deu,"Übersetzen Sie den Satz: ""Trinkst du einen Kaffee?""",,99.0,vocitrainer,,,8,7gIDvWH588l7B38aBJlYnd
+16273,deu,"Übersetzen Sie den Satz: ""Sie ist kein guter Koch.""",,99.0,vocitrainer,,,9,aFXIk2YdxOp9FOZIPShiQ5
+16275,deu,"Übersetzen Sie den Satz: ""Ich habe Kochen gelernt.""",,99.0,vocitrainer,,,8,97mJJZCTHy59NwNc25aUAq
+16277,deu,"Übersetzen Sie den Satz: ""Ich kann überhaupt nicht kochen.""",,99.0,vocitrainer,,,9,3QPOeR2NFwZ8UF1aZNCIy7
+16279,deu,"Übersetzen Sie den Satz: ""Seine Tochter kann nicht kochen.""",,99.0,vocitrainer,,,9,67d6GGvf5qDad2jIxlHazL
+16281,deu,"Übersetzen Sie den Satz: ""Tom kann nicht kochen.""",,99.0,vocitrainer,,,8,6kEkIX5CHwtaH7hylPWMs6
+16283,deu,"Übersetzen Sie den Satz: ""Tom lehrte mich kochen.""",,99.0,vocitrainer,,,8,15lJTTd7ChCah9fCEQs7Sk
+16285,deu,"Übersetzen Sie den Satz: ""Zwiebeln kochen schneller als Kartoffeln.""",,99.0,vocitrainer,,,9,9FDg6wxMjmc8PvFBSDy9R9
+16287,deu,"Übersetzen Sie den Satz: ""Tom legte den Löffel weg und nahm eine Gabel.""",,99.0,vocitrainer,,,13,1KRjV62IvV69ORMG1QwKXJ
+16289,deu,"Übersetzen Sie den Satz: ""Er kaufte viel Mehl und Öl.""",,99.0,vocitrainer,,,10,4fQPwTu6gcy8EYkU3UnTd3
+16291,deu,"Übersetzen Sie den Satz: ""Ich habe das Fahrrad mit Öl geschmiert.""",,99.0,vocitrainer,,,11,7YWFOkFGe3G7NaKfLe5K55
+16293,deu,"Übersetzen Sie den Satz: ""Ich bin von der Arbeit sehr müde.""",,99.0,vocitrainer,,,11,37JMdmzgZj78jEV7EiqelI
+16295,deu,"Übersetzen Sie den Satz: ""Ich muss die Arbeit bis vier Uhr abgeschlossen haben.""",,99.0,vocitrainer,,,13,4niyzvsJYS1aWXXNQKhEXR
+16297,deu,"Übersetzen Sie den Satz: ""Ich setze meine Arbeit fort.""",,99.0,vocitrainer,,,9,3Fe4q9U76A56oJZi5zqnHP
+16299,deu,"Übersetzen Sie den Satz: ""Tom fährt mit dem Auto zur Arbeit.""",,99.0,vocitrainer,,,11,1k7nmPYraCw79cUhaks5V3
+16301,deu,"Übersetzen Sie den Satz: ""Unsere Arbeit hört nie auf.""",,99.0,vocitrainer,,,9,7tLStIOvbJw7YOU0ZFxDV3
+16303,deu,"Übersetzen Sie den Satz: ""Arbeiten Sie mit Tom zusammen?""",,99.0,vocitrainer,,,9,89tZQWSK5ij5PQ5eRGLDZn
+16305,deu,"Übersetzen Sie den Satz: ""Ein Mensch muss arbeiten.""",,99.0,vocitrainer,,,8,mV4QADocTt9f3Yg8nGkkT
+16307,deu,"Übersetzen Sie den Satz: ""Er will nicht in einer Fabrik arbeiten.""",,99.0,vocitrainer,,,11,1InasFAGZAVaPpFoR3WU6f
+16309,deu,"Übersetzen Sie den Satz: ""Ich gab vor zu arbeiten.""",,99.0,vocitrainer,,,9,4atw6Z3rODd96OZ0emzhds
+16311,deu,"Übersetzen Sie den Satz: ""Ich war am Arbeiten.""",,99.0,vocitrainer,,,8,9Eo96xKGbKb8b8q3uQroYL
+16313,deu,"Übersetzen Sie den Satz: ""Wo ist der Arzt?""",,99.0,vocitrainer,,,8,8ENWTrHFVin6BsnWiNx1Uy
+16315,deu,"Übersetzen Sie den Satz: ""Ich konnte die Aufgabe leicht lösen.""",,99.0,vocitrainer,,,10,1U3PcacMcyR6yz8iQUhEKX
+16317,deu,"Übersetzen Sie den Satz: ""Ich bin zur Bank gegangen.""",,99.0,vocitrainer,,,9,1ZeDiqkNkYA8cJ70FVlH7G
+16319,deu,"Übersetzen Sie den Satz: ""Sie arbeitet in einer Bank.""",,99.0,vocitrainer,,,9,2wKTIhP5qRf9SLmmcggFe4
+16321,deu,"Übersetzen Sie den Satz: ""Wir bauen Reis an.""",,99.0,vocitrainer,,,8,3NzjJ1Ureq68iBW2VbQTIA
+16323,deu,"Übersetzen Sie den Satz: ""Wir werden eine Mauer bauen.""",,99.0,vocitrainer,,,9,KHyQDuF2fn5VUppQfejlR
+16325,deu,"Übersetzen Sie den Satz: ""Was sind Sie von Beruf?""",,99.0,vocitrainer,,,9,6zdKh9B1HQX7usSq95bwBL
+16327,deu,"Übersetzen Sie den Satz: ""Meine Mutter arbeitet in einem großen Büro.""",,99.0,vocitrainer,,,11,631RzraO4JS8OkU4w0LI2z
+16329,deu,"Übersetzen Sie den Satz: ""Sie arbeitet als Sekretärin in einem Büro.""",,99.0,vocitrainer,,,11,ZvAcym7xaN98kSaEHIJo8
+16331,deu,"Übersetzen Sie den Satz: ""Was macht sie denn jetzt in seinem Büro?""",,99.0,vocitrainer,,,12,9GeG42FG4zA9ZBvEFCgOXt
+16333,deu,"Übersetzen Sie den Satz: ""Tom weiß nicht, wie man einen Computer bedient.""",,99.0,vocitrainer,,,12,1RfHgflxIm07xPAlYCzZp8
+16335,deu,"Übersetzen Sie den Satz: ""Die Erfahrung ist eine gute Lehrmeisterin.""",,99.0,vocitrainer,,,10,4LPmO49Lg2y6BDpqBTzXiC
+16337,deu,"Übersetzen Sie den Satz: ""Erfahrung ist der beste Lehrer.""",,99.0,vocitrainer,,,9,qhhGMybR3Q88W49h49GcH
+16339,deu,"Übersetzen Sie den Satz: ""Ich habe mehr Erfahrung als Tom.""",,99.0,vocitrainer,,,10,7VTCPEeBUKD6bYzU2It4PD
+16341,deu,"Übersetzen Sie den Satz: ""Tom hat keine politische Erfahrung.""",,99.0,vocitrainer,,,9,9scHqMrjxpH8rfeIV8Mxy4
+16343,deu,"Übersetzen Sie den Satz: ""Dein Erfolg ist die Frucht deiner harten Arbeit.""",,99.0,vocitrainer,,,12,2K2JIfi0HCz8qOlwHxq3UL
+16345,deu,"Übersetzen Sie den Satz: ""Sie beneidet mich um meinen Erfolg.""",,99.0,vocitrainer,,,10,66xM6rGM7TF7nQiGx93RXp
+16347,deu,"Übersetzen Sie den Satz: ""Sein Gehalt ist doppelt so hoch wie vor sieben Jahren.""",,99.0,vocitrainer,,,14,557e3FGh2pD5RMGRSOGRpJ
+16349,deu,"Übersetzen Sie den Satz: ""Er beschwert sich ständig über seinen niedrigen Lohn.""",,99.0,vocitrainer,,,12,4saJwiBNU6q9yn6dgd9y9I
+16351,deu,"Übersetzen Sie den Satz: ""George ist der Kapitän unserer Mannschaft.""",,99.0,vocitrainer,,,10,3XbMKf1WFVlaM9KdJ5ZmaK
+16353,deu,"Übersetzen Sie den Satz: ""Wir haben die Qualität verbessert.""",,99.0,vocitrainer,,,9,4HIuh80HceV8IQe6rM2iQm
+16355,deu,"Übersetzen Sie den Satz: ""Tom hat schon eine Arbeit gefunden.""",,99.0,vocitrainer,,,10,NJNzzKHkwv91C9PnozWo1
+16357,deu,"Übersetzen Sie den Satz: ""Sie hat die Stelle abgelehnt.""",,99.0,vocitrainer,,,9,2Ksz1zmcCJV7p2Bs8RJubu
+16359,deu,"Übersetzen Sie den Satz: ""Er ist ein sehr geschickter Zahnarzt.""",,99.0,vocitrainer,,,10,469AxYb44PCaauPuBKkyn5
+16361,deu,"Übersetzen Sie den Satz: ""Tom ging zum Zahnarzt.""",,99.0,vocitrainer,,,8,6yj31QbCnTU8SFcjGRgQ8r
+16363,deu,"Übersetzen Sie den Satz: ""Ich mag keine Wissenschaft.""",,99.0,vocitrainer,,,8,4YIuymajtCq6JlVQc2olk4
+16365,deu,"Übersetzen Sie den Satz: ""Ich mag sowohl Wissenschaft als auch Mathematik.""",,99.0,vocitrainer,,,11,Ugmxg7qAyy8PpAfIk744g
+16367,deu,"Übersetzen Sie den Satz: ""Wissenschaft basiert auf äußerst sorgfältiger Beobachtung.""",,99.0,vocitrainer,,,10,7xu2y0fyMWX6CYGZf5DFKm
+16369,deu,"Übersetzen Sie den Satz: ""Wissenschaft beruht auf Beobachtung.""",,99.0,vocitrainer,,,8,6SMJx5LzkdRaa8beRO2I8P
+16371,deu,"Übersetzen Sie den Satz: ""Die Zeiten ändern sich.""",,99.0,vocitrainer,,,8,9SlNZSiBMJJ6ifKBMAuSnY
+16373,deu,"Übersetzen Sie den Satz: ""Tom muss seine Einstellung ändern.""",,99.0,vocitrainer,,,9,atTXuD50M4w61WJvk3bCB8
+16375,deu,"Übersetzen Sie den Satz: ""Vielleicht ändern sich die Preise.""",,99.0,vocitrainer,,,9,8YFRER8UV216rVYUfRr2xL
+16377,deu,"Übersetzen Sie den Satz: ""Dieser Satz kann im Grunde alles bedeuten.""",,99.0,vocitrainer,,,11,7q3VmXbCBJr7C4oDxUwiJs
+16379,deu,"Übersetzen Sie den Satz: ""Was hat das zu bedeuten?""",,99.0,vocitrainer,,,9,7AdMNmXcaEp7fpdwwxFJd9
+16381,deu,"Übersetzen Sie den Satz: ""Ich habe vor, im Hotel zu bleiben.""",,99.0,vocitrainer,,,11,3527HW425iH8iLtp7Hoass
+16383,deu,"Übersetzen Sie den Satz: ""Ihr braucht nicht zu bleiben.""",,99.0,vocitrainer,,,9,4CdXcgYIYUi7DdtdcXErIN
+16385,deu,"Übersetzen Sie den Satz: ""Wie lange wirst du bleiben?""",,99.0,vocitrainer,,,9,9yqkw8iiYgh9rVQQXTDN3u
+16387,deu,"Übersetzen Sie den Satz: ""Sie denken zu viel nach.""",,99.0,vocitrainer,,,9,aA6rgd7xtUX7UgKLBiuiYF
+16389,deu,"Übersetzen Sie den Satz: ""Was erwarten Sie von uns?""",,99.0,vocitrainer,,,9,am13yjDnMyZ9MCm1WQTIH3
+16391,deu,"Übersetzen Sie den Satz: ""Schwalben fliegen am Himmel.""",,99.0,vocitrainer,,,8,cjdMzThbAs7N2hCtGYLNE
+16393,deu,"Übersetzen Sie den Satz: ""Schweine können nicht fliegen.""",,99.0,vocitrainer,,,8,770YSwmalyU9nHyBpxuj7I
+16395,deu,"Übersetzen Sie den Satz: ""Es war kaum zu glauben.""",,99.0,vocitrainer,,,9,7S2WBDtAZzq9PUkfUbDyJG
+16397,deu,"Übersetzen Sie den Satz: ""Glauben Sie an Gott?""",,99.0,vocitrainer,,,8,8HiWtPKNzEdaPAbazWPJDC
+16399,deu,"Übersetzen Sie den Satz: ""Glauben Sie an Wunder?""",,99.0,vocitrainer,,,8,7huAUlUOoli7CcXLjRnAWH
+16401,deu,"Übersetzen Sie den Satz: ""Sie glauben an Gott.""",,99.0,vocitrainer,,,8,7WQnVtdcxM29M5g9AZ6ZPW
+16403,deu,"Übersetzen Sie den Satz: ""Ja, wie viel kosten sie?""",,99.0,vocitrainer,,,9,4NQv5ftBsUg7lMtWtLxh6o
+16405,deu,"Übersetzen Sie den Satz: ""Kein Wesen kann ohne Luft leben.""",,99.0,vocitrainer,,,10,1uFekPKy4VsajAqYjLCI3y
+16407,deu,"Übersetzen Sie den Satz: ""Leben in Dänemark Pinguine?""",,99.0,vocitrainer,,,8,4IFW4D7lkTZ6LuegMTYWE8
+16409,deu,"Übersetzen Sie den Satz: ""Kätzchen regieren die Welt.""",,99.0,vocitrainer,,,8,3QcacrJxlTl6CWMqDItLSI
+16411,deu,"Übersetzen Sie den Satz: ""Ich konnte nicht sprechen.""",,99.0,vocitrainer,,,8,aLs8ZVFtW708Ujj36IMDaZ
+16413,deu,"Übersetzen Sie den Satz: ""Toshio kann sehr gut Englisch sprechen.""",,99.0,vocitrainer,,,10,4nczwhomd0d9lhZDvvfcu8
+16415,deu,"Übersetzen Sie den Satz: ""Viele Menschen sprechen nur eine Sprache.""",,99.0,vocitrainer,,,10,2Bi2oK1Qj7f9J4jAY9c6L1
+16417,deu,"Übersetzen Sie den Satz: ""Katzen tragen kein Halsband.""",,99.0,vocitrainer,,,8,7SWpdhViwDf9W5nu4a5bfl
+16419,deu,"Übersetzen Sie den Satz: ""Tom braucht keine Brille mehr zu tragen.""",,99.0,vocitrainer,,,11,aoUUQaQ8S9da5uUWLwRX1S
+16421,deu,"Übersetzen Sie den Satz: ""Ich verdiene hundert Euro am Tag.""",,99.0,vocitrainer,,,10,7TPHu9elNpL8yPKAajtmj2
+16423,deu,"Übersetzen Sie den Satz: ""Frauen verdienen weniger als Männer.""",,99.0,vocitrainer,,,9,oEnJFwVIJk95vQuUJUYHW
+16425,deu,"Übersetzen Sie den Satz: ""Geld verdienen ist seine Religion.""",,99.0,vocitrainer,,,9,6gZTRjjKDNR8FGExRASuda
+16427,deu,"Übersetzen Sie den Satz: ""Sie wird das verstehen.""",,99.0,vocitrainer,,,8,8jNVPpAHU6v5AaDVBlrnVi
+16429,deu,"Übersetzen Sie den Satz: ""Wir konnten einander verstehen.""",,99.0,vocitrainer,,,8,U6TQc0vuyq6FWHMXJqdfW
+16431,deu,"Übersetzen Sie den Satz: ""Wir verstehen überhaupt kein Englisch.""",,99.0,vocitrainer,,,9,aBjl8FoRlIMa1Xyx9Jyj03
+16433,deu,"Übersetzen Sie den Satz: ""Diese Blumen wachsen in warmen Ländern.""",,99.0,vocitrainer,,,10,5Cw8PLUpiFJ5LOVYkUqlaf
+16435,deu,"Übersetzen Sie den Satz: ""Sie wollen Englisch lernen.""",,99.0,vocitrainer,,,8,9ZjiNghOyiV97NsvhEMd5A
+16437,deu,"Übersetzen Sie den Satz: ""Sie zahlen per Scheck.""",,99.0,vocitrainer,,,8,6IUS4oNLBvA5yUHGwhUvWy
+16446,deu,"Übersetzen Sie den Satz: ""Dieses Land ist reich an Öl.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,962mrGcNQwF7ZT6a7qTJPy
+16448,deu,"Übersetzen Sie den Satz: ""Er hat ein Abendessen bestellt.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,9,aPugswFNhph7cT4RrMxTLX
+16449,deu,"Übersetzen Sie den Satz: ""Das Pferd lief schnell.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,8,69pW5sd6XrT7Yr5loOjqEv
+16450,deu,"Übersetzen Sie den Satz: ""Ich habe trockene Haut.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,8,8bGDmVMDiGB8i5ZHt3NR8D
+16451,deu,"Übersetzen Sie den Satz: ""Du hast mich gut beraten.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,9,6QnTw6oPdAW6fA7KYM2fSp
+16452,deu,"Übersetzen Sie den Satz: ""Hat er dir die Wahrheit gesagt?""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,asNTC1gQ0lp5SopMOUsNx6
+16453,deu,"Übersetzen Sie den Satz: ""Hast du das Gedicht auswendig gelernt?""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,61Tm1IZkPhU6QNmtQzZg7i
+16454,deu,"Übersetzen Sie den Satz: ""Salz ist eine nützliche Substanz.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,9,6zPjTy833D59aZzLDIbWZm
+16455,deu,"Übersetzen Sie den Satz: ""Ich muss es versuchen.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,8,5yVETHAkrRQ5ADDwWx4r1j
+16456,deu,"Übersetzen Sie den Satz: ""Wir konnten unsere Reise aus Mangel an Geld nicht fortsetzen.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,14,4QRtOjeYvWS6fhs5kl8ofv
+16457,deu,"Übersetzen Sie den Satz: ""Ich bin mir der Tatsache bewusst.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,3shcVxthlCc7FpmeJtGC8d
+16458,deu,"Übersetzen Sie den Satz: ""Tom will immer streiten.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,8,a4TZZEMj0yP76JMqTbIxsM
+16459,deu,"Übersetzen Sie den Satz: ""Er war sehr geduldig.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,8,WL290N1lf4aBWPeHFGaEV
+16460,deu,"Übersetzen Sie den Satz: ""Ich habe bis zum Alter von 6 in Osaka gelebt.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,14,1s7xqIc7WxpaX8FYMbsOmC
+16461,deu,"Übersetzen Sie den Satz: ""Ich schmücke das Klassenzimmer.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,8,4mUkoFtYwGs84XEFZXgaPO
+16462,deu,"Übersetzen Sie den Satz: ""Ich fürchte dich zu verlieren.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,9,QnEwgmeR9m7t1Tk5CCChT
+16463,deu,"Übersetzen Sie den Satz: ""Sie trägt normalerweise Jeans.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,8,3ygJZUwraxV9k7b0jDSspx
+16464,deu,"Übersetzen Sie den Satz: ""Das ist der heißeste Sommer seit 50 Jahren.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,12,5lE1tvB97br7DJ9NBMytqL
+16465,deu,"Übersetzen Sie den Satz: ""Am nächsten Sonntag ist ein Konzert.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,8ClzgedmNba8Ze6XXEeZD6
+16466,deu,"Übersetzen Sie den Satz: ""Das ist ein ziemlich riskanter Beruf.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,7cqOdwOFL4baRRW4DqmUzL
+16467,deu,"Übersetzen Sie den Satz: ""Das war deine Entscheidung.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,8,1km9hCN41BV62khkURH6ZC
+16468,deu,"Übersetzen Sie den Satz: ""Dieser Fluss fließt durch mein Dorf.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,42YSgeuy2xraEXSdwpNuwd
+16469,deu,"Übersetzen Sie den Satz: ""Darf ich mir dein Auto ausleihen?""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,8DALIA87DiAan3QoGCZ2ZK
+16470,deu,"Übersetzen Sie den Satz: ""Gesundheit ist wichtiger als Geld.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,9,4UDdi3f7Xt36r6quhmVIvM
+16471,deu,"Übersetzen Sie den Satz: ""Wo ist der Eingang des Museums?""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,aCo7Rp806Gz9P1TfuK3Ky1
+16472,deu,"Übersetzen Sie den Satz: ""Mein Herz hörte auf zu schlagen.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,10,3gFOZvoaLM065EUUl3q011
+16473,deu,"Übersetzen Sie den Satz: ""Dem Baby geht es gut.""",,117.0,api-trial-gabyteamq+1-at-gmail.com,,,9,2jjqWlkug3j7n22B5ueZXB
+16474,deu,"Übersetzen Sie den Satz: ""Er hat ein Abendessen bestellt.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,4whAO1CCohZ6xOWlNVyGII
+16475,deu,"Übersetzen Sie den Satz: ""Die Schlange verschlang einen Frosch.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,3sZuUnet3rd8KL4RWiW9rW
+16476,deu,"Übersetzen Sie den Satz: ""Tom hat ein Boot.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,29vtz9z1QX9aIDwcL0KUq9
+16477,deu,"Übersetzen Sie den Satz: ""Sie können Tom nicht ignorieren.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,3bNGSZ4NEkL6IEqmIT7ulB
+16478,deu,"Übersetzen Sie den Satz: ""Toms Eichhörnchen trug ein Kostüm.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,987Y7jb0AP97AU67kopMry
+16479,deu,"Übersetzen Sie den Satz: ""Der Affe fiel vom Baum.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,8fAahelRGO49Brf7RWaZOq
+16480,deu,"Übersetzen Sie den Satz: ""Ein Einrad hat ein Rad.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,8FFCG5MJll7PvhcSKN8lf
+16481,deu,"Übersetzen Sie den Satz: ""Er kommt einmal pro Monat her.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,4sC0tTJ8spUakNNkqCp01g
+16482,deu,"Übersetzen Sie den Satz: ""Ihr seid zu dünn.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,1vMMX0bRkmk5WSQjYxFoBc
+16483,deu,"Übersetzen Sie den Satz: ""Er fühlte sich von der Gesellschaft ausgeschlossen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,11,6O3bzqsWKFj9cIgZjBRSJB
+16484,deu,"Übersetzen Sie den Satz: ""Heute habe ich Geburtstag.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,32O3GBbrULGaqprRT2LZEJ
+16485,deu,"Übersetzen Sie den Satz: ""Alle diese Bücher gehören mir.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,9Fx8aBx7iPhaA8Fvyr9sBR
+16486,deu,"Übersetzen Sie den Satz: ""Ich habe nicht die Absicht, mich zu entschuldigen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,lK09O45k3B5KMGgsnRAzy
+16487,deu,"Übersetzen Sie den Satz: ""Es ist Zeit zu sterben.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,aNgMm6yGCre9Pwfl3u94r7
+16488,deu,"Übersetzen Sie den Satz: ""Ein Fremder näherte sich ihm.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,ajwF6DQeUs17oBSx6YJ3FD
+16489,deu,"Übersetzen Sie den Satz: ""Hast du von Toms Streit mit Mary gehört?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,K3XdaMgv9d5KhCeBUmy1C
+16490,deu,"Übersetzen Sie den Satz: ""Hunger ist der beste Koch.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,abauUITJnVVaH2aWatDXod
+16491,deu,"Übersetzen Sie den Satz: ""Auf dem Mond gibt es keine Luft.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,11,3ks6paRWVn6aN4OejH69J
+16492,deu,"Übersetzen Sie den Satz: ""Das Projekt ist im Gange.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,6rwXezI24Co8pf1FVXxRgN
+16493,deu,"Übersetzen Sie den Satz: ""Auf der Insel ist es ganzjährig warm.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,11,4JGFd2D9PoQ7YDZ5ZLAjTI
+16494,deu,"Übersetzen Sie den Satz: ""Mary beleidigte den Kellner.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,6SYjXWYBvvX6R7orjTgFpl
+16495,deu,"Übersetzen Sie den Satz: ""Er ist mein Nachbar.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,8HBWvPSu2qU9OwXdQJCvG7
+16496,deu,"Übersetzen Sie den Satz: ""Das Projekt ist eine Initiative der Gemeinde.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,11,3btRkZjsQ7Iar3zCZgEsAt
+16497,deu,"Übersetzen Sie den Satz: ""Die Preise werden steigen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,4PZx7sCf7KJ5UIRFBzdeQc
+16498,deu,"Übersetzen Sie den Satz: ""Besitzen Sie ein Auto?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,9CyhtiSEa7y98Ny9ZK9Ssv
+16499,deu,"Übersetzen Sie den Satz: ""Seine Arbeit hat mit Drucken zu tun.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,11,sbw0g2rjlb8w5yB7qhMrk
+16500,deu,"Übersetzen Sie den Satz: ""Hat sich das Klima verändert?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,6GH6R6LmhCl7CUQF7KDGBF
+16501,deu,"Übersetzen Sie den Satz: ""Ich bestellte ein Bier.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,zLr8ZjO5e4aBLw26p2vBD
+16502,deu,"Übersetzen Sie den Satz: ""Alle Wege führen nach Rom.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,avmBKuO4Ann8jr41lIhP3R
+16503,deu,"Übersetzen Sie den Satz: ""Er ist stolz auf seine Sammlung.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,aOBuzacyt4v8yAD3gJdpX0
+16504,deu,"Übersetzen Sie den Satz: ""Er isst eine Tomate.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,8PXPtxiLedV8HDdzDjA2vl
+16505,deu,"Übersetzen Sie den Satz: ""Die Statistik ist auf unserer Seite.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,rnCHah8tvv9ynL9PyDKL6
+16506,deu,"Übersetzen Sie den Satz: ""Die Summe der Kathetenquadrate ist gleich dem Hypotenusenquadrat.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,89LDEDnuUOr6ulX3abc8aH
+16507,deu,"Übersetzen Sie den Satz: ""Hier ist die Rechnung.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,aI11qb759BE8JfwDK17FXo
+16508,deu,"Übersetzen Sie den Satz: ""Sie lieben sich mit Leidenschaft.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,8E6BPI9vfPxa6wohlvPWPY
+16509,deu,"Übersetzen Sie den Satz: ""Der Vorhang ist gefallen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,2JmTzTAl5DT9qENDroEZNK
+16510,deu,"Übersetzen Sie den Satz: ""Der Kapitän kontrolliert das ganze Schiff.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,5D5bJJLyqUL8B2cFtgv1xu
+16511,deu,"Übersetzen Sie den Satz: ""Ich werde meinen Kommentar löschen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,5WeQ9ZmbpkN8DEIum0ONr8
+16512,deu,"Übersetzen Sie den Satz: ""Ist dieser Platz frei?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,jUX3IFN7NJ8sRQs7AXuK5
+16513,deu,"Übersetzen Sie den Satz: ""Der Glaube ist der Tod der Intelligenz.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,11,8WxHGasxI0b8Ce9bCD4eHG
+16514,deu,"Übersetzen Sie den Satz: ""Nicht alle Vögel können fliegen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,3IpV5Ae2ECP8E4qpPSD3Td
+16515,deu,"Übersetzen Sie den Satz: ""Was ist die Alternative?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,4k3wWS1jfMpabtEUgZEVHZ
+16516,deu,"Übersetzen Sie den Satz: ""Die Suppe ist zu heiß.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,4dvFV73hW8P8FfQvNqx7by
+16517,deu,"Übersetzen Sie den Satz: ""Das ist mein letztes Wort.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,1SMXV5yUfKr81KYvZ0hWwz
+16518,deu,"Übersetzen Sie den Satz: ""Darf ich dir jetzt etwas zu trinken anbieten?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,2N6NUePhrnG9zBS4vQi1nf
+16519,deu,"Übersetzen Sie den Satz: ""Babys fallen oft um.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,40WIZ5nBXo16QLL86qL85S
+16520,deu,"Übersetzen Sie den Satz: ""Wir haben ein interessantes Beispiel.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,3m5xBeptrjX6sXWY01ZyeS
+16521,deu,"Übersetzen Sie den Satz: ""Unser Kühlschrank ist kaputt.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,1kPwdngXMUQ6mivQ0HP1fe
+16522,deu,"Übersetzen Sie den Satz: ""Den Tapferen hilft das Glück.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,7B2qqgURXjo8s4R5CrNFW0
+16523,deu,"Übersetzen Sie den Satz: ""Der Bus kam zehn Minuten zu spät an.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,6yporZUjVspaPmw5Ne1i1m
+16524,deu,"Übersetzen Sie den Satz: ""Ich habe keinen Beweis.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,9MPeDvegmvUaXyVgsGQj7p
+16525,deu,"Übersetzen Sie den Satz: ""Eier können als Waffen verwendet werden.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,7QyLGZdrdksa083sk2PsOC
+16526,deu,"Übersetzen Sie den Satz: ""Er hat einen Fehler in fünf Zeilen gefunden.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,8ywMkH9nWq56kjCHFqTEkd
+16527,deu,"Übersetzen Sie den Satz: ""Das neue System hat sich als erfolgreich erwiesen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,9UoMwJOhSyv9tqtYRQO9OY
+16528,deu,"Übersetzen Sie den Satz: ""Sie entschieden sich, eine Brücke zu bauen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,11,7UfJ5QkHqAj9UwFIPoKr1p
+16529,deu,"Übersetzen Sie den Satz: ""Ich stelle Ihnen ein Rezept aus.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,9Kay00fmqhb9SISx9LJyZL
+16530,deu,"Übersetzen Sie den Satz: ""Das kann nicht wahr sein.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,5zOHU3j9n3x5JwyxdIFSmO
+16531,deu,"Übersetzen Sie den Satz: ""Das war ein Albtraum.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,3eYYB7e2WuDar6q2urQV0L
+16532,deu,"Übersetzen Sie den Satz: ""Wie ist die Temperatur?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,70n5ygiQosv6vRzl4jqmQm
+16533,deu,"Übersetzen Sie den Satz: ""Die Beduinen leben in der Wüste.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,3BzzH9UdJX49b54Dbp23x3
+16534,deu,"Übersetzen Sie den Satz: ""Das ist mein Lied!""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,4Ro18nFkZCJafOveC6is7X
+16535,deu,"Übersetzen Sie den Satz: ""Ich wollte Tom nicht beleidigen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,1jeqiuk8eeF6IvWzluDd4A
+16536,deu,"Übersetzen Sie den Satz: ""Am nächsten Sonntag ist ein Konzert.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,3mDw1hXnnbU9qKr4iehv2W
+16537,deu,"Übersetzen Sie den Satz: ""Der Tisch steht neben dem Kühlschrank.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,VFDVcTIlela7d27NHwxF6
+16538,deu,"Übersetzen Sie den Satz: ""Ich kann nicht an alles denken.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,5PkVs2UVNJUaaztBsEjiTY
+16539,deu,"Übersetzen Sie den Satz: ""Wo sind die Teller?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,atSbZH3xtqJ9Or8GECgCGj
+16540,deu,"Übersetzen Sie den Satz: ""Ich esse zu viel Fleisch.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,6aeuKgIKQED8Mafulhfm9f
+16541,deu,"Übersetzen Sie den Satz: ""Die Bank kannst du leicht finden.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,14z4iMHY2C59ksyPre5OWh
+16542,deu,"Übersetzen Sie den Satz: ""Der Junge besucht seine Oma.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,5rMnPKBAjoV6jgOizuThkH
+16543,deu,"Übersetzen Sie den Satz: ""Mark wird das Auto verkaufen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,27bT2HoJAAa8T2WGtN4P94
+16544,deu,"Übersetzen Sie den Satz: ""Der Kunde hat immer Recht.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,41TN12v14H58bTj4ISvIJk
+16545,deu,"Übersetzen Sie den Satz: ""Beide Mittel sind gefährlich.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,7Cmo2GRjI0u9aRhMpI9T7U
+16546,deu,"Übersetzen Sie den Satz: ""Der Staat konnte die Erwartungen der Bürger nicht erfüllen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,13,zlyDX2wtlU705Tf9MNTxo
+16547,deu,"Übersetzen Sie den Satz: ""Ah, so melkt man also eine Kuh?""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,11,aDrX2HomzHa5vpObCslqcG
+16548,deu,"Übersetzen Sie den Satz: ""Bienen geben uns Honig.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,8MXM21hhMUo7cWRRP8S9WS
+16549,deu,"Übersetzen Sie den Satz: ""Sie versucht die Existenz von Geistern zu beweisen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,3un91ymFGMEamNmovpqFsn
+16550,deu,"Übersetzen Sie den Satz: ""Fische leben im Meer.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,9YZrc1vidqAaEU8qUmMjLj
+16551,deu,"Übersetzen Sie den Satz: ""Ich konnte nicht ablehnen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,5Wl1IgiXymZ5SKzMlPZJOe
+16552,deu,"Übersetzen Sie den Satz: ""Tom ist unserer Gast.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,17GEPqu92hc8tX1acx8yNh
+16553,deu,"Übersetzen Sie den Satz: ""Am Anfang erschuf Gott den Himmel und die Erde.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,13,3sxn5DLdfzH6Il6PDAq2bX
+16554,deu,"Übersetzen Sie den Satz: ""Ich kann mich nicht erinnern, das versprochen zu haben.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,13,8GueZrRlD3z5Q6touYc85m
+16555,deu,"Übersetzen Sie den Satz: ""Er ging zum Zahnarzt.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,5TO68rRB0Gw8O9mmLzGhi6
+16556,deu,"Übersetzen Sie den Satz: ""Mein Herz hörte auf zu schlagen.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,10,7lvC5sZDSen9b11PUK5WFE
+16557,deu,"Übersetzen Sie den Satz: ""Der Priester ist Atheist.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,1BjJ1QW2tGq5M7mWftLQS1
+16558,deu,"Übersetzen Sie den Satz: ""Ich habe bis zum Alter von 6 in Osaka gelebt.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,14,4AzAS1x1gyA8eR2uKlvBHj
+16559,deu,"Übersetzen Sie den Satz: ""Die Woche ist vorüber.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,6SBVDdRbq6vaDu8eVuI3PG
+16560,deu,"Übersetzen Sie den Satz: ""Das ist kein Salz.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,aPfbdqXqQST5SULzztXr59
+16561,deu,"Übersetzen Sie den Satz: ""Uns geht das Benzin aus.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,3ZgDfEXK2pq8bOe1h7Ibym
+16562,deu,"Übersetzen Sie den Satz: ""Tom will immer streiten.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,8,4XZ8sEvsgUl5DMsGoE5ufp
+16563,deu,"Übersetzen Sie den Satz: ""Im Englischen steht das Verb vor dem Objekt.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,12,7gMjCj6HCx56S0r6T49hgj
+16564,deu,"Übersetzen Sie den Satz: ""Er hat ein bisschen Geld.""",,120.0,api-trial-gabyteamq+2-at-gmail.com,,,9,72svAJ5O9nM8zCAGeOk3W3
+16628,deu,Bitte übersetzen Sie den folgenden Satz ins Englische.Er freut sich auf den Geburtstag.,,8.0,demo,,,13,8odGUJfUtz5afXxxCANmVl
+16679,deu,Bitte übersetzen Sie den folgenden Satz.Hendrik trägt ein weisses Hemd.,,8.0,demo,,,10,9xMJgf5xv2q6UlMC5600WN
+16771,deu,"Übersetzen Sie den Satz: ""Ich esse zu viel Fleisch.""",,99.0,vocitrainer,,,9,644ZLYiHEix8WNcEmcPA5s
+16772,deu,"Übersetzen Sie den Satz: ""Ist das ein Apfel?""",,99.0,vocitrainer,,,8,3z37QpoRvUAasrYW8zf8EF
+16774,deu,"Übersetzen Sie den Satz: ""Wo ist mein Computer?""",,99.0,vocitrainer,,,8,1iYTIkDWZcE6BQOpbwKZEf
+16776,deu,"Übersetzen Sie den Satz: ""Niemand wird mir glauben.""",,99.0,vocitrainer,,,8,3tVcEcSvTrH96wSXqWpH7J
+16778,deu,"Übersetzen Sie den Satz: ""Tom mag weder Bier noch Wein.""",,99.0,vocitrainer,,,10,5rC3f2ovTQ062tjgXtAEaj
+16782,deu,"Übersetzen Sie den Satz: ""Obst und Gemüse sind unentbehrlich für eine ausgewogene Ernährung.""",,99.0,vocitrainer,,,13,3Xzk5RmH3zk63QPmPVJgGS
+16784,deu,"Übersetzen Sie den Satz: ""Er ist mit seiner Arbeit zufrieden.""",,99.0,vocitrainer,,,10,3DI7LFxBHJs7Gok77K1P0L
+16785,deu,"Übersetzen Sie den Satz: ""Die Bank kannst du leicht finden.""",,99.0,vocitrainer,,,10,19ZVjTFUecy6HVUsYdOorw
+16786,deu,"Übersetzen Sie den Satz: ""Sie kauft den Computer.""",,99.0,vocitrainer,,,8,26LRzNCzjee9y54WKJSZdf
+16788,deu,"Übersetzen Sie den Satz: ""Alle waren auf meinen Erfolg neidisch.""",,99.0,vocitrainer,,,10,3wboyUA2lGb5PHMOaLLQZx
+16790,deu,"Übersetzen Sie den Satz: ""Er bekommt ein gutes Gehalt.""",,99.0,vocitrainer,,,9,1hjhJptkSBmamvRBpLf0ET
+16791,deu,"Übersetzen Sie den Satz: ""Sie entschieden sich, eine Brücke zu bauen.""",,99.0,vocitrainer,,,11,mR9YF19Iz26Pd8qHeVF7w
+16792,deu,"Übersetzen Sie den Satz: ""Qualität ist wichtiger als Quantität.""",,99.0,vocitrainer,,,9,1XRMYExlYhS74jUVvtNRAE
+16793,deu,"Übersetzen Sie den Satz: ""Er erledigt seine Arbeit.""",,99.0,vocitrainer,,,8,7eTfVtqRfpY7Td4z2GqnTx
+16795,deu,"Übersetzen Sie den Satz: ""Tom hat angefangen, eine neue Arbeitsstelle zu suchen.""",,99.0,vocitrainer,,,12,170qdDeervx9NxUsZI6lyd
+16798,deu,"Übersetzen Sie den Satz: ""Ich habe Arbeit für dich.""",,99.0,vocitrainer,,,9,1J3hnnl4G4Y6QWxqSdUtwa
+16801,deu,"Übersetzen Sie den Satz: ""Ich trinke keinen Alkohol.""",,99.0,vocitrainer,,,8,1KQTaLm8ukV9AMUBSNVoLv
+16802,deu,"Übersetzen Sie den Satz: ""Dem jungen Ingenieur fehlte die Erfahrung.""",,99.0,vocitrainer,,,10,3PRqI22MDZ97Ve90JhXaTY
+16807,deu,"Übersetzen Sie den Satz: ""Ich möchte gern eine Tasse Kaffee.""",,99.0,vocitrainer,,,10,6U3QDognBVv9UxARNUV9Jg
+16808,deu,"Übersetzen Sie den Satz: ""Die Ökonomie ist keine exakte Wissenschaft.""",,99.0,vocitrainer,,,10,aDUqrwDMlFzabTZOtmYJLa
+16809,deu,"Übersetzen Sie den Satz: ""Die Ökonomie ist keine exakte Wissenschaft.""",,99.0,vocitrainer,,,10,ZolgnOR4J45zGrBCwrvD4
+16810,deu,"Übersetzen Sie den Satz: ""Ich will in bar bezahlt werden.""",,99.0,vocitrainer,,,10,B2WThFwMC9aiNtTroNYLZ
+16811,deu,"Übersetzen Sie den Satz: ""Ich will in bar bezahlt werden.""",,99.0,vocitrainer,,,10,4D6hh5irXkm7RrXZAr3LBD
+16815,deu,"Übersetzen Sie den Satz: ""Es ist mir nicht erlaubt, Alkohol zu trinken.""",,99.0,vocitrainer,,,12,4YDgSmYI3ZD8V1IZbbWbVa
+16816,deu,"Übersetzen Sie den Satz: ""Es ist mir nicht erlaubt, Alkohol zu trinken.""",,99.0,vocitrainer,,,12,9QxaSUb6SUL7IuvgPUJTSa
+16817,deu,"Übersetzen Sie den Satz: ""Es ist mir nicht erlaubt, Alkohol zu trinken.""",,99.0,vocitrainer,,,12,arTKWpWjE3y8TgZdgb3Tzt
+16818,deu,"Übersetzen Sie den Satz: ""Ich mag scharfes Essen nicht.""",,99.0,vocitrainer,,,9,1BlUQc8yJtLa7oJ7Ffprwk
+16819,deu,"Übersetzen Sie den Satz: ""Ich mag scharfes Essen nicht.""",,99.0,vocitrainer,,,9,96Ad9lTF1aW8tVAydstUnw
+16826,deu,"Übersetzen Sie den Satz: ""Dieser Löffel ist für Suppe gedacht.""",,99.0,vocitrainer,,,10,7tdnrdrMDFm6cTs9xegrNH
+16827,deu,"Übersetzen Sie den Satz: ""Dieser Löffel ist für Suppe gedacht.""",,99.0,vocitrainer,,,10,3ovitrjiuTsazplG1e3wJx
+16828,deu,"Übersetzen Sie den Satz: ""Dieser Baum ist so alt wie jener.""",,99.0,vocitrainer,,,11,95pzhSkM1q65wNIdT4aPYi
+16829,deu,"Übersetzen Sie den Satz: ""Dieser Baum ist so alt wie jener.""",,99.0,vocitrainer,,,11,6yZ1gvV09vsaN624mxeA0x
+16830,deu,"Übersetzen Sie den Satz: ""Dieser Baum ist so alt wie jener.""",,99.0,vocitrainer,,,11,4GqNkHC1xmMaA5YTrTkZbK
+16839,deu,"Übersetzen Sie den Satz: ""Ich möchte gern eine Tasse Kaffee.""",,99.0,vocitrainer,,,10,9TCArXl5FEn922UVFnQEpZ
+16956,deu,"Übersetzen Sie den Satz: ""Hunger ist der beste Koch.""",,99.0,vocitrainer,,,9,8v1U3wTu7C98DNyXHJS5lm
+16957,deu,"Übersetzen Sie den Satz: ""Hunger ist der beste Koch.""",,99.0,vocitrainer,,,9,5c4RY8GArrh8Ec16nLEP3n
+16958,deu,"Übersetzen Sie den Satz: ""Hunger ist der beste Koch.""",,99.0,vocitrainer,,,9,8Yd5looW4yU5xwqayPoxoM
+16970,deu,"Übersetzen Sie den Satz: ""Meine Mutter ist auf Diät.""",,99.0,vocitrainer,,,9,78bKVlX86jq7kXMVQM5a8Y
+16977,deu,"Übersetzen Sie den Satz: ""Meine Mutter ist auf Diät.""",,99.0,vocitrainer,,,9,2OepaNB2JnaajH3AKEosDL
+16978,deu,"Übersetzen Sie den Satz: ""Ich bestellte ein Bier.""",,99.0,vocitrainer,,,8,3F0qeDjG6hb94HTPKYKnzg
+16979,deu,"Übersetzen Sie den Satz: ""Dieses Land ist reich an Öl.""",,99.0,vocitrainer,,,10,6M94UtIpf5Y6blMVRXyDfI
+16980,deu,"Übersetzen Sie den Satz: ""Der Apfel ist noch nicht reif.""",,99.0,vocitrainer,,,10,3eYowzufkIs8k4RXSUuhTB
+16981,deu,"Übersetzen Sie den Satz: ""Der Apfel ist noch nicht reif.""",,99.0,vocitrainer,,,10,5P4KBoq4pYX8I8qOEdKC26
+16983,deu,"Übersetzen Sie den Satz: ""Die Henne legt fast jeden Tag ein Ei.""",,99.0,vocitrainer,,,12,4quzuwJPYGp7PqzLdaFCgI
+16987,deu,"Übersetzen Sie den Satz: ""Ich esse zu viel Fleisch.""",,99.0,vocitrainer,,,9,9hDSMgHpgD38swWSVUL2C7
+16988,deu,"Übersetzen Sie den Satz: ""Er ist mit seiner Arbeit zufrieden.""",,99.0,vocitrainer,,,10,89BgN5D8TaO6GGwiKLzhDi
+16989,deu,"Übersetzen Sie den Satz: ""Marias Vater machte Frühstück.""",,99.0,vocitrainer,,,8,9hR46oBwqWr5CzYM3EtTIE
+17025,deu,"Übersetzen Sie den Satz: ""Dieses Land ist reich an Öl.""",,99.0,vocitrainer,,,10,2qg0WhwkJ1MaTszf2FXGgV
+17113,deu,"Übersetzen Sie den Satz: ""Ich beschloss, Arzt zu werden.""",,99.0,vocitrainer,,,9,9ydBF6ZZG1J9iejKZ27pM7
+17114,deu,"Übersetzen Sie den Satz: ""Ich beschloss, Arzt zu werden.""",,99.0,vocitrainer,,,9,1WpKVZVDw8r6ESHDfFCu38
+17115,deu,"Übersetzen Sie den Satz: ""Diese Aufgabe ist zu viel für ihn.""",,99.0,vocitrainer,,,11,6ITkCOtgPFsa4r4LHh9ZSA
+17116,deu,"Übersetzen Sie den Satz: ""Diese Aufgabe ist zu viel für ihn.""",,99.0,vocitrainer,,,11,29v7aVosJSb5DWRrtioKMS
+17307,deu,"Übersetzen Sie den Satz: ""Marias Vater machte Frühstück.""",,99.0,vocitrainer,,,8,1lNjD8zOHRF9u11IV377FJ
+17649,deu,"Übersetzen Sie den Satz: ""Haben Sie Getränke ohne Alkohol?""",,99.0,vocitrainer,,,9,8tyeTa9qrrH94hC8IjghOk
+17854,deu,"Übersetzen Sie den Satz: ""Die Henne legt fast jeden Tag ein Ei.""",,99.0,vocitrainer,,,12,aixWqrPsegk7zcydCoDqa9
+17855,deu,"Übersetzen Sie den Satz: ""Dieses Brot riecht aber gut!""",,99.0,vocitrainer,,,9,8YOy4wzNcoq7Ir7g4SiDOP
+17856,deu,"Übersetzen Sie den Satz: ""Dieses Brot riecht aber gut!""",,99.0,vocitrainer,,,9,6dFUoJxXW9U9rTuOViqQxQ
+17882,deu,"Übersetzen Sie den Satz: ""Ich bestellte ein Bier.""",,99.0,vocitrainer,,,8,59OrB1jcV3v6oZ32Pn21af
+17974,deu,"Übersetzen Sie den Satz: ""Eine Banane ist gelb.""",,99.0,vocitrainer,,,8,3qPZYTV0mOE5Al01JZhXBf
+17975,deu,"Übersetzen Sie den Satz: ""Eine Banane ist gelb.""",,99.0,vocitrainer,,,8,jJhhh8leob5CjKlJJ3CX1
