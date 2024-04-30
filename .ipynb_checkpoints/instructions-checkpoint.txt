@@ -1,0 +1,3 @@
+To solve No Module Named textblob.translate
+$ conda install -c conda-forge textblob
+$ python -m textblob.download_corpora
