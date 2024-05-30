@@ -1,3 +1,4 @@
+accelerate==0.30.1
 adjustText==1.1.1
 aiobotocore @ file:///croot/aiobotocore_1701291493089/work
 aiohttp @ file:///croot/aiohttp_1707342283163/work
@@ -96,7 +97,7 @@ hpack==3.0.0
 hstspreload==2024.4.1
 httpcore==0.9.1
 httpx==0.13.3
-huggingface-hub @ file:///croot/huggingface_hub_1708634519519/work
+huggingface-hub==0.23.2
 hvplot @ file:///croot/hvplot_1706712387811/work
 hyperframe==5.2.0
 hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
@@ -139,8 +140,8 @@ jupyter_server @ file:///croot/jupyter_server_1699466442171/work
 jupyter_server_terminals @ file:///croot/jupyter_server_terminals_1686870725608/work
 jupyterlab @ file:///croot/jupyterlab_1706802623017/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///croot/jupyterlab_widgets_1709322880313/work
 jupyterlab_server @ file:///croot/jupyterlab_server_1699555425460/work
+jupyterlab_widgets==3.0.11
 keyring @ file:///croot/keyring_1709632513808/work
 kiwisolver @ file:///work/ci_py311/kiwisolver_1676827230232/work
 langcodes @ file:///home/conda/feedstock_root/build_artifacts/langcodes_1636741340529/work
@@ -326,7 +327,7 @@ tenacity @ file:///croot/tenacity_1682972284834/work
 terminado @ file:///work/ci_py311/terminado_1677696151350/work
 text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
 textaugment==2.0.0
-textblob==0.18.0.post0
+textblob==0.15.3
 textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
 thinc @ file:///home/conda/feedstock_root/build_artifacts/thinc_1703842188263/work
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
@@ -334,7 +335,7 @@ three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
 tifffile @ file:///croot/tifffile_1695107451082/work
 tinycss2 @ file:///work/ci_py311/tinycss2_1676823757641/work
 tldextract @ file:///opt/conda/conda-bld/tldextract_1646638314385/work
-tokenizers @ file:///croot/tokenizers_1708633814160/work
+tokenizers==0.19.1
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tomlkit @ file:///work/ci_py311/tomlkit_1676823218885/work
 toolz @ file:///work/ci_py311/toolz_1676827522705/work
@@ -344,7 +345,7 @@ torchvision==0.17.1
 tornado @ file:///croot/tornado_1696936946304/work
 tqdm @ file:///croot/tqdm_1679561862951/work
 traitlets @ file:///work/ci_py311/traitlets_1676823305040/work
-transformers @ file:///home/conda/feedstock_root/build_artifacts/transformers_1712066991208/work
+transformers==4.41.1
 Twisted @ file:///croot/twisted_1708702809815/work
 typer @ file:///home/conda/feedstock_root/build_artifacts/typer_1711217621866/work
 typing_extensions @ file:///croot/typing_extensions_1705599297034/work
