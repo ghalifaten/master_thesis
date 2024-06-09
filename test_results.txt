@@ -1,0 +1,1 @@
+{"cosine_accuracy": 0.8059701492537313, "dot_accuracy": 0.19900497512437812, "manhattan_accuracy": 0.7960199004975125, "euclidean_accuracy": 0.8059701492537313, "max_accuracy": 0.8059701492537313}

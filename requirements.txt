@@ -291,6 +291,7 @@ Scrapy @ file:///croot/scrapy_1708714682090/work
 seaborn @ file:///work/ci_py311/seaborn_1676845747354/work
 SecretStorage @ file:///work/ci_py311_2/secretstorage_1679339060489/work
 Send2Trash @ file:///croot/send2trash_1699371139552/work
+sentence-transformers==3.0.0
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
 shellingham @ file:///home/conda/feedstock_root/build_artifacts/shellingham_1698144360966/work
 simpful @ file:///home/conda/feedstock_root/build_artifacts/simpful_1710936277508/work
