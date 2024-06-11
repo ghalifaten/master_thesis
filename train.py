@@ -1,3 +1,4 @@
+import argparse
 import pickle 
 from datasets import DatasetDict, load_dataset
 from sentence_transformers import (
@@ -9,15 +10,19 @@ from sentence_transformers import losses
 from sentence_transformers.training_args import BatchSamplers
 from sentence_transformers.evaluation import TripletEvaluator
 import json 
-    
+import torch 
+
+parser = argparse.ArgumentParser()
+
 if __name__=="__main__":
-    dataset = load_dataset('json', data_files='data/dataset.json') 
-    print(dataset)
-"""
+    parser.add_argument('--lang', type=str, required=True, help='DE or EN')
+    args = parser.parse_args()
+    lang = args.lang.upper()
+    
     dataset = DatasetDict({
-    'train': load_dataset('json', data_files='data/train.json'),
-    'test': load_dataset('json', data_files='data/test.json'),
-    'validation': load_dataset('json', data_files='data/validation.json'),
+    'train': load_dataset('json', data_files=f"data/{lang}_train.json"),
+    'test': load_dataset('json', data_files=f"data/{lang}_test.json"),
+    'validation': load_dataset('json', data_files=f"data/{lang}_validation.json"),
     })
 
     train_dataset = dataset["train"]['train']
@@ -37,7 +42,7 @@ if __name__=="__main__":
         warmup_ratio=0.1,
         fp16=False,  # Set to False if you get an error that your GPU can't run on FP16
         bf16=False,  # Set to True if you have a GPU that supports BF16
-        batch_sampler=BatchSamplers.NO_DUPLICATES,  # MultipleNegativesRankingLoss benefits from no duplicate samples in a batch
+        batch_sampler=BatchSamplers.NO_DUPLICATES,  # from no duplicate samples in a batch
         # Optional tracking/debugging parameters:
         eval_strategy="steps",
         eval_steps=100,
@@ -47,12 +52,19 @@ if __name__=="__main__":
         logging_steps=500,
         # run_name="bert-tiny-triplet",  # Will be used in W&B if `wandb` is installed
     )
+    device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    print(f"Device used ('cuda' | 'cpu'): {device}")
+    model.to(device)
 
+    print("Define evaluator...")
     dev_evaluator = TripletEvaluator(
         anchors=eval_dataset["anchor"],
         positives=eval_dataset["positive"],
         negatives=eval_dataset["negative"],
+        batch_size=32,
+        show_progress_bar=True
     )
+
     dev_evaluator(model)
 
     # 7. Create a trainer & train
@@ -77,8 +89,12 @@ if __name__=="__main__":
     
     test = test_evaluator(model)
     print(test)
-    with open("test_results.txt", "w") as f: 
+    with open(f"{lang}_test_results.txt", "w") as f: 
         f.write(json.dumps(test))
     
     print("\nOK.")
+"""
+Batch Size: When using multiple GPUs, the effective batch size is num_gpus * per_device_train_batch_size. Adjust the per_device_train_batch_size accordingly to fit within your GPU memory constraints.
+
+Dataloader Workers: Increasing the number of dataloader_num_workers can improve data loading speed but be mindful of the system's available CPU resources.
 """

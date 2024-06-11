@@ -1,3 +1,4 @@
+import argparse
 import pickle 
 from datasets import Dataset, DatasetDict, concatenate_datasets
 from tqdm import tqdm
@@ -21,10 +22,16 @@ def create_dataset(data, batch_size, N):
             dataset = concatenate_datasets([dataset, batch_dataset])
         pbar.update(1)
     return dataset
+
+parser = argparse.ArgumentParser()
     
 if __name__=="__main__":
+    parser.add_argument('--lang', type=str, required=True, help='DE or EN')
+    args = parser.parse_args()
+    lang = args.lang.upper()
+    
     print("Loading triplets")
-    with open('data/triplets.pkl', 'rb') as f:
+    with open(f"data/triplets_{lang}.pkl", 'rb') as f:
         triplets = pickle.load(f) 
 
     # dataset = Dataset.from_dict(triplets) 
@@ -32,19 +39,17 @@ if __name__=="__main__":
     N = len(triplets["anchor"]) // batch_size
     dataset = create_dataset(triplets, batch_size, N)
 
-    # # Make splits: train, test, validation
-    # train_test = dataset.train_test_split(test_size=0.3)
-    # test_val = train_test["test"].train_test_split(test_size=0.33)
+    # Make splits: train, test, validation
+    train_test = dataset.train_test_split(test_size=0.3)
+    test_val = train_test["test"].train_test_split(test_size=0.33)
     
-    # # Recreate Dataset with the three splits 
-    # dataset_dict = DatasetDict({
-    #     'train': train_test['train'],
-    #     'test': test_val['train'],
-    #     'validation': test_val['test']
-    # })
+    # Recreate Dataset with the three splits 
+    dataset_dict = DatasetDict({
+        'train': train_test['train'],
+        'test': test_val['train'],
+        'validation': test_val['test']
+    })
 
-    # for split, dataset in dataset_dict.items():
-    #     json_file_path = f"data/{split}.json"
-    #     dataset.to_json(json_file_path)
-
-    dataset.to_json("data/dataset.json")
+    for split, dataset in dataset_dict.items():
+        json_file_path = f"data/{lang}_{split}.json"
+        dataset.to_json(json_file_path)
