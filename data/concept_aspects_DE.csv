@@ -1,0 +1,198 @@
+aspectId,description,type,groupId,categoryId
+0,8980,Die Antwort enthält die gesuchten Stichworte.,CONCEPT,,
+1,9787,"In der Antwort werden die Konzepte genannt, nach denen wir gesucht haben.",CONCEPT,,
+2,12472,Die Antwort enthält die gesuchten Stichworte: {{correctStatements}},CONCEPT,55249.0,
+3,12479,"Genau! Sie haben das Hauptkonzept verstanden.
+",CONCEPT,55249.0,
+4,20,Die Antwort enthält keine Rechtschreibfehler.,CONCEPT,152.0,
+5,12986,Die Antwort enthält keine Rechtschreibfehler.,CONCEPT,152.0,
+6,124,The learner is able to use spelling strategies correctly.,CONCEPT,55114.0,
+7,15321,Can correctly spell written text.,CONCEPT,2508.0,
+8,21,"Der Antwortsatz enthält alle Strukturelemente (Substantiv, Verb, Artikel usw.).",CONCEPT,111.0,
+9,4,Die Antwort wurde in einem Satz gegeben. ,CONCEPT,674.0,
+10,44,Ausführliche Anweisungen hinzufügen,CONCEPT,,
+11,12935,"Der Antwortsatz enthält alle Strukturelemente (Substantiv, Verb, Artikel usw.).",CONCEPT,111.0,
+12,82,Die Antwort wurde in einem Satz gegeben.,CONCEPT,2412.0,3.0
+13,14185,"Die lernende Person ist in der Lage, einen korrekten Satz zu schreiben.",CONCEPT,,
+14,14303,"Die lernende Person ist in der Lage, Rechtschreibstrategien korrekt anzuwenden.",CONCEPT,,
+15,174,"Die lernende Person ist in der Lage, Rechtschreibstrategien korrekt anzuwenden.",CONCEPT,55146.0,2.0
+16,84,Die Antwort wurde in der gewünschten Zeitform gegeben: Präsens.,CONCEPT,3871.0,1.0
+17,85,In der gegebenen Antwort stimmt die Verbform mit dem Subjekt (in Person und Zahl) überein.,CONCEPT,4017.0,1.0
+18,16585,Die Antwort wurde in der gewünschten Zeitform gegeben: Präsens.,CONCEPT,3871.0,
+19,87,Die Antwort verwendet die in der Aufgabenbeschreibung angegebenen Wörter.,CONCEPT,3910.0,3.0
+20,16624,Die Antwort verwendet die in der Aufgabenbeschreibung angegebenen Wörter.,CONCEPT,3910.0,
+21,16731,In der gegebenen Antwort stimmt die Verbform mit dem Subjekt (in Person und Zahl) überein.,CONCEPT,4017.0,
+22,163,Die Antwort wurde im geforderten Genus Verbi formuliert: Passiv,CONCEPT,3835.0,1.0
+23,16550,Die Antwort wurde im geforderten Genus Verbi formuliert: Passiv,CONCEPT,3835.0,
+24,1489,The ability to use the right input format.,CONCEPT,36094.0,
+25,1490,The ability to correctly match the verb to the subject.,CONCEPT,36107.0,
+26,1491,The ability to answer in the right language.,CONCEPT,,
+27,1492,Can correctly spell written text.,CONCEPT,36125.0,
+28,49047,Can correctly spell written text.,CONCEPT,36125.0,
+29,1498,The ability to convert text from one language to another.,CONCEPT,36344.0,
+30,49014,The ability to correctly match the verb to the subject.,CONCEPT,36107.0,
+31,49253,The ability to convert text from one language to another.,CONCEPT,36344.0,
+32,6736,Die Antwort wurde in der gewünschten Form gegeben: Partizip 2,CONCEPT,53248.0,3.0
+33,16664,Die Antwort verwendet die in der Aufgabenbeschreibung angegebenen Wörter.,CONCEPT,3910.0,
+34,16749,In der gegebenen Antwort stimmt die Verbform mit dem Subjekt (in Person und Zahl) überein.,CONCEPT,4017.0,
+35,66630,Die Antwort wurde in der gewünschten Form gegeben: Partizip 2,CONCEPT,53248.0,
+36,7359,"Der Antwortsatz enthält alle Strukturelemente (Substantiv, Verb, Artikel usw.).",CONCEPT,54616.0,
+37,7360,Es wurden keine Rechtschreibfehler gemacht.,CONCEPT,54439.0,
+38,67563,Es wurden keine Rechtschreibfehler gemacht.,CONCEPT,54439.0,
+39,67735,"Der Antwortsatz enthält alle Strukturelemente (Substantiv, Verb, Artikel usw.).",CONCEPT,54616.0,
+40,94,"Es wurde erkannt, dass das Gedicht 1950 entstand. ",CONCEPT,2436.0,5.0
+41,15190,"Es wurde erkannt, dass das Gedicht 1950 entstand. ",CONCEPT,2436.0,
+42,7438,,CONCEPT,,
+43,110000,"Die lernende Person ist in der Lage, den Inhalt korrekt anzuwenden.",CONCEPT,54898.0,
+44,68964,"Die lernende Person ist in der Lage, einen korrekten Satz zu schreiben. ",CONCEPT,55149.0,1.0
+45,110011,Die/Der Lernende hat das vorgegebene Verb verwendet.,CONCEPT,63058.0,3.0
+46,69525,Der Lernende hat das korrekte Verb verwendet.,CONCEPT,,
+47,110004,"Der Lernende ist in der Lage, das Modalverb richtig zu konjugieren.",CONCEPT,54995.0,1.0
+48,92070,"Der/Die Lernende hat das Verständnis, dass der Dampfdruck der Flüssigkeit gleich dem Umgebungsdruck ist. Daher fällt der Siedepunkt mit fallendem Umgebungsdruck, da der Siedepunkt direkt mit dem Dampfdruck der Flüssigkeit zusammenhängt.",CONCEPT,55175.0,5.0
+49,92494,"Der/Die Lernende hat verstanden, dass es bei bei der Verringerung des Siedepunkts einer Flüssigkeit um das Senken des Umgebungsdruck geht.",CONCEPT,55243.0,5.0
+50,184384,Die/Der Lernende gibt keine leere Antwort ab.,CONCEPT,76340.0,3.0
+51,184389,Die/Der Lernende hat keine Rechtschreib- oder Grammatikfehler gemacht.,CONCEPT,76253.0,7.0
+52,184394,Die/Der Lernende verwendet angemessene Sprache.,CONCEPT,135883.0,3.0
+53,184392,Die/Der Lernende gibt eine Antwort aus ganzen Wörtern ab.,CONCEPT,135881.0,3.0
+54,184390,Die/Der Lernende gibt eine zum Thema relevante Antwort.,CONCEPT,135879.0,3.0
+55,184429,Die/Der Lernende erklärt in der Antwort.,CONCEPT,135947.0,3.0
+56,184395,Die/Der Lernende begründet in der Antwort.,CONCEPT,135885.0,3.0
+57,198021,Die/Der Lernende nennt in der Antwort.,CONCEPT,147697.0,3.0
+58,198287,"Die/Der Lernende kann das Teilchenmodell verwenden, um verschiedene Konzepte zu erklären.",CONCEPT,147921.0,8.0
+59,184549,Die/Der Lernende beurteilt in der Antwort.,CONCEPT,136052.0,3.0
+60,198533,Die/Der Lernende kann die individuellen Bedürfnisse und Anforderungen verschiedener Personen analysieren,CONCEPT,148128.0,8.0
+61,198537,Die/Der Lernende kann die Kosten-Nutzen-Aspekte verschiedener Fahrzeugtypen analysieren.,CONCEPT,148134.0,8.0
+62,198541,Die/Der Lernende versteht die Umweltauswirkungen verschiedener Antriebsarten.,CONCEPT,148139.0,8.0
+63,198648,Die/Der Lernende vervollstaendigt einen Satz in der Antwort.,CONCEPT,148230.0,3.0
+64,198353,Die/Der Lernende antwortet in einer Aufzählung.,CONCEPT,147977.0,3.0
+65,199038,Die/Der Lernende kann Geschwindigkeiten umrechnen.,CONCEPT,148547.0,8.0
+66,214521,Die/Der Lernende kann durch mathematisches Berechnen eine Lösung finden,CONCEPT,158856.0,3.0
+67,208858,Die/Der Lernende kann einen Lösungsweg aufzeigen,CONCEPT,158755.0,3.0
+68,199018,Die/Der Lernende kennt verschiedene Bewegungsarten,CONCEPT,148531.0,8.0
+69,193514,Die/Der Lernende beschreibt in der Antwort.,CONCEPT,144222.0,3.0
+70,199535,Die/Der Lernende versteht das Konzept des elektrischen Widerstands.,CONCEPT,148935.0,8.0
+71,184531,Die/Der Lernende erläutert in der Antwort.,CONCEPT,136040.0,3.0
+72,184374,"Die/Der Lernende versteht, dass Magnete aus geordneten Elementarmagneten bestehen.",CONCEPT,135865.0,8.0
+73,184376,"Die/Der Lernende versteht, dass Zerteilungen des Magneten die grundlegende magnetische Eigenschaft nicht beeinflussen.",CONCEPT,135867.0,8.0
+74,184378,"Die/Der Lernende versteht, dass ein Magnet mit nur einem Nordpol oder nur einem Südpol nicht existieren kann, da die magnetische Polarität immer in Paaren auftritt.",CONCEPT,135868.0,8.0
+75,198017,Die/Der Lernende kann das Konzept der additiven Farbmischung verstehen.,CONCEPT,147692.0,8.0
+76,184919,"Die/Der Lernende versteht, dass der Kontakt mit elektrischen Systemen einen geschlossenen Stromkreis bilden kann.",CONCEPT,136341.0,8.0
+77,184537,Die/Der Lernende notiert die Antwort.,CONCEPT,136043.0,3.0
+78,198928,Die/Der Lernende kennt die Merkmale eines Hebels.,CONCEPT,148457.0,8.0
+79,199366,"Die/Der Lernende kann erklären, was eine Aussage über die Beschleunigungswerte eines Fahrzeugs bedeutet.",CONCEPT,148799.0,8.0
+80,188271,"Die/Der Lernende ist in der Lage, Elektrogeräte wie Glühlampen und Föhne aufzuzählen.",CONCEPT,139705.0,8.0
+81,193310,Die/Der Lernende nennt drei Geräte in der Antwort.,CONCEPT,143980.0,3.0
+82,203870,Die/Der Lernende verwendet angemessene Sprache.,CONCEPT,151846.0,3.0
+83,203872,Die/Der Lernende gibt eine zum Thema relevante Antwort.,CONCEPT,151847.0,3.0
+84,203874,Die/Der Lernende gibt keine leere Antwort ab.,CONCEPT,151848.0,3.0
+85,203876,Die/Der Lernende gibt eine Antwort aus ganzen Wörtern ab.,CONCEPT,151849.0,3.0
+86,215871,"Die/Der Lernende versteht, wie die Kontrolle des Körpers durch die getrennten Hirnhemisphären erfolgt.",CONCEPT,159789.0,8.0
+87,198605,Die/Der Lernende kennt die Unterschiede zwischen festen und losen Rollen,CONCEPT,148195.0,8.0
+88,199598,"Die/Der Lernende versteht, kann die Formel R = U x I richtig anwenden.",CONCEPT,155163.0,8.0
+89,199090,"Die/Der Lernende erkennt die Gefahren, die durch das Fehleinschätzen von Geschwindigkeiten im Straßenverkehr entstehen können",CONCEPT,148586.0,8.0
+90,186297,Die/Der Lernende gibt keine leere Antwort ab.,CONCEPT,138054.0,3.0
+91,189788,Die/Der Lernende verwendet angemessene Sprache.,CONCEPT,141046.0,3.0
+92,189782,Die/Der Lernende gibt eine Antwort aus ganzen Wörtern ab.,CONCEPT,141038.0,3.0
+93,189780,Die/Der Lernende gibt eine zum Thema relevante Antwort.,CONCEPT,141035.0,3.0
+94,189796,Die/Der Lernende begründet in der Antwort.,CONCEPT,141053.0,3.0
+95,190194,Die/Der Lernende erklärt in der Antwort.,CONCEPT,141490.0,3.0
+96,224122,Die/Der Lernende gibt keine leere Antwort ab.,CONCEPT,164422.0,675.0
+97,224123,Die/Der Lernende verwendet angemessene Sprache.,CONCEPT,164423.0,677.0
+98,224125,Die/Der Lernende gibt eine Antwort aus ganzen Wörtern ab.,CONCEPT,164424.0,676.0
+99,224127,Die/Der Lernende gibt eine zum Thema relevante Antwort.,CONCEPT,164425.0,3.0
+100,276966,Die/Der Lernende gibt keine leere Antwort ab.,CONCEPT,234443.0,3.0
+101,276968,Die/Der Lernende verwendet angemessene Sprache.,CONCEPT,234444.0,3.0
+102,276970,Die/Der Lernende gibt eine Antwort aus ganzen Wörtern ab.,CONCEPT,234445.0,3.0
+103,276972,Die/Der Lernende wendet die Regeln der Rechtschreibung an.,CONCEPT,234446.0,7.0
+104,265155,The learner does not give an empty answer.,CONCEPT,212335.0,3.0
+105,265157,The learner provides a valid mathematical expression.,CONCEPT,212336.0,756.0
+106,265173,The learner applies variables correctly.,CONCEPT,212364.0,756.0
+107,265175,The learner simplifies according to the rules.,CONCEPT,212365.0,756.0
+108,265161,The learner correctly takes into account the signs.,CONCEPT,212338.0,756.0
+109,277067,Das Verb im Indikativ im Hauptsatz ist an das Subjekt angeglichen.,CONCEPT,234650.0,16.0
+110,224682,Die Antwort entspricht der Aufgabenstellung.,CONCEPT,165207.0,8.0
+111,223149,Die Struktur der Antwort stimmt mit der Musterlösung überein.,CONCEPT,70635.0,15.0
+112,111251,Die/Der Lernende kann das Objekt des Aktivsatzes in das Subjekt eines Passivsatzes umformen.,CONCEPT,73522.0,11.0
+113,111406,Die/Der Lernende kann das Hilfsverb „werden“ in die richtige Form setzen.,CONCEPT,73618.0,11.0
+114,114929,Die/Der Lernende kann das Hilfsverb „sein“ ins Präsens setzen.,CONCEPT,76832.0,10.0
+115,224672,Die Antwort hat einen Inhalt.,CONCEPT,165111.0,3.0
+116,224652,Die Antwort ist im Rahmen der Aufgabenstellung.,CONCEPT,70826.0,13.0
+117,224680,Die Antwort enthält keine Rechtschreibfehler.,CONCEPT,55135.0,7.0
+118,224683,Die/Der Lernende hat keine Satzintegritätsfehler gemacht.,CONCEPT,76757.0,7.0
+119,109986,Die/Der Lernende kann Modalverben ins Präsens setzen.,CONCEPT,72550.0,10.0
+120,113590,Die/Der Lernende kann das Partizip II schwacher Verben bilden.,CONCEPT,74980.0,11.0
+121,110913,Die/Der Lernende kann das Hilfsverb „werden“ im Passiv ins Präsens setzen.,CONCEPT,73422.0,10.0
+122,111401,"Die/Der Lernende kann das Hilfsverb ""werden"" im Passiv ins Präteritum setzen.",CONCEPT,73616.0,10.0
+123,109994,Die/Der Lernende kann das Hilfsverb „werden“ im Passiv in den Infinitiv setzen.,CONCEPT,72554.0,11.0
+124,111415,Die/Der Lernende kann Modalverben ins Präteritum setzen.,CONCEPT,73637.0,10.0
+125,92482,"Der/Die Lernende hat verstanden, dass die Flüssigkeit beim Verdampfen vom Flüssigen in den Gasförmigen/Dampfförmigen Zustand wechselt.",CONCEPT,55240.0,5.0
+126,92487,"Der/Die Lernende hat verstanden, dass beim Verdampfen Energie zugeführt werden muss, damit die Flüssigkeit in den Gasförmigen Zustand wechselt.",CONCEPT,55242.0,5.0
+127,92653,"Der/Die Lernende versteht, dass die Destillation nur einen Zyklus (einmaliges Verdampfen und Kondensieren) beinhaltet.",CONCEPT,64163.0,5.0
+128,92367,"Der/Die Lernende versteht, dass bei der Destillation ein einmaliges Verdampfen, Kondensieren und Abführen eines Flüssigkeitsgemischs erfolgt.",CONCEPT,55222.0,5.0
+129,92657,"Der/Die Lernende versteht, dass die Destillation eine Trennung von Flüssigkeitskomponenten in einem Gemisch ist.",CONCEPT,64164.0,5.0
+130,349751,Student schreibt den Satz in korrekter Rechtschreibung,CONCEPT,309575.0,
+131,347365,Die Antwort entspricht der Musterlösung.,CONCEPT,306992.0,8.0
+132,101132,Die/Der Lernende kann die Modalverben im Konjunktiv II verwenden.,CONCEPT,65001.0,12.0
+133,224678,Die Antwort enthält das vorgegebene Verb.,CONCEPT,165266.0,14.0
+134,224670,Die Antwort enthält ein Verb.,CONCEPT,165265.0,17.0
+135,112864,Die/Der Lernende kann das Vollverb im Infinitiv ergänzen.,CONCEPT,74451.0,11.0
+136,109005,Die/Der Lernende kann schwache Verben ins Präteritum setzen.,CONCEPT,70806.0,10.0
+137,277065,Das Verb steht im Indikativ.,CONCEPT,234649.0,760.0
+138,109007,Die/Der Lernende kann starke Verben ins Präteritum setzen.,CONCEPT,70807.0,10.0
+139,185922,Die/der Lernende kann das Reflexivpronomen entsprechend deklinieren.,CONCEPT,137650.0,18.0
+140,274691,Die/Der Lernende kann Verben ins Präsens setzen.,CONCEPT,222791.0,10.0
+141,275969,Die Lücke enthält ein Reflexivpronomen.,CONCEPT,233188.0,17.0
+142,274877,Die Antwort wurde mit dem Verb „werden“ gebildet.,CONCEPT,228555.0,14.0
+143,274670,Die/Der Lernende kann untrennbare Verben im Präsens bilden.,CONCEPT,222717.0,10.0
+144,101130,Die/Der Lernende kann die Hilfsverben im Konjunktiv II verwenden.,CONCEPT,65000.0,12.0
+145,114913,Die/Der Lernende kann das Partizip II starker Verben bilden.,CONCEPT,76797.0,11.0
+146,224651,Die Antwort entspricht dem erwarteten Format: Satz.,CONCEPT,165115.0,3.0
+147,101128,Die/Der Lernende kann den Satz im Konjunktiv II ergänzen.,CONCEPT,64999.0,12.0
+148,274879,Die Antwort wurde mit dem Verb „würd-“ gebildet.,CONCEPT,228557.0,14.0
+149,274880,Die Antwort wurde mit dem Verb „sein“ gebildet.,CONCEPT,228558.0,14.0
+150,181850,Die/der Lernende kann die n-Deklination bei Nomen anwenden.,CONCEPT,133202.0,18.0
+151,186384,Die/der Lernende kann mit einem Nomen im Nominativ ergänzen.,CONCEPT,138239.0,18.0
+152,224660,Die Antwort enthält ein Nomen.,CONCEPT,165233.0,17.0
+153,224662,Die Antwort enthält ein Possessivpronomen.,CONCEPT,165241.0,17.0
+154,224693,Die Antwort enthält das vorgegebene Possessivpronomen.,CONCEPT,165243.0,20.0
+155,184265,Die/der Lernende kann das Pronomen in den verlangten Kasus setzen.,CONCEPT,135784.0,18.0
+156,175374,Die/Der Lernende kann das Verb in den Infinitiv setzen.,CONCEPT,128119.0,11.0
+157,219551,Die/Der Lernende kann das Hilfsverb „werden“ im Futur I ins Präsens setzen.,CONCEPT,161793.0,10.0
+158,224656,Die Antwort enthält einen Artikel.,CONCEPT,165220.0,17.0
+159,181267,Die/der Lernende kann den Artikel in den verlangten Kasus setzen.,CONCEPT,132602.0,18.0
+160,215973,Die/Der Lernende kann Fragewörter in direkten Fragen verwenden.,CONCEPT,159849.0,11.0
+161,290328,Die Antwort enthält ein Fragewort.,CONCEPT,249363.0,17.0
+162,215975,Die/Der Lernende kann das Verb als Fragewort in direkten Ja-/Nein-Fragen verwenden.,CONCEPT,159850.0,766.0
+163,175378,Die/Der Lernende kann den Infinitiv mit „zu“ ergänzen.,CONCEPT,165272.0,759.0
+164,223451,Die/Der Lernende kann das Verb in die passende Zeitform setzen.,CONCEPT,163283.0,10.0
+165,215965,Die/Der Lernende kann Doppelkonnektoren verwenden.,CONCEPT,159845.0,11.0
+166,215963,Die/Der Lernende kann Doppelkonnektoren verwenden.,CONCEPT,159844.0,11.0
+167,215961,Die/Der Lernende kann Doppelkonnektoren verwenden.,CONCEPT,159843.0,11.0
+168,215967,Die/Der Lernende kann Doppelkonnektoren verwenden.,CONCEPT,159846.0,11.0
+169,189806,Die/Der Lernende kann einen Relativsatz formulieren.,CONCEPT,141096.0,9.0
+170,181856,Die/der Lernende kann das Relativpronomen entsprechend deklinieren.,CONCEPT,133205.0,18.0
+171,224668,Die Antwort enthält ein Relativpronomen.,CONCEPT,165260.0,17.0
+172,224699,Die Antwort enthält das vorgegebene Relativpronomen.,CONCEPT,165262.0,20.0
+173,379666,Die Antwort hat einen Inhalt.,CONCEPT,339971.0,3.0
+174,379672,Die Antwort ist im Rahmen der Aufgabenstellung.,CONCEPT,339974.0,13.0
+175,379669,Die Antwort enthält keine Rechtschreibfehler.,CONCEPT,339973.0,7.0
+176,379713,Die/Der Lernende hat keine Satzintegritätsfehler gemacht.,CONCEPT,340018.0,7.0
+177,379717,Die Struktur der Antwort stimmt mit der Musterlösung überein.,CONCEPT,340019.0,15.0
+178,184257,Die/der Lernende kann Adjektive im Komparativ anwenden.,CONCEPT,135780.0,11.0
+179,174784,Die/Der Lernende kann Präfixe von trennbaren Verben erkennen.,CONCEPT,127481.0,764.0
+180,274668,Die/Der Lernende kann trennbare Verben im Präsens bilden.,CONCEPT,222716.0,10.0
+181,379858,"Die/der Lernende kann Vergleichssätze mit ""als"" bilden.",CONCEPT,340242.0,790.0
+182,379777,Die Antwort enthält ein Adjektiv.,CONCEPT,340164.0,17.0
+183,379811,Die Antwort enthält das vorgegebene Adjektiv.,CONCEPT,340181.0,20.0
+184,379837,Das Verb steht im Indikativ.,CONCEPT,340194.0,760.0
+185,379842,Das Verb im Indikativ im Hauptsatz ist an das Subjekt angeglichen.,CONCEPT,340197.0,16.0
+186,379844,Die/Der Lernende kann Verben ins Präsens setzen.,CONCEPT,340198.0,10.0
+187,224592,Die/Der Lernende hat den Infinitiv nicht mit einem „zu“ ergänzt.,CONCEPT,165273.0,759.0
+188,8067,Es wurden genügend Möbel und Einrichtungsgegenstände aufgezählt.,CONCEPT,,
+189,8864,Folgende Konzepte haben Sie richtig erwähnt: {{correctStatements}},CONCEPT,,
+190,9048,Die Antwort enthält die gesuchten Stichworte.,CONCEPT,,
+191,7977,Die Antwort ist inhaltlich richtig.,CONCEPT,,
+192,9385,Folgende Konzepte haben Sie richtig erwähnt: {{correctStatements}},CONCEPT,,
+193,7924,Ihre Antwort ist inhaltlich korrekt.,CONCEPT,,
+194,7966,Die Antwort enthält die gesuchten Stichworte.,CONCEPT,,
+195,8872,Sie haben Möbel und Einrichtungsgegenstände aus der Küche aufgezählt.,CONCEPT,,

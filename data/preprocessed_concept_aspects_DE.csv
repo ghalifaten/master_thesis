@@ -1,0 +1,197 @@
+aspectId,description,type,groupId,categoryId,word_count
+0,8980,antwort enthalt gesucht stichwort,CONCEPT,,,4
+1,9787,antwort konzept nennen der suchen,CONCEPT,,,5
+2,12472,antwort enthalt gesucht stichwort correctstat,CONCEPT,55249.0,,5
+3,12479,genau hauptkonzept verstehen,CONCEPT,55249.0,,3
+4,20,antwort enthalt rechtschreibfehl,CONCEPT,152.0,,3
+5,12986,antwort enthalt rechtschreibfehl,CONCEPT,152.0,,3
+6,124,the learner -- abl to use spell strategi correctli,CONCEPT,55114.0,,9
+7,15321,can correctli spell written text,CONCEPT,2508.0,,5
+8,21,antwortsatz enthalt strukturelement substantiv verb artikel usw,CONCEPT,111.0,,7
+9,4,antwort wurd satz geben,CONCEPT,674.0,,4
+10,44,ausfuhrlich anweisungen hinzufugen,CONCEPT,,,3
+11,12935,antwortsatz enthalt strukturelement substantiv verb artikel usw,CONCEPT,111.0,,7
+12,82,antwort wurd satz geben,CONCEPT,2412.0,3.0,4
+13,14185,lernend person lage korrekt satz schreiben,CONCEPT,,,6
+14,14303,lernend person lage rechtschreibstrategie korrekt anwenden,CONCEPT,,,6
+15,174,lernend person lage rechtschreibstrategie korrekt anwenden,CONCEPT,55146.0,2.0,6
+16,84,antwort wurd gewunscht zeitform geben prasen,CONCEPT,3871.0,1.0,6
+17,85,gegeben antwort stimmen verbform subjekt person zahl uberein,CONCEPT,4017.0,1.0,8
+18,16585,antwort wurd gewunscht zeitform geben prasen,CONCEPT,3871.0,,6
+19,87,antwort verwenden aufgabenbeschreibung angegebenen worter,CONCEPT,3910.0,3.0,5
+20,16624,antwort verwenden aufgabenbeschreibung angegebenen worter,CONCEPT,3910.0,,5
+21,16731,gegeben antwort stimmen verbform subjekt person zahl uberein,CONCEPT,4017.0,,8
+22,163,antwort wurd gefordert genu verbi formulieren passiv,CONCEPT,3835.0,1.0,7
+23,16550,antwort wurd gefordert genu verbi formulieren passiv,CONCEPT,3835.0,,7
+24,1489,the abil to use -- right input format,CONCEPT,36094.0,,8
+25,1490,the abil to correctli match -- verb to -- subject,CONCEPT,36107.0,,10
+26,1491,the abil to answer the right languag,CONCEPT,,,7
+27,1492,can correctli spell written text,CONCEPT,36125.0,,5
+28,49047,can correctli spell written text,CONCEPT,36125.0,,5
+29,1498,the abil to convert text from one languag to anoth,CONCEPT,36344.0,,10
+30,49014,the abil to correctli match -- verb to -- subject,CONCEPT,36107.0,,10
+31,49253,the abil to convert text from one languag to anoth,CONCEPT,36344.0,,10
+32,6736,antwort wurd gewunscht form geben partizip,CONCEPT,53248.0,3.0,6
+33,16664,antwort verwenden aufgabenbeschreibung angegebenen worter,CONCEPT,3910.0,,5
+34,16749,gegeben antwort stimmen verbform subjekt person zahl uberein,CONCEPT,4017.0,,8
+35,66630,antwort wurd gewunscht form geben partizip,CONCEPT,53248.0,,6
+36,7359,antwortsatz enthalt strukturelement substantiv verb artikel usw,CONCEPT,54616.0,,7
+37,7360,werden rechtschreibfehl machen,CONCEPT,54439.0,,3
+38,67563,werden rechtschreibfehl machen,CONCEPT,54439.0,,3
+39,67735,antwortsatz enthalt strukturelement substantiv verb artikel usw,CONCEPT,54616.0,,7
+40,94,wurd erkennen dichen entstehen,CONCEPT,2436.0,5.0,4
+41,15190,wurd erkennen dichen entstehen,CONCEPT,2436.0,,4
+42,7438,,CONCEPT,,,0
+43,110000,lernend person lage inhalt korrekt anwenden,CONCEPT,54898.0,,6
+44,68964,lernend person lage korrekt satz schreiben,CONCEPT,55149.0,1.0,6
+45,110011,lernend vorgeben verb verwenden,CONCEPT,63058.0,3.0,4
+46,69525,lernend korrekt verb verwenden,CONCEPT,,,4
+47,110004,lernend lage modalverb richtig konjugieren,CONCEPT,54995.0,1.0,5
+48,92070,lernend verstandni dampfdruck flussigkeit gleich umgebungsdruck daher fallen siedepunkt fallend umgebungsdruck siedepunkt direkt dampfdruck flussigkeit zusammenhangt,CONCEPT,55175.0,5.0,16
+49,92494,lernend verstand verringerung siedepunkt flussigkeit senken umgebungsdruck gehen,CONCEPT,55243.0,5.0,8
+50,184384,lernend geben leer antwort ab,CONCEPT,76340.0,3.0,5
+51,184389,lernend rechtschreib grammatikfehl machen,CONCEPT,76253.0,7.0,4
+52,184394,lernend verwenden angemessen sprechen,CONCEPT,135883.0,3.0,4
+53,184392,lernend geben antwort ganz worter ab,CONCEPT,135881.0,3.0,6
+54,184390,lernend geben thema relevant antwort,CONCEPT,135879.0,3.0,5
+55,184429,lernend erklart antwort,CONCEPT,135947.0,3.0,3
+56,184395,lernend begrunden antwort,CONCEPT,135885.0,3.0,3
+57,198021,lernend nennen antwort,CONCEPT,147697.0,3.0,3
+58,198287,lernend teilchenmodel verwend verschied konzept erklaren,CONCEPT,147921.0,8.0,6
+59,184549,lernend beurteilen antwort,CONCEPT,136052.0,3.0,3
+60,198533,lernend individuell bedurfniss anforderung verschied person analysieren,CONCEPT,148128.0,8.0,7
+61,198537,lernend kosten nutzen aspekt verschied fahrzeugtype analysieren,CONCEPT,148134.0,8.0,7
+62,198541,lernend verstehen umweltauswirkung verschiede antriebsart,CONCEPT,148139.0,8.0,5
+63,198648,lernend vervollstaendigen satz antwort,CONCEPT,148230.0,3.0,4
+64,198353,lernend antworten aufzahlung,CONCEPT,147977.0,3.0,3
+65,199038,lernend geschwindigkeiten umrechnen,CONCEPT,148547.0,8.0,3
+66,214521,lernend mathematisch berechnen losung finden,CONCEPT,158856.0,3.0,5
+67,208858,lernend losungsweg aufzeigen,CONCEPT,158755.0,3.0,3
+68,199018,lernend kennen verschiede bewegungsarten,CONCEPT,148531.0,8.0,4
+69,193514,lernend beschreiben antwort,CONCEPT,144222.0,3.0,3
+70,199535,lernend verstehen konzept elektrisch widerstand,CONCEPT,148935.0,8.0,5
+71,184531,lernend erlautern antwort,CONCEPT,136040.0,3.0,3
+72,184374,lernend verstehen magnet geordnet elementarmagnet bestehen,CONCEPT,135865.0,8.0,6
+73,184376,lernend verstehen zerteilung magneten grundlegend magnetisch eigenschaft beeinflussen,CONCEPT,135867.0,8.0,8
+74,184378,lernend verstehen magnet nordpol sudpol existieren magnetisch polaritat immer paar auftreten,CONCEPT,135868.0,8.0,11
+75,198017,lernend konzept additiv farbmischung verstehen,CONCEPT,147692.0,8.0,5
+76,184919,lernend verstehen kontakt elektrisch systemen geschlossen stromkrei bilden,CONCEPT,136341.0,8.0,8
+77,184537,lernend notieren antwort,CONCEPT,136043.0,3.0,3
+78,198928,lernend kennen merkmal hebel,CONCEPT,148457.0,8.0,4
+79,199366,lernend erklar aussag uber beschleunigungswern fahrzeug bedeuten,CONCEPT,148799.0,8.0,7
+80,188271,lernend lage elektrog gluhlamp fohn aufzahlen,CONCEPT,139705.0,8.0,6
+81,193310,lernend nennen drei gerat antwort,CONCEPT,143980.0,3.0,5
+82,203870,lernend verwenden angemessen sprechen,CONCEPT,151846.0,3.0,4
+83,203872,lernend geben thema relevant antwort,CONCEPT,151847.0,3.0,5
+84,203874,lernend geben leer antwort ab,CONCEPT,151848.0,3.0,5
+85,203876,lernend geben antwort ganz worter ab,CONCEPT,151849.0,3.0,6
+86,215871,lernend verstehen kontrol korper getrennt hirnhemispharen erfolgen,CONCEPT,159789.0,8.0,7
+87,198605,lernend kennen unterschied fest losen rollen,CONCEPT,148195.0,8.0,6
+88,199598,lernend verstehen formel r u x i richtig anwend,CONCEPT,155163.0,8.0,9
+89,199090,lernend erkennen gefahr fehleinschatzen geschwindigkeiten straßenverkehr entsteh konn,CONCEPT,148586.0,8.0,8
+90,186297,lernend geben leer antwort ab,CONCEPT,138054.0,3.0,5
+91,189788,lernend verwenden angemessen sprechen,CONCEPT,141046.0,3.0,4
+92,189782,lernend geben antwort ganz worter ab,CONCEPT,141038.0,3.0,6
+93,189780,lernend geben thema relevant antwort,CONCEPT,141035.0,3.0,5
+94,189796,lernend begrunden antwort,CONCEPT,141053.0,3.0,3
+95,190194,lernend erklart antwort,CONCEPT,141490.0,3.0,3
+96,224122,lernend geben leer antwort ab,CONCEPT,164422.0,675.0,5
+97,224123,lernend verwenden angemessen sprechen,CONCEPT,164423.0,677.0,4
+98,224125,lernend geben antwort ganz worter ab,CONCEPT,164424.0,676.0,6
+99,224127,lernend geben thema relevant antwort,CONCEPT,164425.0,3.0,5
+100,276966,lernend geben leer antwort ab,CONCEPT,234443.0,3.0,5
+101,276968,lernend verwenden angemessen sprechen,CONCEPT,234444.0,3.0,4
+102,276970,lernend geben antwort ganz worter ab,CONCEPT,234445.0,3.0,6
+103,276972,lernend wenden regel rechtschreibung,CONCEPT,234446.0,7.0,4
+104,265155,the learner -- not give empti answer,CONCEPT,212335.0,3.0,7
+105,265157,the learner provid -- valid mathemat express,CONCEPT,212336.0,756.0,7
+106,265173,the learner appli variabl correctli,CONCEPT,212364.0,756.0,5
+107,265175,the learner simplifi accord to -- rule,CONCEPT,212365.0,756.0,7
+108,265161,the learner correctli take into account the sign,CONCEPT,212338.0,756.0,8
+109,277067,verb indikativ hauptsatz subjekt angeglichen,CONCEPT,234650.0,16.0,5
+110,224682,antwort entsprechen aufgabenstellung,CONCEPT,165207.0,8.0,3
+111,223149,struktur antwort stimmen musterlosung uberein,CONCEPT,70635.0,15.0,5
+112,111251,lernend objekt aktivsatz subjekt passivsatz umform,CONCEPT,73522.0,11.0,6
+113,111406,lernend hilfsverb richtig form setzen,CONCEPT,73618.0,11.0,5
+114,114929,lernend hilfsverb prasen setzen,CONCEPT,76832.0,10.0,4
+115,224672,antwort inhalt,CONCEPT,165111.0,3.0,2
+116,224652,antwort rahmen aufgabenstellung,CONCEPT,70826.0,13.0,3
+117,224680,antwort enthalt rechtschreibfehl,CONCEPT,55135.0,7.0,3
+118,224683,lernend satzintegritatsfehl machen,CONCEPT,76757.0,7.0,3
+119,109986,lernend modalverbe prasen setzen,CONCEPT,72550.0,10.0,4
+120,113590,lernend partizip ii schwach verben bilden,CONCEPT,74980.0,11.0,6
+121,110913,lernend hilfsverb passiv prasen setzen,CONCEPT,73422.0,10.0,5
+122,111401,lernend hilfsverb passiv prateritum setzen,CONCEPT,73616.0,10.0,5
+123,109994,lernend hilfsverb passiv infinitiv setzen,CONCEPT,72554.0,11.0,5
+124,111415,lernend modalverben prateritum setzen,CONCEPT,73637.0,10.0,4
+125,92482,lernend verstehen flussigkeit bei verdampf flussig gasformig dampfformig zustand wechseln,CONCEPT,55240.0,5.0,10
+126,92487,lernend verstehen bei verdampfen energi zugefuhrt flussigkeit gasformig zustand wechseln,CONCEPT,55242.0,5.0,10
+127,92653,lernend verstehen destil zyklu einmalig verdampfen kondensier beinhalten,CONCEPT,64163.0,5.0,8
+128,92367,lernend verstehen destil einmalig verdampf kondensier abfuhr flussigkeitsgemisch erfolgen,CONCEPT,55222.0,5.0,9
+129,92657,lernend verstehen destil trennung flussigkeitskomponenen gemisch,CONCEPT,64164.0,5.0,6
+130,349751,student schreiben satz korrekt rechtschreibung,CONCEPT,309575.0,,5
+131,347365,antwort entsprechen musterlosung,CONCEPT,306992.0,8.0,3
+132,101132,lernend modalverbe konjunktiv ii verwend,CONCEPT,65001.0,12.0,5
+133,224678,antwort enthalt vorgeben verb,CONCEPT,165266.0,14.0,4
+134,224670,antwort enthalt verb,CONCEPT,165265.0,17.0,3
+135,112864,lernend vollverb infinitiv erganzen,CONCEPT,74451.0,11.0,4
+136,109005,lernend schwach verb prateritum setzen,CONCEPT,70806.0,10.0,5
+137,277065,verb stehen indikativ,CONCEPT,234649.0,760.0,3
+138,109007,lernend stark verben prateritum setzen,CONCEPT,70807.0,10.0,5
+139,185922,lernend reflexivpronom entsprechend deklinieren,CONCEPT,137650.0,18.0,4
+140,274691,lernend verben prasen setzen,CONCEPT,222791.0,10.0,4
+141,275969,luck enthalt reflexivpronomen,CONCEPT,233188.0,17.0,3
+142,274877,antwort wurd verb bilden,CONCEPT,228555.0,14.0,4
+143,274670,lernend untrennbar verben prasen bilden,CONCEPT,222717.0,10.0,5
+144,101130,lernend hilfsverben konjunktiv ii verwend,CONCEPT,65000.0,12.0,5
+145,114913,lernend partizip ii starker verben bilden,CONCEPT,76797.0,11.0,6
+146,224651,antwort entsprechen erwartet format satz,CONCEPT,165115.0,3.0,5
+147,101128,lernend satz konjunktiv ii erganz,CONCEPT,64999.0,12.0,5
+148,274879,antwort wurd verb wurd bilden,CONCEPT,228557.0,14.0,5
+149,274880,antwort wurd verb bilden,CONCEPT,228558.0,14.0,4
+150,181850,lernend n deklin nom anwenden,CONCEPT,133202.0,18.0,5
+151,186384,lernend nomen nominativ erganz,CONCEPT,138239.0,18.0,4
+152,224660,antwort enthalt nomen,CONCEPT,165233.0,17.0,3
+153,224662,antwort enthalt possessivpronomen,CONCEPT,165241.0,17.0,3
+154,224693,antwort enthalt vorgeben possessivpronomen,CONCEPT,165243.0,20.0,4
+155,184265,lernend pronome verlangt kasu setzen,CONCEPT,135784.0,18.0,5
+156,175374,lernend verb infinitiv setzen,CONCEPT,128119.0,11.0,4
+157,219551,lernend hilfsverb futur i prasen setzen,CONCEPT,161793.0,10.0,6
+158,224656,antwort enthalt artikel,CONCEPT,165220.0,17.0,3
+159,181267,lernend artikel verlangt kasu setzen,CONCEPT,132602.0,18.0,5
+160,215973,lernend fragewort direkt frage verwenden,CONCEPT,159849.0,11.0,5
+161,290328,antwort enthalt fragewort,CONCEPT,249363.0,17.0,3
+162,215975,lernend verb fragewort direkn ja nein frage verwenden,CONCEPT,159850.0,766.0,8
+163,175378,lernend infinitiv erganzen,CONCEPT,165272.0,759.0,3
+164,223451,lernend verb passend zeitform setzen,CONCEPT,163283.0,10.0,5
+165,215965,lernend doppelkonnektor verwend,CONCEPT,159845.0,11.0,3
+166,215963,lernend doppelkonnektor verwend,CONCEPT,159844.0,11.0,3
+167,215961,lernend doppelkonnektor verwend,CONCEPT,159843.0,11.0,3
+168,215967,lernend doppelkonnektor verwend,CONCEPT,159846.0,11.0,3
+169,189806,lernend relativsatz formulieren,CONCEPT,141096.0,9.0,3
+170,181856,lernend relativpronome entsprechend deklinieren,CONCEPT,133205.0,18.0,4
+171,224668,antwort enthalt relativpronomen,CONCEPT,165260.0,17.0,3
+172,224699,antwort enthalt vorgeben relativpronom,CONCEPT,165262.0,20.0,4
+173,379666,antwort inhalt,CONCEPT,339971.0,3.0,2
+174,379672,antwort rahmen aufgabenstellung,CONCEPT,339974.0,13.0,3
+175,379669,antwort enthalt rechtschreibfehl,CONCEPT,339973.0,7.0,3
+176,379713,lernend satzintegritatsfehl machen,CONCEPT,340018.0,7.0,3
+177,379717,struktur antwort stimmen musterlosung uberein,CONCEPT,340019.0,15.0,5
+178,184257,lernend adjekt komparativ anwend,CONCEPT,135780.0,11.0,4
+179,174784,lernend prafix trennbaren verben erkennen,CONCEPT,127481.0,764.0,5
+180,274668,lernend trennbar verben prasen bilden,CONCEPT,222716.0,10.0,5
+181,379858,lernend vergleichssatz bilden,CONCEPT,340242.0,790.0,3
+182,379777,antwort enthalt adjektiv,CONCEPT,340164.0,17.0,3
+183,379811,antwort enthalt vorgeben adjektiv,CONCEPT,340181.0,20.0,4
+184,379837,verb stehen indikativ,CONCEPT,340194.0,760.0,3
+185,379842,verb indikativ hauptsatz subjekt angeglichen,CONCEPT,340197.0,16.0,5
+186,379844,lernend verben prasen setzen,CONCEPT,340198.0,10.0,4
+187,224592,lernend infinitiv erganzen,CONCEPT,165273.0,759.0,3
+188,8067,werden genugend mobel einrichtungsgegenstand aufgezahlen,CONCEPT,,,5
+189,8864,folgend konzept richtig erwahnen correctstat,CONCEPT,,,5
+190,9048,antwort enthalt gesucht stichwort,CONCEPT,,,4
+191,7977,antwort inhaltlich richtig,CONCEPT,,,3
+192,9385,folgend konzept richtig erwahnen correctstat,CONCEPT,,,5
+193,7924,antwort inhaltlich korrekt,CONCEPT,,,3
+194,7966,antwort enthalt gesucht stichwort,CONCEPT,,,4
+195,8872,mobel einrichtungsgegenstand kuch aufgezahlt,CONCEPT,,,4
