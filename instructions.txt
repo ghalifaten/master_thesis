@@ -1,3 +1,8 @@
 To solve No Module Named textblob.translate
 $ conda install -c conda-forge textblob
 $ python -m textblob.download_corpora
+
+or, if conda is not available, install normally with pip and then comment out the line 
+from .translate import Translate
+in 
+/opt/tensorflow/lib/python3.10/site-packages/textaugment/__init__.py
