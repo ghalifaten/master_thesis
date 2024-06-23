@@ -1,0 +1,270 @@
+aspectId,description,type,groupId,categoryId,word_count
+0,9639,word right order,CONCEPT,,,3
+1,9937,good answer orang utan strong social bond,CONCEPT,,,7
+2,9633,subject verb congruent,CONCEPT,,,3
+3,11401,answer mention keyword look correctstat,CONCEPT,55122.0,,5
+4,9984,verb conjug expect ten expectedten,CONCEPT,,,5
+5,11221,subject verb congruent,CONCEPT,,,3
+6,9992,well do use one give adverb,CONCEPT,,,6
+7,9996,well do verb conjug past simpl,CONCEPT,,,6
+8,10313,word right order,CONCEPT,,,3
+9,9981,correctli mention correctstat,CONCEPT,,,3
+10,12322,ye cute puppi inde aw super cute,CONCEPT,,,7
+11,12714,word right order,CONCEPT,,,3
+12,12728,answer mention keyword look,CONCEPT,,,4
+13,183,abil convert text one languag anoth,CONCEPT,4126.0,,6
+14,184,abil use right input format,CONCEPT,5014.0,,5
+15,185,abil correctli match verb subject,CONCEPT,5460.0,,5
+16,186,abil answer right languag,CONCEPT,,,4
+17,187,correctli spell write text,CONCEPT,6127.0,,4
+18,17042,abil convert text one languag anoth,CONCEPT,4126.0,,6
+19,19487,correctli spell write text,CONCEPT,6127.0,,4
+20,18153,abil correctli match verb subject,CONCEPT,5460.0,,5
+21,1375,abil use right input format,CONCEPT,,,5
+22,1376,abil correctli match verb subject,CONCEPT,55112.0,,5
+23,1377,abil answer right languag,CONCEPT,55115.0,,4
+24,124,learner abl use spell strategi correctli,CONCEPT,55114.0,,6
+25,1380,abil formul answer correct ten,CONCEPT,,,5
+26,15321,correctli spell write text,CONCEPT,2508.0,,4
+27,27937,abil correctli match verb subject,CONCEPT,55112.0,,5
+28,28070,abil formul answer correct ten,CONCEPT,15136.0,,5
+29,1374,abil convert text one languag anoth,CONCEPT,55118.0,,6
+30,27838,abil convert text one languag anoth,CONCEPT,55115.0,,6
+31,1498,abil convert text one languag anoth,CONCEPT,36344.0,,6
+32,1489,abil use right input format,CONCEPT,36094.0,,5
+33,1490,abil correctli match verb subject,CONCEPT,36107.0,,5
+34,1491,abil answer right languag,CONCEPT,,,4
+35,1492,correctli spell write text,CONCEPT,36125.0,,4
+36,49014,abil correctli match verb subject,CONCEPT,36107.0,,5
+37,49047,correctli spell write text,CONCEPT,36125.0,,4
+38,49253,abil convert text one languag anoth,CONCEPT,36344.0,,6
+39,6925,abil write correct amount request inform,CONCEPT,,,6
+40,27863,abil convert text one languag anoth,CONCEPT,55115.0,,6
+41,1531,abil convert text one languag anoth,CONCEPT,36373.0,,6
+42,1532,abil use right input format,CONCEPT,36380.0,,5
+43,1533,abil correctli match verb subject,CONCEPT,36384.0,,5
+44,1534,abil answer right languag,CONCEPT,,,4
+45,1535,correctli spell write text,CONCEPT,36390.0,,4
+46,49294,correctli spell write text,CONCEPT,36390.0,,4
+47,1415,abil convert text one languag anoth,CONCEPT,36657.0,,6
+48,1631,abil write correct amount request inform,CONCEPT,37755.0,,6
+49,1417,abil correctli match verb subject,CONCEPT,38488.0,,5
+50,1416,abil use right input format,CONCEPT,15630.0,,5
+51,1418,abil answer right languag,CONCEPT,,,4
+52,1419,correctli spell write text,CONCEPT,16178.0,,4
+53,1632,abil formul answer correct ten,CONCEPT,39590.0,,5
+54,1551,student know word dinner,CONCEPT,45501.0,,4
+55,1612,aspect appli student write nonsen,CONCEPT,43903.0,,5
+56,1611,aspect help student,CONCEPT,40697.0,,3
+57,1623,detector theori,CONCEPT,42296.0,,2
+58,30193,correctli spell write text,CONCEPT,16178.0,,4
+59,49899,abil convert text one languag anoth,CONCEPT,36657.0,,6
+60,54466,aspect help student,CONCEPT,40697.0,,3
+61,56064,detector theori,CONCEPT,42296.0,,2
+62,58747,student know word dinner,CONCEPT,45501.0,,4
+63,51363,abil correctli match verb subject,CONCEPT,38488.0,,5
+64,52829,abil formul answer correct ten,CONCEPT,39590.0,,5
+65,1571,student know word attorney,CONCEPT,46273.0,,4
+66,59492,student know word attorney,CONCEPT,46273.0,,4
+67,1576,student know word author,CONCEPT,46476.0,,4
+68,59692,student know word author,CONCEPT,46476.0,,4
+69,1577,student know word bank,CONCEPT,46489.0,,4
+70,59709,student know word bank,CONCEPT,46489.0,,4
+71,1579,student know word build,CONCEPT,46537.0,,4
+72,59755,student know word build,CONCEPT,46537.0,,4
+73,1580,student know word profess,CONCEPT,46573.0,,4
+74,59787,student know word profess,CONCEPT,46573.0,,4
+75,1581,student know word offic,CONCEPT,46595.0,,4
+76,59816,student know word offic,CONCEPT,46595.0,,4
+77,1582,student know word comput,CONCEPT,46644.0,,4
+78,59860,student know word comput,CONCEPT,46644.0,,4
+79,1583,student know word experi,CONCEPT,46681.0,,4
+80,59901,student know word experi,CONCEPT,46681.0,,4
+81,1586,student know word captain,CONCEPT,46804.0,,4
+82,60012,student know word captain,CONCEPT,46804.0,,4
+83,1590,student know word dentist,CONCEPT,46893.0,,4
+84,60101,student know word dentist,CONCEPT,46893.0,,4
+85,1592,student know word chang,CONCEPT,46990.0,,4
+86,60198,student know word chang,CONCEPT,46990.0,,4
+87,1593,student know word mean,CONCEPT,47038.0,,4
+88,60242,student know word mean,CONCEPT,47038.0,,4
+89,1594,student know word pray,CONCEPT,47072.0,,4
+90,60271,student know word pray,CONCEPT,47072.0,,4
+91,1595,student know word stay,CONCEPT,47085.0,,4
+92,60291,student know word stay,CONCEPT,47085.0,,4
+93,1596,student know word think,CONCEPT,47132.0,,4
+94,60332,student know word think,CONCEPT,47132.0,,4
+95,1597,student know word expect,CONCEPT,47158.0,,4
+96,60355,student know word expect,CONCEPT,47158.0,,4
+97,1598,student know word fli,CONCEPT,47181.0,,4
+98,60381,student know word fli,CONCEPT,47181.0,,4
+99,1599,student know word believ,CONCEPT,47217.0,,4
+100,60425,student know word believ,CONCEPT,47217.0,,4
+101,1600,student know word cost,CONCEPT,47289.0,,4
+102,60484,student know word cost,CONCEPT,47289.0,,4
+103,1601,student know word live,CONCEPT,47314.0,,4
+104,60510,student know word live,CONCEPT,47314.0,,4
+105,1602,student know word rule,CONCEPT,47350.0,,4
+106,60542,student know word rule,CONCEPT,47350.0,,4
+107,1558,student know word chemistri,CONCEPT,47374.0,,4
+108,60562,student know word chemistri,CONCEPT,47374.0,,4
+109,1604,student know word speak,CONCEPT,47386.0,,4
+110,60582,student know word speak,CONCEPT,47386.0,,4
+111,1605,student know word wear,CONCEPT,47432.0,,4
+112,60626,student know word wear,CONCEPT,47432.0,,4
+113,1606,student know word earn,CONCEPT,47470.0,,4
+114,60664,student know word earn,CONCEPT,47470.0,,4
+115,1607,student know word understand,CONCEPT,47517.0,,4
+116,60711,student know word understand,CONCEPT,47517.0,,4
+117,1608,student know word grow,CONCEPT,47566.0,,4
+118,60752,student know word grow,CONCEPT,47566.0,,4
+119,1609,student know word want,CONCEPT,47590.0,,4
+120,60775,student know word want,CONCEPT,47590.0,,4
+121,1610,student know word pay,CONCEPT,47614.0,,4
+122,60798,student know word pay,CONCEPT,47614.0,,4
+123,1552,student know word alcohol,CONCEPT,45549.0,,4
+124,58796,student know word alcohol,CONCEPT,45549.0,,4
+125,1553,student know word appl,CONCEPT,45610.0,,4
+126,58856,student know word appl,CONCEPT,45610.0,,4
+127,1554,student know word banana,CONCEPT,45670.0,,4
+128,58909,student know word banana,CONCEPT,45670.0,,4
+129,1555,student know word tree,CONCEPT,45706.0,,4
+130,58947,student know word tree,CONCEPT,45706.0,,4
+131,1556,student know word beer,CONCEPT,45754.0,,4
+132,58990,student know word beer,CONCEPT,45754.0,,4
+133,1557,student know word bread,CONCEPT,45787.0,,4
+134,59026,student know word bread,CONCEPT,45787.0,,4
+135,1559,student know word diet,CONCEPT,45835.0,,4
+136,59076,student know word diet,CONCEPT,45835.0,,4
+137,1560,student know word egg,CONCEPT,45894.0,,4
+138,59135,student know word egg,CONCEPT,45894.0,,4
+139,1563,student know word meat,CONCEPT,45964.0,,4
+140,59201,student know word meat,CONCEPT,45964.0,,4
+141,1564,student know word breakfast,CONCEPT,46024.0,,4
+142,59252,student know word breakfast,CONCEPT,46024.0,,4
+143,1565,student know word veget,CONCEPT,46048.0,,4
+144,59275,student know word veget,CONCEPT,46048.0,,4
+145,1566,student know word coffe,CONCEPT,46072.0,,4
+146,59304,student know word coffe,CONCEPT,46072.0,,4
+147,1568,student know word cook,CONCEPT,46120.0,,4
+148,59362,student know word cook,CONCEPT,46120.0,,4
+149,1569,student know word spoon,CONCEPT,46212.0,,4
+150,59437,student know word spoon,CONCEPT,46212.0,,4
+151,1570,student know word oil,CONCEPT,46237.0,,4
+152,59463,student know word oil,CONCEPT,46237.0,,4
+153,1572,student know word work,CONCEPT,46283.0,,4
+154,59536,student know word work,CONCEPT,46283.0,,4
+155,1574,student know word physician,CONCEPT,46428.0,,4
+156,59649,student know word physician,CONCEPT,46428.0,,4
+157,1575,student know word task,CONCEPT,46453.0,,4
+158,59672,student know word task,CONCEPT,46453.0,,4
+159,1584,student know word success,CONCEPT,46741.0,,4
+160,59953,student know word success,CONCEPT,46741.0,,4
+161,1585,student know word salari,CONCEPT,46773.0,,4
+162,59984,student know word salari,CONCEPT,46773.0,,4
+163,1587,student know word qualiti,CONCEPT,46826.0,,4
+164,60035,student know word qualiti,CONCEPT,46826.0,,4
+165,1588,student know word job,CONCEPT,46851.0,,4
+166,60061,student know word job,CONCEPT,46851.0,,4
+167,1591,student know word scienc,CONCEPT,46930.0,,4
+168,60142,student know word scienc,CONCEPT,46930.0,,4
+169,5889,detector bullshit,CONCEPT,47915.0,,2
+170,5890,detector help difficult,CONCEPT,47907.0,,3
+171,5892,detector finish earli,CONCEPT,47850.0,,3
+172,5909,detector theori,CONCEPT,49146.0,,2
+173,5882,abil convert text one languag anoth,CONCEPT,47929.0,,6
+174,5883,abil write correct amount request inform,CONCEPT,48011.0,,6
+175,5884,abil correctli match verb subject,CONCEPT,48066.0,,5
+176,5885,abil use right input format,CONCEPT,,,5
+177,5886,abil answer right languag,CONCEPT,,,4
+178,5887,correctli spell write text,CONCEPT,48147.0,,4
+179,5888,abil formul answer correct ten,CONCEPT,49065.0,,5
+180,61117,abil convert text one languag anoth,CONCEPT,47929.0,,6
+181,61409,correctli spell write text,CONCEPT,48147.0,,4
+182,61224,abil correctli match verb subject,CONCEPT,48066.0,,5
+183,62273,abil formul answer correct ten,CONCEPT,49065.0,,5
+184,6095,abil convert text one languag anoth,CONCEPT,49154.0,,6
+185,6096,abil write correct amount request inform,CONCEPT,49427.0,,6
+186,6097,abil correctli match verb subject,CONCEPT,49609.0,,5
+187,6098,abil use right input format,CONCEPT,,,5
+188,6099,abil answer right languag,CONCEPT,,,4
+189,6100,correctli spell write text,CONCEPT,49882.0,,4
+190,6101,abil formul answer correct ten,CONCEPT,52975.0,,5
+191,62450,abil convert text one languag anoth,CONCEPT,49154.0,,6
+192,63446,correctli spell write text,CONCEPT,49882.0,,4
+193,62813,abil correctli match verb subject,CONCEPT,49609.0,,5
+194,66358,abil formul answer correct ten,CONCEPT,52975.0,,5
+195,7437,abil speak understand languag,CONCEPT,55115.0,,4
+196,67770,abil speak understand languag,CONCEPT,55115.0,,4
+197,7492,abil speak german english,CONCEPT,54863.0,,4
+198,67953,abil speak german english,CONCEPT,54863.0,,4
+199,7506,fluenci german english,CONCEPT,54869.0,,3
+200,68045,correctli spell write text,CONCEPT,,,4
+201,71121,,CONCEPT,70292.0,,0
+202,71160,,CONCEPT,55113.0,,0
+203,71214,understand locat region physic featur earth surfac,CONCEPT,,,7
+204,68053,learner abl use spell strategi correctli,CONCEPT,54966.0,,6
+205,68190,learner abl write correct sentenc,CONCEPT,54952.0,,5
+206,71380,learner use correct ten,CONCEPT,55088.0,,4
+207,8783,learner use swear word,CONCEPT,54923.0,,4
+208,68218,learner provid offtop answer,CONCEPT,54981.0,,4
+209,71388,learner make grammat correct sentenc,CONCEPT,54918.0,,5
+210,9262,learner use correct ten,CONCEPT,54919.0,1.0,4
+211,9326,learner answer subject verb congruent,CONCEPT,54950.0,1.0,5
+212,70948,student abl use ten simpl past,CONCEPT,55018.0,5.0,6
+213,70965,learner abl write correct sentenc,CONCEPT,55027.0,1.0,5
+214,68380,learner abl correctli spell,CONCEPT,55028.0,2.0,4
+215,12472,die antwort enthalt die gesuchten stichwort correctstat,CONCEPT,55249.0,,7
+216,12479,genau sie haben da hauptkonzept verstanden,CONCEPT,55249.0,,6
+217,114811,answer contain want christma listen christma song,CONCEPT,76607.0,4.0,7
+218,125,student explain pictur use simpl sentenc,CONCEPT,36505.0,,6
+219,172234,learner talk topic give task descript,CONCEPT,123382.0,4.0,6
+220,172240,learner correctli spell write text,CONCEPT,123385.0,2.0,5
+221,172270,answer consist correctli structur sentenc,CONCEPT,123387.0,1.0,5
+222,172276,,CONCEPT,123383.0,,0
+223,172282,subject verb congruent,CONCEPT,123390.0,1.0,3
+224,190218,student answer consist distinct sentenc,CONCEPT,141514.0,679.0,5
+225,265063,student use punctuat correctli,CONCEPT,212086.0,1.0,4
+226,190202,student enter answer,CONCEPT,141503.0,3.0,3
+227,190204,student answer clear languag,CONCEPT,141504.0,3.0,4
+228,190198,student write use appropri languag,CONCEPT,141500.0,3.0,5
+229,244871,student write sentenc reason length,CONCEPT,191924.0,679.0,5
+230,190216,student answer complet sentenc,CONCEPT,141512.0,679.0,4
+231,244896,student use term standard english slang,CONCEPT,192050.0,679.0,6
+232,244892,student write appropri level standard english,CONCEPT,192047.0,679.0,6
+233,190210,student answer follow rule grammar,CONCEPT,141507.0,1.0,5
+234,190208,student follow spell rule,CONCEPT,141506.0,2.0,4
+235,265068,student answer consist british american english,CONCEPT,212097.0,679.0,6
+236,244816,student write use word cotext,CONCEPT,193244.0,4.0,5
+237,272769,student write essay,CONCEPT,220040.0,4.0,3
+238,190220,student answer opinion piec,CONCEPT,144187.0,4.0,4
+239,10367,die antwort enthalt die gesuchten stichwort,CONCEPT,,,6
+240,10398,ihr antwort ist inhaltlich korrekt,CONCEPT,,,5
+241,185944,correctli spell write text,CONCEPT,137676.0,,4
+242,80695,learner use correct ten,CONCEPT,55123.0,1.0,4
+243,80758,answer neg sentenc,CONCEPT,55126.0,4.0,3
+244,9289,answer contain verb look,CONCEPT,54951.0,4.0,4
+245,80757,answer posit sentenc,CONCEPT,55126.0,4.0,3
+246,92129,learn use correct ten,CONCEPT,55180.0,1.0,4
+247,190200,student write answer english,CONCEPT,141502.0,3.0,4
+248,190212,student answer use declar sentenc,CONCEPT,141508.0,1.0,5
+249,265293,student write salut,CONCEPT,212484.0,4.0,3
+250,265297,student write main bodi,CONCEPT,212487.0,4.0,4
+251,265301,student write greet,CONCEPT,212492.0,4.0,3
+252,190282,student respond email,CONCEPT,141563.0,4.0,3
+253,244818,student respond stori,CONCEPT,194843.0,5.0,3
+254,245911,student write topic,CONCEPT,193249.0,4.0,3
+255,246889,student write diari entri,CONCEPT,194204.0,4.0,4
+256,246961,student answer sentenc,CONCEPT,194277.0,758.0,3
+257,247621,student respond summari,CONCEPT,194912.0,4.0,3
+258,245919,student write monologu,CONCEPT,193256.0,4.0,3
+259,246380,student answer descript text,CONCEPT,193698.0,4.0,4
+260,349668,learner abl use spell strategi correctli,CONCEPT,309535.0,,6
+261,1578,student know word cash,CONCEPT,46525.0,,4
+262,59738,student know word cash,CONCEPT,46525.0,,4
+263,379303,learner abl use spell strategi correctli,CONCEPT,137676.0,,6
+264,381128,learner compos two dimension three dimension shape creat compos new composit shape,CONCEPT,342103.0,4.0,12
+265,379944,answer within scope task,CONCEPT,340377.0,,4
+266,381286,climat chang refer signific chang global temperatur weather pattern time climat chang natur phenomenon human activ major driver sinc th centuri primarili due burn fossil fuel increa greenhous ga level earth atmospher,CONCEPT,342514.0,4.0,32
+267,381288,impact climat chang widespread affect weather pattern sea level ecosystem global chang lead extrem weather event hurrican drought signific effect biodiver human societi threaten food secur health infrastructur,CONCEPT,342515.0,4.0,28
+268,379209,learner appli commut associ properti addit,CONCEPT,339468.0,4.0,6

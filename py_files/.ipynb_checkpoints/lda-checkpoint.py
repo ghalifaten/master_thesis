@@ -1,12 +1,13 @@
+import argparse
 import pandas as pd
 import gensim.corpora as corpora
 from gensim.models.ldamodel import LdaModel
 from pprint import pprint
 import matplotlib.pyplot as plt
 from gensim.models import CoherenceModel
-# import pyLDAvis
-# import pyLDAvis.gensim_models as gensimvis
-from itertools import product 
+from itertools import product
+
+parser = argparse.ArgumentParser()
 
 def get_corpus(data, min_len=3):
     # Create a Dictionary: a mapping between words and their integer IDs
@@ -78,13 +79,30 @@ def get_best_model(corpus, id2word, title, language, plot=False, save_plot=False
 
     return best_model 
 
-if __name__=="__main__":
-    
-    folder = "gen_files/EN/"
-    df = pd.read_csv(f"{folder}preprocessed/open_tasks_EN.csv")
+if __name__=="__main__": 
+    parser.add_argument('--lang', type=str, required=True, help='DE or EN')
+    args = parser.parse_args()
+    lang = args.lang.upper()
+
+    folder = f"gen_files/{lang}/"
+    df = pd.read_csv(f"{folder}preprocessed/open_tasks_{lang}.csv")
     print(f"Size of df: {len(df)}")
-    df_taskaspects = pd.read_csv(f"{folder}taskAspects_EN.csv")
+    df_taskaspects = pd.read_csv(f"{folder}taskAspects_{lang}.csv")
     
     # Keeping only the tasks that have one or more aspects of type CONCEPT
     df = pd.merge(df, df_taskaspects, on="taskId", how="inner") 
     df.reset_index(drop=True, inplace=True)
+
+    if len(df_taskaspects.taskId.unique()) != len(df.taskId.unique()): 
+        print("ERROR")
+    else: 
+        _df = df[["taskId", "description", "topic_id"]].drop_duplicates("taskId")
+        _df = _df.dropna(subset=["description"]).reset_index()
+        data = _df["description"].str.split().to_list() 
+        id2word, corpus = get_corpus(data)
+        lda_model = get_best_model(corpus=corpus, 
+                                   id2word=id2word, 
+                                   title="", 
+                                   language="")
+        
+        lda_model.show_topics()

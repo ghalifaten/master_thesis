@@ -1,0 +1,96 @@
+Processed open tasks DE 
+
+k=3, decay=0.8, iterations=50
+passes: 10, score: 0.42303790068873304
+passes: 20, score: 0.44711575143801285
+passes: 30, score: 0.46666054508612537
+passes: 40, score: 0.3979914216244779
+passes: 50, score: 0.374078836727129
+
+k=3, passes=30, iterations=50
+decay: 0.2, score: 0.3939701989595676
+decay: 0.5, score: 0.38609582722193725
+decay: 0.7, score: 0.4203734378768747
+decay: 0.8, score: 0.4118574126444177
+decay: 1, score: 0.4392594791377738
+
+k=3, passes=30, decay=1
+iterations: 50, score: 0.3999781911618556
+iterations: 60, score: 0.3899617991033515
+iterations: 70, score: 0.44497127318743823
+iterations: 80, score: 0.39762578757827294
+iterations: 90, score: 0.446490384261851
+iterations: 100, score: 0.3889856625763834
+
+k=3, decay=0.7, iterations=100
+passes: 60, score: 0.42528461484057645
+passes: 70, score: 0.43717725812271896
+passes: 80, score: 0.43369051722418334
+passes: 90, score: 0.41781179248228045
+passes: 100, score: 0.41727857670135315
+
+k=3, decay=1, iterations=100
+passes: 60, score: 0.3879573947262671
+passes: 70, score: 0.42505935082781915
+passes: 80, score: 0.42351367592136424
+passes: 90, score: 0.46244150924574273
+passes: 100, score: 0.43065866803068636
+
+##########################################
+Preprocessed open tasks EN 
+
+k=3, decay=1, iterations=100
+passes: 60, score: 0.36901054115433923
+passes: 70, score: 0.3604994560810497
+passes: 80, score: 0.358739842814433
+passes: 90, score: 0.35169901734169295
+passes: 100, score: 0.3995141884232994
+
+###########################################
+Preprocessed augmented DE 
+
+k=3, decay=1, iterations=100
+passes: 60, score: 0.5253647249552328
+passes: 70, score: 0.5471385479483541
+passes: 80, score: 0.5324796422784328
+passes: 90, score: 0.5332254212849402
+passes: 100, score: 0.5002556741696774
+
+k=3, decay=0.9, iterations=100
+passes: 60, score: 0.47256219323728893
+passes: 70, score: 0.4998520556732551
+passes: 80, score: 0.5681071696849368
+passes: 90, score: 0.4534083167474267
+passes: 100, score: 0.5391584871291069
+
+k=3, decay=0.9, iterations=100
+passes: 10, score: 0.5499038060390347
+passes: 20, score: 0.4591994068542385
+passes: 30, score: 0.5044541822968583
+passes: 40, score: 0.5614911877047016
+passes: 50, score: 0.5420106761776485
+
+###########################################
+Preprocessed augmented EN
+
+k=3, decay=1, iterations=100
+passes: 60, score: 0.4180425010012567
+passes: 70, score: 0.46416183825503604
+passes: 80, score: 0.46416183825503604
+passes: 90, score: 0.48596869320159514
+passes: 100, score: 0.5322352077394553
+
+k=3, decay=0.9, iterations=100
+passes: 60, score: 0.5180816441305349
+passes: 70, score: 0.48718677559974394
+passes: 80, score: 0.40471696857248624
+passes: 90, score: 0.4802275339863209
+passes: 100, score: 0.4512560181732069
+
+k=3, decay=0.9, iterations=100
+passes: 10, score: 0.5144169674600857
+passes: 20, score: 0.5088194670589156
+passes: 30, score: 0.5622987630943238
+passes: 40, score: 0.43437671787570037
+passes: 50, score: 0.48381273096887095
+
