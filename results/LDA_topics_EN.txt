@@ -1,0 +1,3 @@
+\textbf{Topic 0:} \textit{ship, translat, english, peopl, titan, lifeboat, day, sentenc, sink, belfast}
+\textbf{Topic 1:} \textit{translat, sentenc, english, follow, comput, sit, front, work, oil, natur}
+\textbf{Topic 2:} \textit{write, english, hear, pizza, day, play, forgot, look, sorri, help}

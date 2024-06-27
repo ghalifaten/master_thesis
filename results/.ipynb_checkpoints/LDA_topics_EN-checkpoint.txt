@@ -1,0 +1,3 @@
+	extbf{Topic 0:} 	extit{translat, english, sentenc, write, hear, follow, comput, sit, front, work, }
+	extbf{Topic 1:} 	extit{translat, forgot, pizza, bodi, find, dad, realli, eye, trip, sorri, }
+	extbf{Topic 2:} 	extit{ship, peopl, natur, oil, world, energi, water, titan, resourc, lifeboat, }
