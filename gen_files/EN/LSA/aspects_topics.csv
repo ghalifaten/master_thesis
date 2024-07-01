@@ -1,0 +1,267 @@
+aspectId,description,topic
+0,9639,word right order,0
+1,9937,good answer orang utan strong social bond,2
+2,9633,subject verb congruent,3
+3,11401,answer mention keyword look correctstat,2
+4,9984,verb conjug expect ten expectedten,3
+5,11221,subject verb congruent,3
+6,9992,well do use one give adverb,2
+7,9996,well do verb conjug past simpl,3
+8,10313,word right order,0
+9,9981,correctli mention correctstat,1
+10,12322,ye cute puppi inde aw super cute,3
+11,12714,word right order,0
+12,12728,answer mention keyword look,2
+13,183,abil convert text one languag anoth,1
+14,184,abil use right input format,2
+15,185,abil correctli match verb subject,3
+16,186,abil answer right languag,2
+17,187,correctli spell write text,1
+18,17042,abil convert text one languag anoth,1
+19,19487,correctli spell write text,1
+20,18153,abil correctli match verb subject,3
+21,1375,abil use right input format,2
+22,1376,abil correctli match verb subject,3
+23,1377,abil answer right languag,2
+24,124,learner abl use spell strategi correctli,1
+25,1380,abil formul answer correct ten,2
+26,15321,correctli spell write text,1
+27,27937,abil correctli match verb subject,3
+28,28070,abil formul answer correct ten,2
+29,1374,abil convert text one languag anoth,1
+30,27838,abil convert text one languag anoth,1
+31,1498,abil convert text one languag anoth,1
+32,1489,abil use right input format,2
+33,1490,abil correctli match verb subject,3
+34,1491,abil answer right languag,2
+35,1492,correctli spell write text,1
+36,49014,abil correctli match verb subject,3
+37,49047,correctli spell write text,1
+38,49253,abil convert text one languag anoth,1
+39,6925,abil write correct amount request inform,1
+40,27863,abil convert text one languag anoth,1
+41,1531,abil convert text one languag anoth,1
+42,1532,abil use right input format,2
+43,1533,abil correctli match verb subject,3
+44,1534,abil answer right languag,2
+45,1535,correctli spell write text,1
+46,49294,correctli spell write text,1
+47,1415,abil convert text one languag anoth,1
+48,1631,abil write correct amount request inform,1
+49,1417,abil correctli match verb subject,3
+50,1416,abil use right input format,2
+51,1418,abil answer right languag,2
+52,1419,correctli spell write text,1
+53,1632,abil formul answer correct ten,2
+54,1551,student know word dinner,0
+55,1612,aspect appli student write nonsen,0
+56,1611,aspect help student,0
+57,1623,detector theori,3
+58,30193,correctli spell write text,1
+59,49899,abil convert text one languag anoth,1
+60,54466,aspect help student,0
+61,56064,detector theori,3
+62,58747,student know word dinner,0
+63,51363,abil correctli match verb subject,3
+64,52829,abil formul answer correct ten,2
+65,1571,student know word attorney,0
+66,59492,student know word attorney,0
+67,1576,student know word author,0
+68,59692,student know word author,0
+69,1577,student know word bank,0
+70,59709,student know word bank,0
+71,1579,student know word build,0
+72,59755,student know word build,0
+73,1580,student know word profess,0
+74,59787,student know word profess,0
+75,1581,student know word offic,0
+76,59816,student know word offic,0
+77,1582,student know word comput,0
+78,59860,student know word comput,0
+79,1583,student know word experi,0
+80,59901,student know word experi,0
+81,1586,student know word captain,0
+82,60012,student know word captain,0
+83,1590,student know word dentist,0
+84,60101,student know word dentist,0
+85,1592,student know word chang,0
+86,60198,student know word chang,0
+87,1593,student know word mean,0
+88,60242,student know word mean,0
+89,1594,student know word pray,0
+90,60271,student know word pray,0
+91,1595,student know word stay,0
+92,60291,student know word stay,0
+93,1596,student know word think,0
+94,60332,student know word think,0
+95,1597,student know word expect,0
+96,60355,student know word expect,0
+97,1598,student know word fli,0
+98,60381,student know word fli,0
+99,1599,student know word believ,0
+100,60425,student know word believ,0
+101,1600,student know word cost,0
+102,60484,student know word cost,0
+103,1601,student know word live,0
+104,60510,student know word live,0
+105,1602,student know word rule,0
+106,60542,student know word rule,0
+107,1558,student know word chemistri,0
+108,60562,student know word chemistri,0
+109,1604,student know word speak,0
+110,60582,student know word speak,0
+111,1605,student know word wear,0
+112,60626,student know word wear,0
+113,1606,student know word earn,0
+114,60664,student know word earn,0
+115,1607,student know word understand,0
+116,60711,student know word understand,0
+117,1608,student know word grow,0
+118,60752,student know word grow,0
+119,1609,student know word want,0
+120,60775,student know word want,0
+121,1610,student know word pay,0
+122,60798,student know word pay,0
+123,1552,student know word alcohol,0
+124,58796,student know word alcohol,0
+125,1553,student know word appl,0
+126,58856,student know word appl,0
+127,1554,student know word banana,0
+128,58909,student know word banana,0
+129,1555,student know word tree,0
+130,58947,student know word tree,0
+131,1556,student know word beer,0
+132,58990,student know word beer,0
+133,1557,student know word bread,0
+134,59026,student know word bread,0
+135,1559,student know word diet,0
+136,59076,student know word diet,0
+137,1560,student know word egg,0
+138,59135,student know word egg,0
+139,1563,student know word meat,0
+140,59201,student know word meat,0
+141,1564,student know word breakfast,0
+142,59252,student know word breakfast,0
+143,1565,student know word veget,0
+144,59275,student know word veget,0
+145,1566,student know word coffe,0
+146,59304,student know word coffe,0
+147,1568,student know word cook,0
+148,59362,student know word cook,0
+149,1569,student know word spoon,0
+150,59437,student know word spoon,0
+151,1570,student know word oil,0
+152,59463,student know word oil,0
+153,1572,student know word work,0
+154,59536,student know word work,0
+155,1574,student know word physician,0
+156,59649,student know word physician,0
+157,1575,student know word task,0
+158,59672,student know word task,0
+159,1584,student know word success,0
+160,59953,student know word success,0
+161,1585,student know word salari,0
+162,59984,student know word salari,0
+163,1587,student know word qualiti,0
+164,60035,student know word qualiti,0
+165,1588,student know word job,0
+166,60061,student know word job,0
+167,1591,student know word scienc,0
+168,60142,student know word scienc,0
+169,5889,detector bullshit,0
+170,5890,detector help difficult,0
+171,5892,detector finish earli,0
+172,5909,detector theori,3
+173,5882,abil convert text one languag anoth,1
+174,5883,abil write correct amount request inform,1
+175,5884,abil correctli match verb subject,3
+176,5885,abil use right input format,2
+177,5886,abil answer right languag,2
+178,5887,correctli spell write text,1
+179,5888,abil formul answer correct ten,2
+180,61117,abil convert text one languag anoth,1
+181,61409,correctli spell write text,1
+182,61224,abil correctli match verb subject,3
+183,62273,abil formul answer correct ten,2
+184,6095,abil convert text one languag anoth,1
+185,6096,abil write correct amount request inform,1
+186,6097,abil correctli match verb subject,3
+187,6098,abil use right input format,2
+188,6099,abil answer right languag,2
+189,6100,correctli spell write text,1
+190,6101,abil formul answer correct ten,2
+191,62450,abil convert text one languag anoth,1
+192,63446,correctli spell write text,1
+193,62813,abil correctli match verb subject,3
+194,66358,abil formul answer correct ten,2
+195,7437,abil speak understand languag,2
+196,67770,abil speak understand languag,2
+197,7492,abil speak german english,2
+198,67953,abil speak german english,2
+199,7506,fluenci german english,2
+200,68045,correctli spell write text,1
+201,71214,understand locat region physic featur earth surfac,0
+202,68053,learner abl use spell strategi correctli,1
+203,68190,learner abl write correct sentenc,1
+204,71380,learner use correct ten,2
+205,8783,learner use swear word,0
+206,68218,learner provid offtop answer,2
+207,71388,learner make grammat correct sentenc,3
+208,9262,learner use correct ten,2
+209,9326,learner answer subject verb congruent,3
+210,70948,student abl use ten simpl past,3
+211,70965,learner abl write correct sentenc,1
+212,68380,learner abl correctli spell,1
+213,12472,die antwort enthalt die gesuchten stichwort correctstat,3
+214,12479,genau sie haben da hauptkonzept verstanden,3
+215,114811,answer contain want christma listen christma song,2
+216,125,student explain pictur use simpl sentenc,2
+217,172234,learner talk topic give task descript,0
+218,172240,learner correctli spell write text,1
+219,172270,answer consist correctli structur sentenc,1
+220,172282,subject verb congruent,3
+221,190218,student answer consist distinct sentenc,2
+222,265063,student use punctuat correctli,1
+223,190202,student enter answer,2
+224,190204,student answer clear languag,2
+225,190198,student write use appropri languag,1
+226,244871,student write sentenc reason length,1
+227,190216,student answer complet sentenc,2
+228,244896,student use term standard english slang,1
+229,244892,student write appropri level standard english,1
+230,190210,student answer follow rule grammar,2
+231,190208,student follow spell rule,0
+232,265068,student answer consist british american english,2
+233,244816,student write use word cotext,0
+234,272769,student write essay,0
+235,190220,student answer opinion piec,2
+236,10367,die antwort enthalt die gesuchten stichwort,3
+237,10398,ihr antwort ist inhaltlich korrekt,3
+238,185944,correctli spell write text,1
+239,80695,learner use correct ten,2
+240,80758,answer neg sentenc,2
+241,9289,answer contain verb look,3
+242,80757,answer posit sentenc,2
+243,92129,learn use correct ten,2
+244,190200,student write answer english,1
+245,190212,student answer use declar sentenc,2
+246,265293,student write salut,0
+247,265297,student write main bodi,0
+248,265301,student write greet,0
+249,190282,student respond email,3
+250,244818,student respond stori,3
+251,245911,student write topic,0
+252,246889,student write diari entri,0
+253,246961,student answer sentenc,2
+254,247621,student respond summari,3
+255,245919,student write monologu,0
+256,246380,student answer descript text,1
+257,349668,learner abl use spell strategi correctli,1
+258,1578,student know word cash,0
+259,59738,student know word cash,0
+260,379303,learner abl use spell strategi correctli,1
+261,381128,learner compos two dimension three dimension shape creat compos new composit shape,1
+262,379944,answer within scope task,2
+263,381286,climat chang refer signific chang global temperatur weather pattern time climat chang natur phenomenon human activ major driver sinc th centuri primarili due burn fossil fuel increa greenhous ga level earth atmospher,0
+264,381288,impact climat chang widespread affect weather pattern sea level ecosystem global chang lead extrem weather event hurrican drought signific effect biodiver human societi threaten food secur health infrastructur,0
+265,379209,learner appli commut associ properti addit,1

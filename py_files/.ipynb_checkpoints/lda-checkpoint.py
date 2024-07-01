@@ -126,7 +126,7 @@ if __name__=="__main__":
         path = f"{folder}preprocessed/open_tasks_{lang}.csv"
     df = pd.read_csv(path)
     print(f"Size of df: {len(df)}")
-    df_taskaspects = pd.read_csv(f"{folder}taskAspects_{lang}.csv")
+    df_taskaspects = pd.read_csv(f"{folder}taskAspects.csv")
     
     # Keeping only the tasks that have one or more aspects of type CONCEPT
     df = pd.merge(df, df_taskaspects, on="taskId", how="inner") 
