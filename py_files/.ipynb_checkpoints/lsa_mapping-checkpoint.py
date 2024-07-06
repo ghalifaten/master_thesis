@@ -38,18 +38,18 @@ if __name__ == "__main__":
 
     df_map2 = pd.merge(df_count_per_topic, df_count, on="taskTopic", how="left")
     df_map2["probability"] = df_map2["aspectCount"] / df_map2["count"]
+    df_map2.rename(columns={"count":"totalCount"}, inplace=True)
+    print(df_map2)
 
-    # print(df_map2)
-
+    print()
+    
     # Define threshold t to decide which topics to keep
     # t = 1/n, n is the number of assigned aspectTopics
     df_map2 = pd.merge(df_map2, df_map1[["taskTopic", "n"]], on="taskTopic", how="left") 
     mask = df_map2["probability"] >= df_map2["n"].apply(lambda x: 1/x)
     df_map2 = df_map2[mask]
-    df_map2.to_csv(f"{folder}/LSA/mapping_prob.csv") 
-    print(df_map2[["taskTopic", "aspectTopic"]].groupby("taskTopic")["aspectTopic"].apply(list).reset_index())
-
-    print()
+    df_map2.to_csv(f"{folder}/LSA/mapping.csv") 
+    mapping = df_map2[["taskTopic", "aspectTopic"]].groupby("taskTopic")["aspectTopic"].apply(list).reset_index()
     
     # Mapping 3.0 
     # Doing the same but considering the aspects instead     
@@ -71,4 +71,4 @@ if __name__ == "__main__":
     
     mask = df_map3["probability"] >= df_map3["n"].apply(lambda x: 1/x)
     df_map3 = df_map3[mask]
-    print(df_map3[["taskTopic", "aspectTopic"]].groupby("aspectTopic")["taskTopic"].apply(list).reset_index())
+    # print(df_map3[["taskTopic", "aspectTopic"]].groupby("aspectTopic")["taskTopic"].apply(list).reset_index())

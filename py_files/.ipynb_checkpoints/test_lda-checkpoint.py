@@ -118,7 +118,8 @@ if __name__=="__main__":
     # topics: [(1, p1), (2, p2), ..]
     topics = lda.get_document_topics(bow, minimum_probability=min_prob)
     topics_ids = dict(topics).keys() 
-
+    print(f"\nDetected topics of input are: {topics_ids}") 
+    
     # output is the IDs of aspects to recommend
     output = []
     for id in topics_ids:  
@@ -127,5 +128,5 @@ if __name__=="__main__":
             aspects = list(reader)[0]
             output += aspects
     # print(output)
-    print(f"Number of recommended aspects is: {len(output)}")
+    print(f"\nNumber of recommended aspects is: {len(output)}")
 

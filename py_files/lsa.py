@@ -13,6 +13,7 @@ from nltk.corpus import stopwords
 from sklearn.metrics.pairwise import cosine_similarity
 from gensim.models import CoherenceModel
 from gensim.corpora import Dictionary
+import pickle 
 
 parser = argparse.ArgumentParser()
 
@@ -97,16 +98,17 @@ if __name__=="__main__":
         # Compute Coherence Score using the 'u_mass' coherence measure
         coherence_model = CoherenceModel(topics=cm_topics, texts=tokenized_docs, dictionary=dictionary, coherence='u_mass')
         coherence_score = coherence_model.get_coherence() # mean of coherence scores per topic
-        print(f"{num_topics}: {coherence_score}")
+        print(f"& {num_topics} & {coherence_score} ")
         coh_scores.append(coherence_score)
         if coherence_score == max(coh_scores):
             best_n = num_topics
             best_model = (tfidf_vectorizer, svd, normalizer, lsa_output, topics)
 
     # save model to file 
-    filename = f"{lang}_{e}_lsamodel"
-    temp_file = datapath(filename)
-    best_model.save(temp_file)
+    filename = f"{lang}_{e}_lsamodel.pkl"
+    with open(filename, 'wb') as file:
+        pickle.dump(best_model, file)
+    
     print(f"\nModel saved in temp file {filename}\n")
         
     # Assign topics using best model

@@ -2,14 +2,15 @@ import argparse
 from googletrans import Translator
 import nltk
 from nltk.tokenize import sent_tokenize
-from gensim.models.ldamodel import LdaModel
-from gensim.test.utils import datapath
-import gensim.corpora as corpora
+import pickle
 from gensim.utils import simple_preprocess
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import spacy
-import csv 
+import pandas as pd
+
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
 
 nltk.download('punkt')
 stemmer = PorterStemmer()
@@ -74,17 +75,19 @@ def preprocess(text, lemmatizer, stopwords, stoplemmas, stemmer=stemmer):
     lemmas = [lemma.lower() for lemma in lemmas] 
     return " ".join(lemmas)
 
-def get_bow(text_data):
-    # create the vocabulary
-    vectorizer = CountVectorizer(input='content', stop_words=None, ngram_range=(1,1))
-    
-    # fit the vocabulary to the text data
-    vectorizer.fit(text_data)
-    
-    # create the bag-of-words model
-    bow_model = vectorizer.transform(text_data)
+def transform_text(text, tfidf_vectorizer, svd, normalizer):
+    text_tfidf = tfidf_vectorizer.transform([text])
+    text_lsa = svd.transform(text_tfidf)
+    text_lsa_normalized = normalizer.transform(text_lsa)
+    return text_lsa_normalized
 
-    return vectorizer, bow_model
+def assign_topic_to_text(text, topics_lsa_normalized):
+    # Transform test text to LSA space
+    text_lsa_normalized = transform_text(text, tfidf_vectorizer, svd, normalizer)
+    similarities = cosine_similarity(text_lsa_normalized, topics_lsa_normalized)
+    most_similar_topic_index = np.argmax(similarities)
+    return most_similar_topic_index
+
     
 if __name__=="__main__": 
     parser.add_argument('--lang', type=str, required=True, help='DE or EN')
@@ -94,8 +97,9 @@ if __name__=="__main__":
     doc = args.doc
     
     # Load model 
-    temp_file = datapath(f"{lang}_ldamodel")
-    lda = LdaModel.load(temp_file)
+    filename = f"{lang}_tasks_lsamodel.pkl"
+    with open(filename, 'rb') as file:
+        tfidf_vectorizer, svd, normalizer, lsa_output, topics = pickle.load(file)
     
     # Pre-process input document 
     ## Translate to lang
@@ -106,27 +110,26 @@ if __name__=="__main__":
     ## Pre-process
     stopwords, lemmatizer, stoplemmas = load_tools(lang)
     preprocessed = preprocess(truncated, lemmatizer, stopwords, stoplemmas)
-    tokenized = preprocessed.split()
 
-    # Fit input to model
-    id2word = corpora.Dictionary([tokenized])
-    bow = id2word.doc2bow(tokenized)
+    # Assign topics using loaded model
+    # Transform topics to LSA space
+    list_topics_normalized = []
+    for topic in topics:
+        list_topics_normalized.append(transform_text(" ".join(topic), tfidf_vectorizer, svd, normalizer)[0].tolist())
+        topics_lsa_normalized = np.array(list_topics_normalized)
+        
+    # Assign a topic to input 
+    assigned_topic = assign_topic_to_text(preprocessed, topics_lsa_normalized)
+    print(f"Assigned topic to input task: {assigned_topic}")
 
-    # Get topics
-    num_topics = len(lda.get_topics())
-    min_prob = 1/num_topics
-    # topics: [(1, p1), (2, p2), ..]
-    topics = lda.get_document_topics(bow, minimum_probability=min_prob)
-    topics_ids = dict(topics).keys() 
-    print(f"\nDetected topics of input are: {topics_ids}") 
-    
-    # output is the IDs of aspects to recommend
-    output = []
-    for id in topics_ids:  
-        with open(f"results/lda_aspects_topic_{id}") as f:
-            reader = csv.reader(f)
-            aspects = list(reader)[0]
-            output += aspects
-    # print(output)
-    print(f"\nNumber of recommended aspects is: {len(output)}")
+    # Assign the recommended topic(s) of aspects and then the list of aspects as saved in file
+    folder = f"gen_files/{lang}/LSA/"
+    df_mapping = pd.read_csv(f"{folder}mapping.csv")
+    aspect_topics = df_mapping[df_mapping["taskTopic"] == assigned_topic]["aspectTopic"]
+    aspect_topics = aspect_topics.to_list()
+    df_aspects = pd.read_csv(f"{folder}aspects_topics.csv")[["aspectId", "topic"]]
+    df_aspects = df_aspects.drop_duplicates().groupby("topic")["aspectId"].apply(list).reset_index()
+    recommended_aspects = df_aspects[df_aspects["topic"].isin(aspect_topics)]["aspectId"] 
+    output = list(set(item for sublist in recommended_aspects for item in sublist))
 
+    print(f"{len(output)} aspects are recommended:\n {output}")

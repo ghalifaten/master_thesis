@@ -56,11 +56,11 @@ aspectId,description,topic
 54,1551,student know word dinner,0
 55,1612,aspect appli student write nonsen,0
 56,1611,aspect help student,0
-57,1623,detector theori,3
+57,1623,detector theori,0
 58,30193,correctli spell write text,1
 59,49899,abil convert text one languag anoth,1
 60,54466,aspect help student,0
-61,56064,detector theori,3
+61,56064,detector theori,0
 62,58747,student know word dinner,0
 63,51363,abil correctli match verb subject,3
 64,52829,abil formul answer correct ten,2
@@ -171,7 +171,7 @@ aspectId,description,topic
 169,5889,detector bullshit,0
 170,5890,detector help difficult,0
 171,5892,detector finish earli,0
-172,5909,detector theori,3
+172,5909,detector theori,0
 173,5882,abil convert text one languag anoth,1
 174,5883,abil write correct amount request inform,1
 175,5884,abil correctli match verb subject,3
@@ -248,12 +248,12 @@ aspectId,description,topic
 246,265293,student write salut,0
 247,265297,student write main bodi,0
 248,265301,student write greet,0
-249,190282,student respond email,3
-250,244818,student respond stori,3
+249,190282,student respond email,2
+250,244818,student respond stori,2
 251,245911,student write topic,0
 252,246889,student write diari entri,0
 253,246961,student answer sentenc,2
-254,247621,student respond summari,3
+254,247621,student respond summari,2
 255,245919,student write monologu,0
 256,246380,student answer descript text,1
 257,349668,learner abl use spell strategi correctli,1

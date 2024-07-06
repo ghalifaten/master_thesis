@@ -12,24 +12,9 @@ from scipy.spatial.distance import pdist, squareform
 import numpy as np
 from gensim.test.utils import datapath
 import csv
+
 parser = argparse.ArgumentParser()
 
-def append_to_line(filename, line_number, append_str):
-    # Read all lines from the file
-    with open(filename, 'r') as file:
-        lines = file.readlines()
-    
-    # Check if the specified line number is within the bounds of the file
-    if 0 <= line_number < len(lines):
-        # Append the string to the specified line
-        lines[line_number] = lines[line_number].rstrip('\n') + append_str + '\n'
-    else:
-        raise IndexError("Line number out of range")
-
-    # Write all lines back to the file
-    with open(filename, 'w') as file:
-        file.writelines(lines)
-        
 def get_corpus(data, min_len=3):
     # Create a Dictionary: a mapping between words and their integer IDs
     id2word = corpora.Dictionary(data)
@@ -43,7 +28,7 @@ def get_corpus(data, min_len=3):
     
     return id2word, corpus
 
-def get_model(corpus, id2word, res_file, num_topics=3, passes=10, decay=0.5, iterations=50):
+def get_model(corpus, id2word, num_topics=3, passes=10, decay=0.5, iterations=50):
     coh_scores = []
     lda_model = LdaModel(
         corpus=corpus, 
@@ -66,12 +51,9 @@ def get_model(corpus, id2word, res_file, num_topics=3, passes=10, decay=0.5, ite
         coherence='c_v')
         
     coherence_lda = coherence_model_lda.get_coherence()
-    # put in shape and save to txt file
+    # TODO put in shape and save to txt file
     print(f"topics={num_topics}, passes={passes}: {coherence_lda}")
-    append_str = " & {:.3f}".format(coherence_lda)
-    line_number = passes//20 - 1 
-    append_to_line(res_file, line_number, append_str)
-    
+
     return lda_model, coherence_lda
 
 def plot_coh_score(coh_scores, x_range, title, language, save=True): 
@@ -84,15 +66,14 @@ def plot_coh_score(coh_scores, x_range, title, language, save=True):
     if save:
         ax.get_figure().savefig("figures/LDA_coh_"+language, bbox_inches="tight")
 
-def get_best_model(corpus, id2word, res_file, title, language, plot=False, save_plot=False):
+def get_best_model(corpus, id2word, title, language, plot=False, save_plot=False):
     coh_scores = []
     decay = 0.8 
     iterations = 100
-    for num_topics, passes in itertools.product(range(2, 6), range(20, 120, 20)):
+    for num_topics, passes in itertools.product(range(3, 4), range(40, 41)):
         print(num_topics, passes)
         lda_model, coherence_lda = get_model(corpus, 
                                              id2word, 
-                                             res_file,
                                              num_topics=num_topics, 
                                              passes=passes, 
                                              decay=decay, 
@@ -140,33 +121,10 @@ if __name__=="__main__":
         _df = _df.dropna(subset=["description"]).reset_index()
         data = _df["description"].str.split().to_list() 
         id2word, corpus = get_corpus(data)
-        res_file = f"results/LDA_models_{lang}.txt"
-        with open(res_file, "w") as f:  
-            for p in range(20, 60, 20):  
-                s = "& "+str(p)+"\n"
-                f.write(s)
         lda_model = get_best_model(corpus=corpus, 
                                    id2word=id2word, 
-                                   res_file=res_file,
                                    title="", 
                                    language="")
-        for n in range(2):  
-            append_to_line(res_file, n, " \\\\")
-        # put in shape and save to txt file
-        topics_prob = lda_model.show_topics() 
-        with open(f"results/LDA_topics_{lang}.txt", "w") as f: 
-            for i, s in topics_prob:
-                f.write("\\textbf{Topic ") 
-                f.write(str(i))
-                f.write(":} \\textit{") 
-                l = s.split("+")  
-                for k in range(len(l)):  
-                    if k>0: 
-                        f.write(", ")
-                    e = l[k]
-                    w = e.split("*")[1].strip()[1:-1]
-                    f.write(w) 
-                f.write("}\n")
         
         # save model to file 
         temp_file = datapath(f"{lang}_ldamodel")
@@ -194,25 +152,22 @@ if __name__=="__main__":
                                         on="taskId", 
                                         how="inner").drop(columns=["index"])
         
+        num_topics = len(lda_model.show_topics())
         retained_aspects_per_topic = []
-        num_topics = len(topics_prob)
         for i in range(num_topics): 
-            df_topic = df_task_topic_aspect[[i, "aspectId"]].dropna(subset=[i]).reset_index(drop=True)             
+            df_topic = df_task_topic_aspect[[i, "aspectId"]].dropna(subset=[i]).reset_index(drop=True) 
             list_aspects = df_topic["aspectId"].to_list()  
             list_aspects = list(itertools.chain.from_iterable(list_aspects))
-            with open(f"results/lda_aspects_topic_{i}", "w") as f: 
-                write = csv.writer(f)
-                write.writerow(set(list_aspects))
-            retained_aspects_per_topic.append(set(list_aspects))  
+#            retained_aspects_per_topic.append(set(list_aspects))  
             
             ## To reduce the number of aspects in each topic, and for the attribution of aspects to topics be as accurate as possible, we remove the least occurrent aspects in each topic. To do so, we define a threshold of occurrence (t) based on the values of the occurrences in each topic. t is defined by the median value. A fixed value of t risks having empty results.
-            """           
+                       
             aspects_occurrences = Counter(list_aspects) 
             t = median(aspects_occurrences.values())
             retained_occ = dict(filter(lambda x: x[1] > t, aspects_occurrences.items()))
             retained_aspects = list(retained_occ.keys())
             retained_aspects_per_topic.append(set(retained_aspects))
-            """
+           
 
         ## Evaluation with jaccard dissimilarity 
         # Example usage
