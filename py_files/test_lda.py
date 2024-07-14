@@ -10,6 +10,7 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import spacy
 import csv 
+import json
 
 nltk.download('punkt')
 stemmer = PorterStemmer()
@@ -118,15 +119,15 @@ if __name__=="__main__":
     # topics: [(1, p1), (2, p2), ..]
     topics = lda.get_document_topics(bow, minimum_probability=min_prob)
     topics_ids = dict(topics).keys() 
-    print(f"\nDetected topics of input are: {topics_ids}") 
+    print(f"\nDetected topics of input are: {list(topics_ids)}") 
     
     # output is the IDs of aspects to recommend
     output = []
-    for id in topics_ids:  
-        with open(f"results/lda_aspects_topic_{id}") as f:
-            reader = csv.reader(f)
-            aspects = list(reader)[0]
+    with open(f'results/LDA_mapped_aspects_{lang}.json') as json_file:
+        aspects_per_topic = json.load(json_file)
+        for id in topics_ids:
+            aspects = aspects_per_topic[str(id)]
             output += aspects
-    # print(output)
+            
     print(f"\nNumber of recommended aspects is: {len(output)}")
 

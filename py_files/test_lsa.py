@@ -132,4 +132,4 @@ if __name__=="__main__":
     recommended_aspects = df_aspects[df_aspects["topic"].isin(aspect_topics)]["aspectId"] 
     output = list(set(item for sublist in recommended_aspects for item in sublist))
 
-    print(f"{len(output)} aspects are recommended:\n {output}")
+    print(f"Number of recommended aspects: {len(output)}")

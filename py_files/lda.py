@@ -12,6 +12,7 @@ from scipy.spatial.distance import pdist, squareform
 import numpy as np
 from gensim.test.utils import datapath
 import csv
+import json 
 
 parser = argparse.ArgumentParser()
 
@@ -71,7 +72,6 @@ def get_best_model(corpus, id2word, title, language, plot=False, save_plot=False
     decay = 0.8 
     iterations = 100
     for num_topics, passes in itertools.product(range(3, 4), range(40, 41)):
-        print(num_topics, passes)
         lda_model, coherence_lda = get_model(corpus, 
                                              id2word, 
                                              num_topics=num_topics, 
@@ -104,77 +104,91 @@ if __name__=="__main__":
     if model=="A":
         path = f"{folder}preprocessed/trimmed_open_tasks.csv"
     else:
-        path = f"{folder}preprocessed/open_tasks_{lang}.csv"
+        path = f"{folder}preprocessed/open_tasks.csv"
     df = pd.read_csv(path)
     print(f"Size of df: {len(df)}")
-    df_taskaspects = pd.read_csv(f"{folder}taskAspects.csv")
+    df_taskaspects = pd.read_csv(f"{folder}concept_task_aspects.csv")
     
-    # Keeping only the tasks that have one or more aspects of type CONCEPT
     df = pd.merge(df, df_taskaspects, on="taskId", how="inner") 
     df.reset_index(drop=True, inplace=True)
 
-    if len(df_taskaspects.taskId.unique()) != len(df.taskId.unique()): 
-        print("ERROR")
+    _df = df[["taskId", "description", "topic_id"]].drop_duplicates("taskId")
+    _df = _df.dropna(subset=["description"]).reset_index()
+    data = _df["description"].str.split().to_list() 
+    id2word, corpus = get_corpus(data)
+    lda_model = get_best_model(corpus=corpus, 
+                               id2word=id2word, 
+                               title="", 
+                               language="")
+    
+    # save model to file 
+    temp_file = datapath(f"{lang}_ldamodel")
+    lda_model.save(temp_file)
+    print(f"\nModel saved in temp file {lang}_ldamodel\n")
+    
+    # Attribution of labels 
+    documents = _df["description"].to_list()
+    ## Infer topic distributions for each document
+    topic_distributions = lda_model.get_document_topics(corpus)
+    doc_to_topic = {}
+    for (i, d) in enumerate(topic_distributions): 
+        doc_to_topic[i] = {u:v for (u,v) in d} 
+    df1 = pd.DataFrame.from_dict(doc_to_topic, orient='index').sort_index()
+    ## Replace values that are less than 1/n by NaN 
+    num_topics = len(lda_model.show_topics())
+    df1 = df1.mask(df1 < 1/num_topics).reset_index() 
 
-    else: 
-        _df = df[["taskId", "description", "topic_id"]].drop_duplicates("taskId")
-        _df = _df.dropna(subset=["description"]).reset_index()
-        data = _df["description"].str.split().to_list() 
-        id2word, corpus = get_corpus(data)
-        lda_model = get_best_model(corpus=corpus, 
-                                   id2word=id2word, 
-                                   title="", 
-                                   language="")
+    ## df_tasks_topic: [taskId, 0, 1, ...] where 0, 1, ... are the topics
+    df_tasks_topics = pd.concat([_df[["taskId"]], df1], axis=1) 
+    ## df_task_to_aspects: [taskId, aspectId] where aspectId is the list of aspect Ids attributed to that task
+    df_task_to_aspects = df_taskaspects.groupby(by="taskId")["aspectId"].apply(list).reset_index()
+    ##df_task_topic_aspect: [taskId, 0,1,..., aspectId]
+    df_task_topic_aspect = pd.merge(df_tasks_topics, 
+                                    df_task_to_aspects, 
+                                    on="taskId", 
+                                    how="inner").drop(columns=["index"])
+    
+    print("BEFORE REDUCTION")
+    retained_aspects_per_topic = []
+    for i in range(num_topics): 
+        df_topic = df_task_topic_aspect[[i, "aspectId"]].dropna(subset=[i]).reset_index(drop=True) 
+        list_aspects = df_topic["aspectId"].to_list()  
+        list_aspects = list(itertools.chain.from_iterable(list_aspects))
+        retained_aspects_per_topic.append(set(list_aspects))  
+        print(f"Topic {i}, #aspects = {len(set(list_aspects))}")
         
-        # save model to file 
-        temp_file = datapath(f"{lang}_ldamodel")
-        lda_model.save(temp_file)
-        print(f"\nModel saved in temp file {lang}_ldamodel\n")
-        
-        # Attribution of labels 
-        documents = _df["description"].to_list()
-        ## Infer topic distributions for each document
-        topic_distributions = lda_model.get_document_topics(corpus)
-        doc_to_topic = {}
-        for (i, d) in enumerate(topic_distributions): 
-            doc_to_topic[i] = {u:v for (u,v) in d} 
-        df1 = pd.DataFrame.from_dict(doc_to_topic, orient='index').sort_index()
-        ## Replace values that are less than 1/3 by NaN 
-        df1 = df1.mask(df1 < 1/3).reset_index() 
+    ## Evaluation with jaccard dissimilarity 
+    dissimilarities = []
+    for s1, s2 in itertools.combinations(retained_aspects_per_topic, 2): 
+        dis = jaccard_dissimilarity(s1, s2) 
+        dissimilarities.append(dis) 
+    print(f'score: {np.mean(dissimilarities)}') 
 
-        ## df_tasks_topic: [taskId, 0, 1, ...] where 0, 1, ... are the topics
-        df_tasks_topics = pd.concat([_df[["taskId"]], df1], axis=1) 
-        ## df_task_to_aspects: [taskId, aspectId] where aspectId is the list of aspect Ids attributed to that task
-        df_task_to_aspects = df_taskaspects.groupby(by="taskId")["aspectId"].apply(list).reset_index()
-        ##df_task_topic_aspect: [taskId, 0,1,..., aspectId]
-        df_task_topic_aspect = pd.merge(df_tasks_topics, 
-                                        df_task_to_aspects, 
-                                        on="taskId", 
-                                        how="inner").drop(columns=["index"])
-        
-        num_topics = len(lda_model.show_topics())
-        retained_aspects_per_topic = []
-        for i in range(num_topics): 
-            df_topic = df_task_topic_aspect[[i, "aspectId"]].dropna(subset=[i]).reset_index(drop=True) 
-            list_aspects = df_topic["aspectId"].to_list()  
-            list_aspects = list(itertools.chain.from_iterable(list_aspects))
-#            retained_aspects_per_topic.append(set(list_aspects))  
-            
-            ## To reduce the number of aspects in each topic, and for the attribution of aspects to topics be as accurate as possible, we remove the least occurrent aspects in each topic. To do so, we define a threshold of occurrence (t) based on the values of the occurrences in each topic. t is defined by the median value. A fixed value of t risks having empty results.
-                       
-            aspects_occurrences = Counter(list_aspects) 
-            t = median(aspects_occurrences.values())
-            retained_occ = dict(filter(lambda x: x[1] > t, aspects_occurrences.items()))
-            retained_aspects = list(retained_occ.keys())
-            retained_aspects_per_topic.append(set(retained_aspects))
-           
+        #LABELS REDUCTION
+        ## To reduce the number of aspects in each topic, and for the attribution of aspects to topics be as accurate as possible, we remove the least occurrent aspects in each topic. To do so, we define a threshold of occurrence (t) based on the values of the occurrences in each topic. t is defined by the median value. A fixed value of t risks having empty results.
 
-        ## Evaluation with jaccard dissimilarity 
-        # Example usage
-        print("Jaccard dissimilarity between the sets of aspects in each topic:")
-        dissimilarities = []
-        for s1, s2 in itertools.combinations(retained_aspects_per_topic, 2): 
-            dis = jaccard_dissimilarity(s1, s2) 
-            print(f"Topic {retained_aspects_per_topic.index(s1)}, Topic {retained_aspects_per_topic.index(s2)}: \t {dis}")
-            dissimilarities.append(dis) 
-        print(f'Average pairwise Jaccard dissimilarity: {np.mean(dissimilarities)}') 
+    print("\nAFTER REDUCTION")
+    retained_aspects_per_topic = []
+    for i in range(num_topics): 
+        df_topic = df_task_topic_aspect[[i, "aspectId"]].dropna(subset=[i]).reset_index(drop=True) 
+        list_aspects = df_topic["aspectId"].to_list()  
+        list_aspects = list(itertools.chain.from_iterable(list_aspects))
+        
+        aspects_occurrences = Counter(list_aspects) 
+        t = median(aspects_occurrences.values())
+        retained_occ = dict(filter(lambda x: x[1] > t, aspects_occurrences.items()))
+        retained_aspects = list(retained_occ.keys())
+        retained_aspects_per_topic.append(set(retained_aspects))
+        print(f"Topic {i}, t = {t}, #aspects = {len(set(retained_aspects))}")
+        
+    ## Evaluation with jaccard dissimilarity 
+    dissimilarities = []
+    for s1, s2 in itertools.combinations(retained_aspects_per_topic, 2): 
+        dis = jaccard_dissimilarity(s1, s2) 
+        dissimilarities.append(dis) 
+    print(f'score: {np.mean(dissimilarities)}') 
+
+    result_as_dict = {topic: list(ids) for topic, ids in enumerate(retained_aspects_per_topic)}
+    with open(f"results/LDA_mapped_aspects_{lang}.json", "w") as outfile: 
+        json.dump(result_as_dict, outfile)
+        

@@ -9,12 +9,12 @@ aspectId,description,topic
 7,15321,can correctli spell written text,2
 8,21,antwortsatz enthalt strukturelement substantiv verb artikel usw,0
 9,4,antwort wurd satz geben,1
-10,44,ausfuhrlich anweisungen hinzufugen,1
+10,44,ausfuhrlich anweisungen hinzufugen,2
 11,12935,antwortsatz enthalt strukturelement substantiv verb artikel usw,0
 12,82,antwort wurd satz geben,1
 13,14185,lernend person lage korrekt satz schreiben,0
-14,14303,lernend person lage rechtschreibstrategie korrekt anwenden,2
-15,174,lernend person lage rechtschreibstrategie korrekt anwenden,2
+14,14303,lernend person lage rechtschreibstrategie korrekt anwenden,0
+15,174,lernend person lage rechtschreibstrategie korrekt anwenden,0
 16,84,antwort wurd gewunscht zeitform geben prasen,1
 17,85,gegeben antwort stimmen verbform subjekt person zahl uberein,0
 18,16585,antwort wurd gewunscht zeitform geben prasen,1
@@ -47,9 +47,9 @@ aspectId,description,topic
 45,69525,lernend korrekt verb verwenden,2
 46,110004,lernend lage modalverb richtig konjugieren,2
 47,92070,lernend verstandni dampfdruck flussigkeit gleich umgebungsdruck daher fallen siedepunkt fallend umgebungsdruck siedepunkt direkt dampfdruck flussigkeit zusammenhangt,2
-48,92494,lernend verstand verringerung siedepunkt flussigkeit senken umgebungsdruck gehen,2
+48,92494,lernend verstand verringerung siedepunkt flussigkeit senken umgebungsdruck gehen,1
 49,184384,lernend geben leer antwort ab,1
-50,184389,lernend rechtschreib grammatikfehl machen,0
+50,184389,lernend rechtschreib grammatikfehl machen,2
 51,184394,lernend verwenden angemessen sprechen,2
 52,184392,lernend geben antwort ganz worter ab,1
 53,184390,lernend geben thema relevant antwort,1
@@ -65,8 +65,8 @@ aspectId,description,topic
 63,198353,lernend antworten aufzahlung,1
 64,199038,lernend geschwindigkeiten umrechnen,2
 65,214521,lernend mathematisch berechnen losung finden,2
-66,208858,lernend losungsweg aufzeigen,1
-67,199018,lernend kennen verschiede bewegungsarten,2
+66,208858,lernend losungsweg aufzeigen,2
+67,199018,lernend kennen verschiede bewegungsarten,1
 68,193514,lernend beschreiben antwort,0
 69,199535,lernend verstehen konzept elektrisch widerstand,0
 70,184531,lernend erlautern antwort,0
@@ -76,8 +76,8 @@ aspectId,description,topic
 74,198017,lernend konzept additiv farbmischung verstehen,0
 75,184919,lernend verstehen kontakt elektrisch systemen geschlossen stromkrei bilden,2
 76,184537,lernend notieren antwort,0
-77,198928,lernend kennen merkmal hebel,2
-78,199366,lernend erklar aussag uber beschleunigungswern fahrzeug bedeuten,1
+77,198928,lernend kennen merkmal hebel,1
+78,199366,lernend erklar aussag uber beschleunigungswern fahrzeug bedeuten,0
 79,188271,lernend lage elektrog gluhlamp fohn aufzahlen,2
 80,193310,lernend nennen drei gerat antwort,0
 81,203870,lernend verwenden angemessen sprechen,2
@@ -85,7 +85,7 @@ aspectId,description,topic
 83,203874,lernend geben leer antwort ab,1
 84,203876,lernend geben antwort ganz worter ab,1
 85,215871,lernend verstehen kontrol korper getrennt hirnhemispharen erfolgen,2
-86,198605,lernend kennen unterschied fest losen rollen,0
+86,198605,lernend kennen unterschied fest losen rollen,1
 87,199598,lernend verstehen formel r u x i richtig anwend,2
 88,199090,lernend erkennen gefahr fehleinschatzen geschwindigkeiten straßenverkehr entsteh konn,2
 89,186297,lernend geben leer antwort ab,1
@@ -116,7 +116,7 @@ aspectId,description,topic
 114,224672,antwort inhalt,0
 115,224652,antwort rahmen aufgabenstellung,0
 116,224680,antwort enthalt rechtschreibfehl,0
-117,224683,lernend satzintegritatsfehl machen,2
+117,224683,lernend satzintegritatsfehl machen,0
 118,109986,lernend modalverbe prasen setzen,2
 119,113590,lernend partizip ii schwach verben bilden,2
 120,110913,lernend hilfsverb passiv prasen setzen,2
@@ -137,7 +137,7 @@ aspectId,description,topic
 135,109005,lernend schwach verb prateritum setzen,2
 136,277065,verb stehen indikativ,2
 137,109007,lernend stark verben prateritum setzen,2
-138,185922,lernend reflexivpronom entsprechend deklinieren,2
+138,185922,lernend reflexivpronom entsprechend deklinieren,1
 139,274691,lernend verben prasen setzen,2
 140,275969,luck enthalt reflexivpronomen,0
 141,274877,antwort wurd verb bilden,0
@@ -168,13 +168,13 @@ aspectId,description,topic
 166,215961,lernend doppelkonnektor verwend,2
 167,215967,lernend doppelkonnektor verwend,2
 168,189806,lernend relativsatz formulieren,2
-169,181856,lernend relativpronome entsprechend deklinieren,2
+169,181856,lernend relativpronome entsprechend deklinieren,1
 170,224668,antwort enthalt relativpronomen,0
 171,224699,antwort enthalt vorgeben relativpronom,0
 172,379666,antwort inhalt,0
 173,379672,antwort rahmen aufgabenstellung,0
 174,379669,antwort enthalt rechtschreibfehl,0
-175,379713,lernend satzintegritatsfehl machen,2
+175,379713,lernend satzintegritatsfehl machen,0
 176,379717,struktur antwort stimmen musterlosung uberein,0
 177,184257,lernend adjekt komparativ anwend,2
 178,174784,lernend prafix trennbaren verben erkennen,2
@@ -186,11 +186,11 @@ aspectId,description,topic
 184,379842,verb indikativ hauptsatz subjekt angeglichen,2
 185,379844,lernend verben prasen setzen,2
 186,224592,lernend infinitiv erganzen,2
-187,8067,werden genugend mobel einrichtungsgegenstand aufgezahlen,1
-188,8864,folgend konzept richtig erwahnen correctstat,2
+187,8067,werden genugend mobel einrichtungsgegenstand aufgezahlen,2
+188,8864,folgend konzept richtig erwahnen correctstat,0
 189,9048,antwort enthalt gesucht stichwort,0
 190,7977,antwort inhaltlich richtig,0
-191,9385,folgend konzept richtig erwahnen correctstat,2
+191,9385,folgend konzept richtig erwahnen correctstat,0
 192,7924,antwort inhaltlich korrekt,0
 193,7966,antwort enthalt gesucht stichwort,0
-194,8872,mobel einrichtungsgegenstand kuch aufgezahlt,1
+194,8872,mobel einrichtungsgegenstand kuch aufgezahlt,2

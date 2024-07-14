@@ -213,7 +213,7 @@ aspectId,description,topic
 211,70965,learner abl write correct sentenc,1
 212,68380,learner abl correctli spell,1
 213,12472,die antwort enthalt die gesuchten stichwort correctstat,3
-214,12479,genau sie haben da hauptkonzept verstanden,3
+214,12479,genau sie haben da hauptkonzept verstanden,0
 215,114811,answer contain want christma listen christma song,2
 216,125,student explain pictur use simpl sentenc,2
 217,172234,learner talk topic give task descript,0
@@ -248,12 +248,12 @@ aspectId,description,topic
 246,265293,student write salut,0
 247,265297,student write main bodi,0
 248,265301,student write greet,0
-249,190282,student respond email,2
-250,244818,student respond stori,2
+249,190282,student respond email,3
+250,244818,student respond stori,3
 251,245911,student write topic,0
 252,246889,student write diari entri,0
 253,246961,student answer sentenc,2
-254,247621,student respond summari,2
+254,247621,student respond summari,3
 255,245919,student write monologu,0
 256,246380,student answer descript text,1
 257,349668,learner abl use spell strategi correctli,1

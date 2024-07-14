@@ -1,0 +1,504 @@
+index,taskId,language,description,context,topic_id,word_count
+0,1607,2QkmBB3YvxU6LgLCuoBdXl,EN,Schreibe was du hörst auf Englisch.,,,6
+1,1382,1oofeqGDvMD9NxDJTxbdLP,EN,Translate the following sentence to English: Der Junge isst einen Apfel.,,,11
+2,1335,1yO06uSMcdj7ROMOlqSRXG,EN,"Translate ""Du darfst seine Bibliothek benutzen."" to English.",,,8
+3,3924,6JC58Id3Xpj8AdzXgZ53lQ,EN,Define the elements of negligence in relation to the case of John vs. Tree Safe Solutions (TSS).,"The City Government Spaces Authority (CGSA) responsible for urban parks, initiated a project to enhance safety in Central Park by
+assessing and maintaining old trees. Over three weeks in April, CGSA, in collaboration with the Tree Health Committee (THC),
+conducted thorough inspections and decided to implement THC&#39;s recommendations to either remove or prune any trees that showed
+signs of disease or structural weakness. THC directly supervised the inspections carried out by the contracted company, Tree Safe
+Solutions (TSS).
+On 15 July, after a period of heavy rainfall, an old oak tree in Central Park, which had been inspected and cleared by THC and TSS,
+unexpectedly fell onto a picnic area. The falling tree resulted in serious injuries to several people, including John, who suffered a
+broken leg and other injuries. Post-incident investigations revealed that the tree had significant internal rot, which had not been
+detected during the inspection.
+The accident attracted widespread media attention, raising public concerns about the safety of other trees in the park. John, alarmed
+by the incident, contacted CGSA for information about the safety measures in place. CGSA, relying on THC&#39;s supervision and TSS&#39;s
+inspection reports, assured John that the trees in the park were safe and posed no further risks. Trusting this assurance, John
+continued his regular activities in the park.
+On 20 September, another tree that had been inspected and deemed safe by THC and TSS, fell near John while he was jogging,
+causing him to trip and reinjure his leg. This incident necessitated additional medical treatment and significantly impacted John&#39;s daily
+life and work.
+Meanwhile, Sarah, who runs a small café near the park, noticed a significant drop in business after the first tree incident. Concerned
+about the ongoing safety of the park, she reached out to CGSA for reassurance, explaining that her business depended on park
+visitors. CGSA, based on the reports from THC and TSS, assured Sarah that the park was safe and that no further incidents were
+expected. Relying on this assurance, Sarah decided to invest in expanding her outdoor seating area to attract more customers.
+However, after the second tree incident, park attendance dropped even further, causing Sarah significant financial loss due to her
+recent investment.
+John and Sarah now seek legal advice on whether they can pursue a negligence claim against any party regarding their injuries and
+losses, focusing on the negligent misstatement by CGSA about the safety of the trees. Assess whether the elements of negligence,
+
+specifically negligent misstatement, are present and discuss any potential defenses. Also, briefly consider the remedies they might
+be entitled to if their claims are successful.
+Support your advice with references to relevant case law and legislation. You do not need to reference any information outside the
+provided details and your general knowledge. Where facts are ambiguous, make reasonable inferences. Mention any ambiguities
+and the inferences you draw to ensure comprehensive advice. Avoid discussing other areas of law, such as consumer protection or
+criminal law, and limit your analysis to the applicable Civil Wrongs Act. Assume no statutory duties are involved in this scenario.
+Focus on potential liabilities of identified parties, and do not consider the quantum of damages but rather the appropriate heads of
+damages (e.g., loss of income). Do not address the apportionment of liability among multiple wrongdoers, if applicable.",,17
+4,4462,47SQ50T1BjN67keexBL9L6,EN,"If a number has 9 ones, 2 tens, and 3 hundreds, then what is the number?  Type in your answer. You may click on any model to make it larger.",,,30
+5,1377,4VGrQMsi4Lf6HJR9cpYwXt,EN,"Translate ""He loves me"" to german:",,,6
+6,922,9Mc5FyG63rf6kYt9niCyf1,EN,"Great Expectations by Charles Dickens My father's family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So I called myself Pip, and came to be called Pip. I give Pirrip as my father's family name, on the authority of his tombstone and my sister — Mrs. Joe Gargery, who married the blacksmith. As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs), my first fancies regarding what they were like were unreasonably derived from their tombstones. The shape of the letters on my father's gave me an odd idea that he was a square, stout, dark man with curly black hair. From the character and turn of the inscription, ""also Georgiana wife of the above,"" I drew a childish conclusion that my mother was freckled and sickly. To five little stone lozenges, each about a foot and a half long, which were arranged in a neat row beside their grave, and were sacred to the memory of five little brothers of mine—who gave up trying to get a living exceedingly early in that universal struggle — I am indebted for a belief I religiously entertained that they had all been born on their backs with their hands in their trowsers-pockets, and had never taken them out in this state of existence. Read the text carefully and answer the following question. Who is the wife of the blacksmith?",,,260
+7,1722,8fAahelRGO49Brf7RWaZOq,EN,"Übersetzen Sie den Satz: ""Der Affe fiel vom Baum.""",,,9
+8,1687,C58gcaiXIj95mU6JMbhwA,EN,This task is just to detect later / skip.,,,9
+9,1499,8BrSML1KQOl7Cmm4tEA2lk,EN,Schreibe was du hörst auf Englisch.,,,6
+10,3748,3u01RmJOuoX7tHbmxeP6TB,EN,How do I approach a new customer?,,,7
+11,1319,9eVJukXagqq6AOQahiFzqi,EN,"Translate ""Unser Besucher sitzt im Wohnzimmer."" to English.",,,8
+12,1637,9VUszTSOXcB8yETmbFjvPD,EN,Schreibe was du hörst auf Englisch.,,,6
+13,1415,1DPXFYgk223a3wx9vuFh1E,EN,Schreibe was du hörst auf Englisch.,,,6
+14,2876,aixWqrPsegk7zcydCoDqa9,EN,"Übersetzen Sie den Satz: ""Die Henne legt fast jeden Tag ein Ei.""",,,12
+15,1427,8U6CTZh4FP46cWirE6JYbw,EN,Schreibe was du hörst auf Englisch.,,,6
+16,1272,jbVpsvDERJ9H72coj2D0U,EN,"Translate ""Was hat das zu bedeuten?"" to English.",,,8
+17,1771,7UfJ5QkHqAj9UwFIPoKr1p,EN,"Übersetzen Sie den Satz: ""Sie entschieden sich, eine Brücke zu bauen.""",,,11
+18,1989,19ZVjTFUecy6HVUsYdOorw,EN,"Übersetzen Sie den Satz: ""Die Bank kannst du leicht finden.""",,,10
+19,712,6P87Q52yNtW6JpIm040QHJ,eng,What do you know about climate change? Summarize in max. 30 words.,,,12
+20,1739,3btRkZjsQ7Iar3zCZgEsAt,EN,"Übersetzen Sie den Satz: ""Das Projekt ist eine Initiative der Gemeinde.""",,,11
+21,1656,4nczwhomd0d9lhZDvvfcu8,EN,"Übersetzen Sie den Satz: ""Toshio kann sehr gut Englisch sprechen.""",,,10
+22,1520,3QPOeR2NFwZ8UF1aZNCIy7,EN,"Übersetzen Sie den Satz: ""Ich kann überhaupt nicht kochen.""",,,9
+23,1764,1kPwdngXMUQ6mivQ0HP1fe,EN,"Übersetzen Sie den Satz: ""Unser Kühlschrank ist kaputt.""",,,8
+24,1300,4WnUilpxA9K5L8bYguNJEs,EN,"Translate ""Ich habe mich mit meiner Schwester beraten."" to English.",,,10
+25,2569,1NxZvJOUmk59buPJKidJON,EN,Describe the interaction between the girl and the dog in the following picture:,,4815.0,13
+26,1534,7YWFOkFGe3G7NaKfLe5K55,EN,"Übersetzen Sie den Satz: ""Ich habe das Fahrrad mit Öl geschmiert.""",,,11
+27,3757,TVHRIqfABH6nuyIPKbZXe,EN,A mixed forest is characterized by its stand structure. What are the names of the individual layers from top to bottom? Name two typical plants for each layer!,,,28
+28,1323,5UZclGYur5Y6Kbm4m9ONry,EN,"Translate ""Der Fahrstuhl ist heute außer Betrieb."" to English.",,,9
+29,2487,anUNJT0b9I7IYww9EP3rc,EN,Beschreiben Sie die verfahrenstechnische Auswirkung bei Betrieb im Vakuum: Antworten Sie in einem Satz.,,,14
+30,1468,4c0NyyWA9M371lNjiJ8lxO,EN,"Übersetzen Sie den Satz: ""Ich stehe unter dem Baum.""",,,9
+31,1983,5okM7OScMI2aW4J7yWA0t1,EN,Schreibe was du hörst auf Englisch.,,,6
+32,1575,anjpDjXODkJ6eJjD3EY5UN,EN,Schreibe was du hörst auf Englisch.,,,6
+33,3788,9jeKoZdLZ4xaJLC6g0nfjk,EN,Joy claims that both the volume and surface area of the cube below are exactly the same.  Do you support Joy's claim?  Why or why not?,,,26
+34,930,bFnkviohpp9w8xLXYyFgj,EN,"A tragically beautiful incarnation of the Christmas Spirit was on December 25 1914, when WWI soldiers crossed no man's land to celebrate a Christmas truce. This ceasefire even ended in some shared carols, and even football matches! Which countries were involved in this Christmas truce?",,,45
+35,1326,im2v9YDif68sQe393eni3,EN,"Translate ""Ich geh etwa um zehn ins Bett."" to English.",,,10
+36,2541,1hRJr3HtO9K923mOy0BWXr,EN,What is the most listened-to Christmas song?,,,7
+37,1539,7I5MDbeK2yO5DWMsI6WH7i,EN,Schreibe was du hörst auf Englisch.,,,6
+38,1184,6QkSj5tcnin7Hqbix7qbxW,EN,"Translate ""Muss ich auf die Frage antworten?"" to English.",,,9
+39,3881,7yRY0ojLmsuanmzAoevbQF,EN,"How do I protect myself against malware including viruses, trojans and other malicious programs?",,,14
+40,1616,atTXuD50M4w61WJvk3bCB8,EN,"Übersetzen Sie den Satz: ""Tom muss seine Einstellung ändern.""",,,9
+41,1160,a2EFy1quyXd6bb286NW5Qb,EN,"Translate ""Es ist mir nicht erlaubt, Alkohol zu trinken."" to English.",,,11
+42,1247,aJJVPDdcxXQ7YgQblDIngD,EN,"Translate ""Eine Banane ist gelb."" to English.",,,7
+43,1202,63YBIHhkCW38OC9yqetsjl,EN,"Translate ""Er will nicht in einer Fabrik arbeiten."" to English.",,,10
+44,1260,5wuznrgH6Em9mF0A4VntPE,EN,"Translate ""Mike spielt gerne Basketball."" to English.",,,7
+45,1186,8KAr1JaOTRu8nGNYfn9Vww,EN,"Translate ""Der Apfel ist noch nicht reif."" to English.",,,9
+46,1452,1cNIJ2zqUmEanTrcoMfXnz,EN,Schreibe was du hörst auf Englisch.,,,6
+47,2269,7GrvqohuDeL7FMf4YqCME3,eng,Put the words below into the correct order to make sentences. one hand to hold the hair back | use | chimpanzees | always,,,24
+48,1275,1WppWXBUwQB99eNtrITCtD,EN,"Translate ""Worte haben selten nur eine Bedeutung."" to English.",,,9
+49,1689,962mrGcNQwF7ZT6a7qTJPy,EN,"Übersetzen Sie den Satz: ""Dieses Land ist reich an Öl.""",,,10
+50,3690,8gooLcJt0bz7yVHSaWd0MM,EN,Read the following article: What does George like to have for lunch?,,,12
+51,2128,agZkm3sxPvX7L24cYYUOXh,EN,Translate the following sentence to English: “Wir sitzen vor dem Computer”.,,,11
+52,1328,82sdxfyyceM9RaAHcMxcBN,EN,"Translate ""Seid ihr noch im Bett?"" to English.",,,8
+53,1770,9UoMwJOhSyv9tqtYRQO9OY,EN,"Übersetzen Sie den Satz: ""Das neue System hat sich als erfolgreich erwiesen.""",,,12
+54,1338,9DSb0YzQXAN7PKGOH6mSM8,EN,"Translate ""Ich bestellte ein Bier."" to English.",,,7
+55,1196,48PYN7qDGQA88NvuCHTt7f,EN,"Translate ""Ich setze meine Arbeit fort."" to English.",,,8
+56,4033,2FGelngYfJW8CuERDb1t5c,EN,Valora qué función realiza el verbo estar en la siguiente oración: Juan está contento ; comparándolo con el verbo trabajar de esta otra: Javier trabaja contento.,"La lengua materna de Bertha era el alemán. Como era habitual en las familias ricas como la
+suya, también tuvo la oportunidad de estudiar francés, inglés e italiano, además de música y
+piano. Nuestras lenguas, como los instrumentos de comunicación sofisticados que son, sirven
+tanto para separarnos como para unirnos; imponen o facilitan, ayudan o impiden, condenan o
+salvan. El pacifismo de Bertha von Suttner se basaba en la creencia en que el ser humano es
+capaz de comprender que la guerra no soluciona los problemas. Es una postura sabia,
+partidaria de una comunicación inteligente y defensora del uso de la razón ante la fuerza.
+
+Perlas de sabiduría
+Actividad que presenta un contexto de aprendizaje relacionado con
+los verbos y sus composiciones
+
+3.1. El verbo y sus componentes
+El verbo es una pieza fundamental de nuestra lengua. Por ejemplo, en la oración Los lunes
+paseábamos por el bosque, ¿qué información aporta la palabra paseábamos?
+Transmite una acción: pasear, es decir, ""andar por distracción o ejercicio"".
+
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 10
+
+Advierte de que la acción no solo la realiza una persona, sino más de una: (Nosotros o nosotras)
+paseábamos.
+Además, especifica que es una acción que se realiza en el pasado.
+
+Para cambiar el sujeto o el tiempo de la acción, es suficiente con cambiar el verbo. Por
+ejemplo:
+Paseo todos los lunes (1.a persona del singular, presente).
+Pasearéis el lunes (2.a persona del plural, futuro).
+
+Los verbos son palabras que expresan una acción (escribir, comer), un estado (estar) o un
+proceso (vivir, crecer). Junto con los nombres, adjetivos, adverbios, pronombres, conjunciones,
+preposiciones y artículos, son una de las ocho clases de palabras que existen.
+Los verbos son palabras variables y sus variaciones se producen cuando se añaden afijos
+flexivos, en forma de desinencia verbal. Estas pueden ser de modo, tiempo, número y persona.
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 11
+
+Los verbos de estado y los verbos de acción
+Secuencia de imágenes que permite explicar y comprender la diferencia
+entre los verbos copulativos ylos predicativos
+
+Diferenciar los verbos de acción de los verbos de estado
+Actividad que consiste en diferenciar los verbos de estado ylos verbos de
+acción
+
+A veces, se puede dudar de si un adjetivo, un nombre o un adverbio son o no verbos, porque tienen
+una raíz muy parecida. Por ejemplo: acción, accionar, accionado.
+Para identificar los verbos, hay que observar si la palabra presenta desinencias verbales. Por
+ejemplo: accionary accionado pueden ser verbos porque contienen las desinencias verbales -ar
+(infinitivo) y-ado (participio). Sin embargo, acción no puede ser un verbo porque no tiene ninguna
+desinencia verbal.
+
+3.1.1. Las formas verbales características del verbo
+
+Las formas del verbo
+El verbo presenta diferentes formas en función de la información de sus morfemas (como cantaba,
+canté o cantado). Existen formas personales y no personales.
+La mayor parte de las formas verbales expresan información sobre el número, la persona, el tiempo,
+el modo y el aspecto mediante las desinencias. Estas formas reciben el nombre de formas
+personales.
+En el caso de un verbo como tendías, se puede deducir por su desinencia (-ías) que la acción la
+realiza una segunda persona del singular.
+
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 12
+
+Agrupa verbos según sean personales o no personales
+Actividad para aprender a distinguir las formas del verbo
+
+Recuerda
+Las desinencias de las formas personales indican, entre otras, dos características
+fundamentales del verbo:
+El número: singular o plural.
+La persona: primera, segunda o tercera persona.
+
+La persona en el verbo: formas impersonales y personales
+Actividad para aprender a distinguir las formas del verbo
+
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 13
+
+Identifica en qué persona está conjugado el verbo
+Relaciona estas oraciones teniendo en cuenta la persona en la que está el
+verbo
+
+Los tiempos del verbo
+Las formas personales del verbo pueden indicar tres tiempos distintos: presente, pasado yfuturo.
+
+La referencia temporal para definir si se trata de pasado, presente o futuro es el momento en el que
+quien habla emite el mensaje. Por lo tanto:
+El presente coincide con el tiempo en el que quien habla emite el mensaje.
+El pasado indica un tiempo anterior al momento en que quien habla emite el mensaje.
+El futuro se refiere a un tiempo posterior al momento en que quien habla emite el mensaje.
+
+Sin embargo, existen matices dentro de estos tres tiempos verbales, ya que quien habla puede
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 14
+
+especificar el momento preciso en el que ocurre la acción verbal. Por ejemplo: las siguientes
+oraciones están escritas en pasado, pero una sucede antes que la otra:
+Ayer fui al cine.
+Esta mañana he ido al cine.
+
+Practica los tiempos verbales
+Actividad que permite practicar los tiempos verbales de pasado, presente y
+futuro
+
+El modo verbal
+El modo verbal nos indica la actitud de quien habla ante el mensaje; es decir, su intención.
+Haytres modos verbales posibles en lengua castellana: indicativo, subjuntivo e imperativo.
+
+Identifica los modos verbales
+Actividad para identificar los modos verbales
+
+Las formas no personales
+Las formas no personales no expresan las características de número (salvo el participio), persona y
+modo, que sí expresan las formas personales. Haytres formas impersonales distintas:
+
+¡Atención! No se puede decir *Yo cantar, *Yo cantando o *Yo cantado.
+
+Selecciona la opción correcta
+Actividad para identificar la forma no personal adecuada al contexto
+
+El verbo: tiempo, número, persona y formas no conjugadas
+Actividad para identificar la forma no personal adecuada al contexto
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 15
+
+Para saber más
+Perífrasis verbales
+Las perífrasis verbales son combinaciones de dos (o más) verbos que funcionan en bloque,
+como si fueran un único verbo, y que designan una única acción, como ocurre con las formas
+compuestas. Las perífrasis aportan valores modales: cómo enfoca la acción quien habla; y
+aspectuales: cómo se desarrolla la acción.
+Están compuestas por un verbo auxiliar, que pierde su significado léxico y aporta los
+accidentes verbales, y por un verbo principal en forma no personal, que aporta el significado
+léxico a la perífrasis. Entre estos dos verbos puede aparecer, además, alguna palabra que
+funcione como nexo (una preposición o una conjunción).
+Por ejemplo:
+Tener que + infinitivo
+
+Tengo que estudiar para el examen de mañana.
+
+Estar + gerundio
+
+Mi madre está leyendo una novela policíaca.
+
+3.2. Los tipos de verbo
+Los verbos tienen un significado, una función y una forma. Así, en la oración Siempre canto en la
+ducha, el verbo cantar posee las siguientes características:
+Tiene el significado de ""emitir sonidos de manera armoniosa"".
+Cumple una función en la oración que consiste en concordar con el sujeto de la oración (yo) e
+introducir el complemento (en la ducha).
+Presenta una forma regular, ya que se conjuga de manera uniforme, igual que otros verbos
+acabados en -ar, como bailar o soñar.
+3.2.1. Verbos regulares e irregulares
+Los verbos se clasifican según su terminación. Es muyimportante saber cómo termina el infinitivo
+de un verbo para conjugarlo de manera correcta después.
+Los infinitivos de los verbos pueden terminar de tres formas diferentes.
+
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 16
+
+Clasifica los verbos según su conjugación
+Actividad que permite aplicar lo que los alumnos han aprendido sobre las
+conjugaciones verbales
+
+No todos los verbos de la misma terminación se conjugan igual. Por ejemplo: si se comparan los
+presentes del verbo cantar, del verbo bailary del verbo estar, la primera persona sería yo canto, yo
+bailo yyo estoy. Este último verbo no se conjuga igual que los otros.
+Los verbos que se conjugan siguiendo el modelo se llaman regulares, ylos que sufren
+modificaciones se llaman irregulares. Por lo tanto, el verbo estar es irregular.
+
+Agrupa verbos regulares e irregulares
+Actividad para practicar los verbos irregulares
+
+Crucigrama con formas verbales irregulares
+Actividad para practicar la conjugación de los verbos irregulares con un
+crucigrama
+
+Clasifica el tiempo verbal de las oraciones
+Actividad para trabajar los tiempos verbales
+
+3.2.2. La función verbal
+
+Desde el punto de vista de la función, los verbos se pueden clasificar en dos tipos: verbos auxiliares y
+predicativos.
+Verbos auxiliares
+Los verbos auxiliares son verbos que pierden su significado para ayudar a otros, que son los que
+aportan el significado léxico y que se conjugan de forma no personal. Por ejemplo: había cantado.
+Son verbos auxiliares:
+El verbo haber para formas compuestas. Por ejemplo: He cantado.
+El verbo ser para formas pasivas. Por ejemplo: Fue construido.
+Los verbos poder, deber e ir: Puedes escribir; Debes estudiar; Voy a cantar.
+
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 17
+
+Los auxiliares son como salvavidas verbales: mantienen en la superficie el significado de
+otros verbos.
+
+Verbos predicativos
+Los verbos predicativos (también llamados plenos) son verbos con significado propio que expresan
+acciones, procesos o estados. Constituyen el núcleo semántico y sintáctico del predicado verbal. Son
+verbos predicativos todos, excepto ser, estar y parecer. Por ejemplo: correr, estudiar, hablar, pensar,
+abrir, dormir, construir, etc.
+3.2.3. El significado verbal
+Desde el punto de vista del significado, los verbos se pueden clasificar en dos tipos: verbos
+predicativos (que también se clasifican por su función, como ya se ha visto) y copulativos.
+Verbos copulativos
+Los verbos copulativos tienen poco significado por sí mismos y su función consiste en unir el sujeto
+con su cualidad (llamada en sintaxis atributo). Son el núcleo sintáctico del predicado nominal. Los
+verbos copulativos son ser, estar y parecer.
+
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 18
+
+Por ejemplo: Ella es alta; Él está muy moreno; Los chicos parecían tristes.
+
+Analiza: ¿Son verbos predicativos o copulativos?
+Actividad para distinguir si los verbos de las oraciones del ejercicio son
+predicativos o copulativos
+
+3.3. Estructuras argumentales
+Los verbos no siempre van solos en la oración. Muchas veces están acompañados de otras palabras,
+de complementos que permiten completar su significado. Se llama estructura argumental a la
+cantidad de elementos que requiere una unidad léxica para completar su sentido.
+
+Como en un edificio, las oraciones ylos verbos necesitan de una estructura que ""sostenga"" su
+significado.
+
+3.3.1. Argumentos
+
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 19
+
+A veces, es necesario usar alguno de estos complementos porque, si no, las oraciones no tendrían
+sentido. En ese caso, los complementos se llaman argumentos. Por ejemplo:
+Tú escribes una poesía. (Complemento directo con verbo transitivo)
+El cartero entregó la carta al portero. (Complemento indirecto)
+El niño está triste. (Atributo con verbo copulativo)
+Este recinto fue diseñado por mi vecino. (Complemento agente en oración pasiva)
+Me avergüenzo de tu actitud. (Complemento de régimen)
+3.3.2. Adjuntos
+Otros complementos, sin embargo, no son obligatorios porque sin ellos la oración tiene significado
+completo. Estos complementos que solo aportan más detalles al significado de la oración se
+denominan adjuntos. Por ejemplo:
+La niña compró un libro a su amigo. (Complemento indirecto)
+El estudiante respondió las preguntas al instante. (Complemento circunstancial)
+Verónica encontró cansados a los niños. (Complemento predicativo)
+
+Distingue: ¿argumentos o adjuntos?
+Actividad que consiste en distinguir si los sintagmas subrayados son
+argumentos o adjuntos
+
+Refuerza tu aprendizaje: El verbo
+Actividad para evaluar los conocimientos del alumno sobre el tema El
+verbo
+
+3.4. En contexto
+
+Repasa y valora lo que has aprendido.
+
+Reflexiona y aplica
+Actividad para aplicar los conocimientos relacionados con los verbos ylas
+estructuras argumentales en otro contexto o situación
+
+Producto_AulaPlaneta
+Andrés Arroyo
+
+Lengua castellana y literatura, 1o Secundaria
+El arma más poderosa
+
+© Editorial Planeta S.A.U., 2024. Todos los derechos reservados de reproducción,
+traducción, adaptación y ejecución reservados para todos los países. 20
+
+Seguimiento del aprendizaje
+Rúbrica interactiva para reflexionar sobre el aprendizaje relacionado con
+los verbos ylas estructuras argumentales en otro contexto o situación",,26
+57,1720,3bNGSZ4NEkL6IEqmIT7ulB,EN,"Übersetzen Sie den Satz: ""Sie können Tom nicht ignorieren.""",,,9
+58,3905,8hW5143vdgva4PKovWxXap,EN,Expand this linear expression using the distributive property. ${5(3x + y - 8)}$,"Understanding the Concept: The distributive property is a rule that helps break down expressions with parentheses into simpler parts. Think of it as distributing or spreading a number across all items inside the parentheses.
+
+Why It’s Useful: This rule is fundamental in algebra and helps simplify expressions, making them easier to work with and solve.
+
+How It Works:
+
+Identify the number outside the parentheses.
+This number needs to be multiplied by each individual part inside the parentheses, one at a time.
+Step-by-Step Process:
+
+Start with the expression that has a number outside and multiple parts inside the parentheses.
+Multiply the number outside by the first part inside the parentheses.
+Next, multiply the same number by the second part inside the parentheses.
+Continue this process for each part inside the parentheses.
+Combine all these results to form a new, simpler expression without parentheses.
+Visualizing the Process: Imagine you have several items in a bag, and you have multiple such bags. To find the total number of each item, you would multiply the number of bags by the number of each item in one bag and add them up.
+
+Real-Life Application: Picture buying multiple bundles of products. If each bundle contains various items, you would multiply the number of bundles by the quantity of each item in a single bundle to find the total for each item.
+
+Practice Makes Perfect: To get better at this, practice with different expressions to get used to distributing the number across all parts inside the parentheses and combining the results.",,13
+59,1643,5fK8a2wiaap5Kgm1jhzoSX,EN,Schreibe was du hörst auf Englisch.,,,6
+60,1750,aI11qb759BE8JfwDK17FXo,EN,"Übersetzen Sie den Satz: ""Hier ist die Rechnung.""",,,8
+61,2766,8WT7noFtabBa7pTMTUzy0S,EN,2. Which attraction is not indoors?,,,6
+62,3058,4JJt44MdjWH88z5F0nMA5j,EN,“It is the greatest mistake to do nothing because you can only do a little. Do what you can.” – Sydney Smith Explain the meaning of this quote. Then discuss: Do you agree? Say why or why not.,"  The Body In “The Body”, Gordie Lachance and his three friends learn that a boy from their area, in the state of Maine, has disappeared and is probably dead. They decide to go on a trip to find the boy’s body and prepare for the trip. The Gun My room was on the second floor, and it was really hot up there. I was glad I wasn’t sleeping there that night, and the thought of where we were going made me excited again. I rolled up two blankets and tied an old belt around them. I grabbed all my money, which was less than a dollar. Then I was ready to go. I went down the back stairs to avoid meeting my dad. I was walking up Carbine Street towards the clubhouse when Chris caught up with me. His eyes were shining. “Gordie! You want to see something?” “Sure. What?” “Come down here first.” He pointed down an alley between two shops. “What is it, Chris?” “Come on, I said!” He ran down the alley and I ran after him. At the bottom, the smell from the trash was terrible. “Chris, I’m going to puke, I’m – ” But I forgot about the smell when Chris put his hand into his backpack and pulled out a big gun. “Where did you get that?” “From my dad’s desk.” “Man, your dad’s going to beat you when he finds out.” Chris’s eyes just went on dancing. “He isn’t going to find out. He and his friends have got enough wine to keep them drunk for a week. I’ll put it back before then.” Chris hated alcohol – he’d already seen too much of what it can do. He was the only one of us who didn’t have a drink when the DeSpain brothers brought some beer they’d stolen from their father. “Have you got bullets for it?” “Nine of them – all that was left in the box. He’ll think he used them himself, shooting at bottles when he was drunk.” “Any in it at the moment?” “No, of course not. What do you think I am?” I finally took the gun. I liked the heavy way it sat in my hand. I pointed the gun at a large tin with smelly trash spilling out of it and squeezed. KA – BLAM! The gun jumped in my hand. Fire shot from the end. It felt as if my wrist was broken. My heart was in my mouth. A big hole appeared in the tin – it was the work of an evil magician. “Wow!” I screamed. Chris was laughing wildly; I couldn’t tell if he was amused or scared. “You did it, you did it! Gordie Lachance is shooting Castle Rock to pieces. Be careful, everyone! Here comes Gordie!” “Shut up! Let’s go!” I screamed, and grabbed him by the shirt. I gave the gun to Chris and he pushed it into his backpack as we ran up the alley. When we reached Carbine Street we slowed to a walk, so that no one would notice us if they had heard the noise of the gun. Chris was still laughing. “Man, it’s a pity you couldn’t see your face. Oh, man, that was really great.” “You knew there was a bullet in it, didn’t you? That was a mean trick, Chris, really.” “I didn’t know, Gordie, honestly. I just took it out of my dad’s desk. He always takes the bullets out of it. I guess he was too drunk to remember last time.” Chris looked as innocent as a baby, but when we got to the clubhouse we found Vern and Teddy waiting, and he started to laugh again. He told them the whole story, and after everyone had had a good laugh Teddy asked Chris, “What do you think we need a gun for?” “Nothing, really,” Chris said. “Except we might see a wild animal. And anyway, it’s frightening out in the forest at night.” Everyone agreed with that. Chris was the strongest and bravest guy of us all, and he could say things like that. Did you put your tent up in the field?” Teddy asked Vern. “Yeah, and I put two lamps in it and turned them on, so it’ll look as if we’re there after dark.” “Hey, man, great!” I said, and slapped Vern on the back. For him, that was real thinking. He grinned. “So let’s go,” Teddy said. “It’s nearly twelve already.” Chris stood up and we gathered round him. “We’ll walk across Beeman’s field,” he said, “and then we’ll get to the railway tracks and just walk across the bridge into Harlow.” “How far is it, do you think?” Teddy asked. “I don’t know,” said Chris. “Harlow’s big. We’re going to have to walk at least twenty miles. Does that sound right to you, Gordie?” “Yeah. Maybe more – thirty miles.” “Come on, you guys,” Chris said, and picked up his backpack, blankets and water bottle.   Healthy and active at Thanksgiving? Healthy and active at Thanksgiving? headline written by Pam Warner (published 07/12/16 in Health & Style ) author, date, source What is your Thanksgiving like? Turkey and pumpkin pie? American football on the sofa? In the last couple of years a new trend has become popular in the USA: More people like to eat better quality food and live a more active life. introduction It is slowly going out of fashion to live off convenience and frozen food. A number of people shop for organic food at special supermarkets instead. In some states farmers’ markets offer a great variety of fresh vegetables and fruit from the region. “There are also dairy products, bread and meat without chemical additives at these markets. Organic food is not only much healthier but it tastes a lot better as well,” explains Emma from Boston. So how about some healthy recipes for Thanksgiving? Maybe pumpkin soup or mashed sweet potatoes? A roast turkey breast or a turkey roulade filled with apples and cranberries is delicious too. But there’s more to a healthy lifestyle than just food. A lot of trend sports show that you can have fun, spend time with friends and stay fit at the same time. Have you found the right sport for you yet? If not, here is a suggestion: How about standup paddleboarding? If you like water, that’s the ideal kind of sport for you. You stand on the board and you use a paddle to move through the water. Don’t worry, you don’t have to travel to the sea. A lot of clubs offer standup paddleboarding on lakes and rivers. Of course living healthy also means avoiding alcohol and drugs. Finn, a fitness instructor from Cleveland, says: “Drinking too much alcohol isn’t good for your health. Most alcoholic drinks have a lot of calories and negative effects on your fitness too. So why not try a smoothie instead?” Drugs are even worse. You can easily get addicted, and they often cause problems with your family or at school. main part To sum up, you can say that organic food together with doing sports is a great way to stay fit. You don’t have to do without your favorite meals. Just changing your lifestyle a bit will make you a much happier person. conclusion   A first date Dylan often thought about Abby. He really liked her. But he was too shy to ask her out on a date. Dylan’s friend Forget her. She’s not interested in you. She has a boyfriend. One day his books fell out of his locker right when Abby showed up. With Scott in tow, of course. How embarrassing. Scott Who’s that guy? Look at him! A few days later they had lunch together. Dylan helped Abby with her Science project. They didn’t notice Scott and his football friends. Scott’s friend Isn’t she your girlfriend? Dylan Let me explain. It’s not that hard! When Dylan went to the gym, the boys attacked him. Scott pushed him really hard and Dylan couldn’t do anything about it. Scott Stay away from her! Abby Stop it! You’re hurting him! A few days later Dylan asked Abby, “So, are you coming to the dance with me?” And she said yes. He was very nervous when he picked her up. Abby’s dad So, young man, you must be Dylan. The party was great. Everybody enjoyed the music and dancing. There was a big surprise that evening. Dylan and Abby were so proud. Presenter We proudly present this year’s Homecoming King and Queen. At the end of the evening Dylan took Abby home. There it was, the perfect moment. But … Abby’s dad Excuse me? ",,38
+63,1738,8HBWvPSu2qU9OwXdQJCvG7,EN,"Übersetzen Sie den Satz: ""Er ist mein Nachbar.""",,,8
+64,3758,6H99TrfQvcC6qc9yIHla1M,EN,A mixed forest is characterized by its stand structure. What are the names of the individual layers from top to bottom? Name two typical plants for each layer!,,,28
+65,3588,96Ad9lTF1aW8tVAydstUnw,EN,"Übersetzen Sie den Satz: ""Ich mag scharfes Essen nicht.""",,,9
+66,568,arpZLB27MYq9MWTotPuJAy,eng,"In the video, which statements of the person giving feedback corresponded to “step 3 - impact statement”? Answer in keywords.",,,20
+67,1638,7S2WBDtAZzq9PUkfUbDyJG,EN,"Übersetzen Sie den Satz: ""Es war kaum zu glauben.""",,,9
+68,3041,aGXmrZgPwYA91OchM9ljg5,EN,"Write Dan’s letter to his aunt on Thursday, 5th June. Help: Dear Aunt Susan, Thank you … How is / are …? I’m sorry I … …","  A lucky day for Luke It was after school. Luke and Gwen were on the bus. “Dad said we can get a takeaway pizza tonight,” said Gwen. “I love tuna pizza. What’s your favourite pizza, Luke?” Luke didn’t answer. “Did you hear me?” asked Gwen. “Sorry. I’m playing this game on my phone,” said Luke. “I have a really high score. Look!” “I can’t see that,” said Gwen. “Sorry. I forgot you have a problem with your eyes,” said Luke. “You forgot Dave’s birthday. You forgot your homework. You forget everything,” said Gwen. “No, I don’t,” said Luke. He looked out of the window. “Oh no! This is my stop. I forgot where we are! Bye Gwen, see you tomorrow.” Luke rushed down the stairs and got off the bus. He wanted to finish his game. He put his hand in his pocket, but his phone wasn’t there! “Oh no, I must have forgotten it on the bus!” He looked up. But the bus wasn’t there any more. Luke went home and phoned the bus company. They wanted to help but first they needed a special number from his phone – and he didn’t know the number! Luke didn’t enjoy his dinner at all that night. Why wasn’t he more careful with his phone? Suddenly the doorbell rang. “Gwen’s here!” shouted Luke’s mum from the hall. Luke went to the door. Gwen and her dad were there. “I heard something fall on the floor when you got off the bus,” said Gwen. “I asked a woman to see what it was.” Gwen gave Luke his phone. “Wow!” said Luke. “Today is my lucky day! Thanks, Gwen.” “That’s what friends are for!” said Gwen. “Come on, Gwen. Let’s get that pizza!” said Gwen’s dad. Luke put his phone in his pocket. It really was his lucky day. Maybe he could get his best ever high score too.   How I won a prize The TV show ‘Teen chef of the year’ tries to find the UK’s best young chef. Twenty-four kids took part in the competition this year. They cooked lots of different meals for the judges – three chefs. The kids also answered many questions about food. At the end of the competition one kid was the winner – and that kid was me! My name is Joe Reedman. My entry form for the show: Entry form: Teen chef of the year Age: ‬13 Favourite food: scrambled eggs Favourite meal: breakfast Why I started: When I was six, I watched my mum in the kitchen. She was making a cake. The eggs, milk and flour became a delicious cake and it was like magic. I wanted to do magic cooking too! Ambition: to have my own restaurant   The amazing story of Dora White Narrator Dora White lives in the small village of Aldham, many miles from London. (A girl and an old woman are at a bus stop in the village. The girl has a bag. She has money in her hands.) Dora One, two, three, four pounds fifty. Yes! I have enough money for the bus to London. Old woman Why do young people always want to go to London? It’s dirty and not safe. Dora That’s not true. It’s the most amazing city in the world. And it’s the place where dreams come true 1 . London is the place for me! Old woman I don’t think so. It’s an awful place. (Dora looks down the road. There is the sound of a bus.) Dora Here’s my bus. Oh … and my name’s Dora White. Remember that name, because you’ll hear it again 2 when I’m famous. (Dora takes her bag. The old woman shakes her head. The lights go down 3 .) Narrator When Dora arrives in London, she gets a job. (Dora is in a busy restaurant kitchen. She is doing the washing up 4 . A chef and a waiter are in the kitchen. There are dirty plates, glasses and pots next to Dora.) Waiter I need six plates and glasses now! Dora One moment, please. Chef Work faster. I need three clean pots now. Dora Yes, chef. Chef Where are they? I need them now! Dora You can have them in a minute. I’m busy with these plates. (Dora gives the plates to the waiter.) Waiter These plates are dirty! Dora I’m sorry! Chef You are useless! Dora No, I’m not. Chef You can go, Nora! Never come back! Dora It’s not Nora. It’s Dora. Dora White. Remember that name, because you’ll hear it again when I’m famous. (Dora exits the stage 5 on the right. The waiter and the chef shake their heads.) (The lights go down.) Narrator Dora’s life in London isn’t like it was in her dreams. (Dora is at a London bus stop with her bag. She looks very sad.) Dora Maybe London isn’t the place for me. (Dora sees a leaflet on the road. She takes it and looks at it.) (She reads from the leaflet.) Three Lions Hotel. We need kitchen workers for our very special restaurant. We are a friendly restaurant, but you must be hard-working and determined. (Dora smiles and stands up straight. There is the sound of a bus.) Bus driver (From off the stage 6 , on the left) Do you want to get on? This is the last bus to Aldham today. Dora No thanks. I want to stay here. London is the place for me. (A young woman walks past Dora.) Dora Excuse me. Can you tell me the way to the Three Lions Hotel, please? Young woman The Three Lions Hotel? Yes, of course. Go straight on. It’s on the right. Dora Thank you. Goodbye! (She takes her bag happily and starts to walk. The lights go down.) ___ 1 where dreams come true – wo Träume wahr werden ; 2 you’ll hear it again – Sie werden davon hören ; 3 the lights go down – die Lichter gehen aus ; 4 doing the washing up – den Abwasch machen ; 5 exits the stage – verlässt die Bühne ; 6 from off stage – aus dem Off (aus dem Hintergrund)   Dan’s holidays in the country Holidays! I want to be with my friends. But I’m not. Mum and Dad sent me to stay with Aunt Susan for six long days. To a village! In the middle of nowhere. All you can see are fields, trees and some animals. There are no shops, no cafés and no buses. No skate park either! It’s so boring! How can people live here? There was a party in the village this evening. But it wasn’t fun. There was a barbecue 1 and then singing and dancing. But the music was awful. I was so bored that I turned their music off and played some hip-hop 2 instead. Everybody was mad and shouted at me. I laughed at them and left. I hate this place and I hate these people. How can birds be so loud? Some of them started singing at four in the morning! Later the church bells 3 rang 4 . Nothing happened today. Just another boring day. When can I go home? Nothing! Aunt Susan wanted me to help with the cows and in the garden, but I stayed in my room and watched films. The village boys tried to pick me up for a football game. I told them that I didn’t have my football shoes and couldn’t play. I can’t believe what happened last night. I woke up in the middle of the night because there was a loud noise in the house. I went to the kitchen and saw Aunt Susan there. She was on the phone, and she was very excited. When she saw me, she told me to come with her. Rosalie needed help. I didn’t know who Rosalie was. I was surprised when I saw that Rosalie was one of Aunt Susan’s cows. She needed help with her calf. Some other people from the village were there too. They were all very calm and knew what to do. They told me to hold the light so that the vet could see well. I could hardly look. That noise! And it smelt terrible. Yuck! 5 Then it was there. A little calf. So sweet, so clumsy. We all felt very happy. I was so tired but so excited. I got up early again. I just had to see if the calf was OK. It was. It stood next to Rosalie and drank its milk. It’s the most beautiful little cow I’ve ever seen 6 . I think I’ll ask Aunt Susan if I can come back again. I think it’s not that bad here. ___ 1 barbecue – Grillparty ; 2 hip-hop – Hip Hop (Musikrichtung) ; 3 bell – die Glocke ; 4 ring – läuten ; 5 yuck – igitt 6 the most beautiful cow I’ve ever seen – die schönste Kuh, die ich je gesehen habe   Dan’s holidays in the country Holidays! I want to be with my friends. But I’m not. Mum and Dad sent me to stay with Aunt Susan for six long days. To a village! In the middle of nowhere. All you can see are fields, trees and some animals. There are no shops, no cafés and no buses. No skate park either! It’s so boring! How can people live here? There was a party in the village this evening. But it wasn’t fun. There was a barbecue 1 and then singing and dancing. But the music was awful. I was so bored that I turned their music off and played some hip-hop 2 instead. Everybody was mad and shouted at me. I laughed at them and left. I hate this place and I hate these people. How can birds be so loud? Some of them started singing at four in the morning! Later the church bells 3 rang 4 . Nothing happened today. Just another boring day. When can I go home? Nothing! Aunt Susan wanted me to help with the cows and in the garden, but I stayed in my room and watched films. The village boys tried to pick me up for a football game. I told them that I didn’t have my football shoes and couldn’t play. I can’t believe what happened last night. I woke up in the middle of the night because there was a loud noise in the house. I went to the kitchen and saw Aunt Susan there. She was on the phone, and she was very excited. When she saw me, she told me to come with her. Rosalie needed help. I didn’t know who Rosalie was. I was surprised when I saw that Rosalie was one of Aunt Susan’s cows. She needed help with her calf. Some other people from the village were there too. They were all very calm and knew what to do. They told me to hold the light so that the vet could see well. I could hardly look. That noise! And it smelt terrible. Yuck! 5 Then it was there. A little calf. So sweet, so clumsy. We all felt very happy. I was so tired but so excited. I got up early again. I just had to see if the calf was OK. It was. It stood next to Rosalie and drank its milk. It’s the most beautiful little cow I’ve ever seen 6 . I think I’ll ask Aunt Susan if I can come back again. I think it’s not that bad here. ___ 1 barbecue – Grillparty ; 2 hip-hop – Hip Hop (Musikrichtung) ; 3 bell – die Glocke ; 4 ring – läuten ; 5 yuck – igitt 6 the most beautiful cow I’ve ever seen – die schönste Kuh, die ich je gesehen habe ",,27
+69,1985,9UVjOVuS8AM7z29wc6vnKq,EN,Schreibe was du hörst auf Englisch.,,,6
+70,1322,9mOMkcbC2y27uJoTplSZAh,EN,"Translate ""Das Telefon ist außer Betrieb."" to English.",,,8
+71,1467,2H2XH1bXuKpaoEGKIMbV80,EN,Schreibe was du hörst auf Englisch.,,,6
+72,3548,aCimYoDf3uVaVrhqUR4mCl,EN,"How does deforestation impact climate change, and what measures can be taken to address deforestation and promote reforestation efforts?",,,19
+73,1270,7k9SyTuQbGL5Tz58WeH6Sb,EN,"Translate ""Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt."" to English.",,,12
+74,3551,mzL1MhYiBK68GFH8kiHQT,EN,What strategies can be implemented to mitigate threats to agriculture and ensure sustainable food production amidst the impacts of climate change on global food security?,,,25
+75,1977,75DBcPydjVB8VyijgpI0t3,EN,Schreibe was du hörst auf Englisch.,,,6
+76,2763,BtlE2uJbuw5DhBy2yCw2l,EN,"Write a similar dialogue, in which a tourist asks a local questions. Use the dialogue in C as a model and choose different options for place, directions, times and cost from the green boxes.",,,34
+77,2505,9HAc5jeYPSzabRgkqgCnRP,EN,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,,11
+78,1287,5uK1ZtM2bpna15nB1lHSod,EN,"Translate ""Wir haben ein interessantes Beispiel."" to English.",,,8
+79,1250,1lqAy1JrEmf6DQhE4SfgBi,EN,"Translate ""Die Bank kannst du leicht finden."" to English.",,,9
+80,1659,6VHL5M14xrm8ulS2Dt2q57,EN,Schreibe was du hörst auf Englisch.,,,6
+81,1521,4IZbcbzrUd35xn5FfRQG8B,EN,Schreibe was du hörst auf Englisch.,,,6
+82,2490,3nlmdgqIPfj9QJ8PstF7JN,EN,"Formuliere deine Antwort mithilfe eines oder mehrerer Stichwörter. Im Führungsprozess ist die Beurteilung von Mitarbeitern eines der wichtigsten Elemente. Aber auch Führungskräfte sind nur Menschen. Menschen sind oft geneigt, die eigene Meinung über alles und jeden zu äußern, und dies oft auf voreingenommene Weise. Aufgrund einiger dieser Verzerrungen nimmt der Mensch dann subjektive Bewertungen vor. Nenne ein Beispiel für eine Verzerrung oder eine subjektive Bewertung, wie den Vergleichseffekt, bei dem eine Führungskraft die Leistung eines Mitarbeiters mit der seiner Kollegen vergleicht.",,,81
+83,1622,7AdMNmXcaEp7fpdwwxFJd9,EN,"Übersetzen Sie den Satz: ""Was hat das zu bedeuten?""",,,9
+84,690,8lxRyLzStOK9eUhNRal38O,EN,Describe the interaction between the girl and the dog in the following picture:,,,13
+85,1165,8PqBcI1KZWl8Mtq0B8FxL4,EN,"Translate ""Ich habe bis zum Alter von 6 in Osaka gelebt."" to English.",,,13
+86,2989,3qPZYTV0mOE5Al01JZhXBf,EN,"Übersetzen Sie den Satz: ""Eine Banane ist gelb.""",,,8
+87,1596,4HIuh80HceV8IQe6rM2iQm,EN,"Übersetzen Sie den Satz: ""Wir haben die Qualität verbessert.""",,,9
+88,1479,8fkpNr7DXvC5XJLbdTEGo8,EN,Schreibe was du hörst auf Englisch.,,,6
+89,3029,zhUY1CRUTt5J9eLf8anEr,EN,"Make six sentences about yourself, your family and your friends. - I / My brother / sister / mum / dad / friend / My friends - (not) go to (not) like (not) have (not) watch (not) play (not) get up early - the park, the shops, … - cats, dogs, spiders, … - a garden, plants in my room, … - films and videos about animals computer games, football, … - every weekend at the weekend every day …",,,80
+90,1430,2r5bZQDgLje8dFi9VGz3HA,EN,"Übersetzen Sie den Satz: ""Er ist größer als sein Bruder.""",,,10
+91,3074,gidUSxLYmI8SaS4CEwBEW,EN,"Use your notes to write your summary. Start with the introduction. Name the title, the author and where the text comes from. Don’t forget to say what the text is about. Now summarise each paragraph of the main part in a few sentences. Use your notes to help you. Write a conclusion. Say what you think about the article. How to: A general rule says that a summary can be up to one third of the original text. It can be shorter though too. Remember to use your own words. 1. Useful phrases for the introduction: The article “…” was written by … on … . The text/article/story is about … . It explains / describes / deals with … 2. Main part: Always use the simple present to write a summary. Use your own words: Pam Warner talks about organic food and farmers’ markets. She explains what these markets offer. … First/Second/Third … / Then / After that … 3. Useful phrases for the conclusion: To sum up, I can say … . In general the article explains … . I think … . In my opinion … .","  The Body In “The Body”, Gordie Lachance and his three friends learn that a boy from their area, in the state of Maine, has disappeared and is probably dead. They decide to go on a trip to find the boy’s body and prepare for the trip. The Gun My room was on the second floor, and it was really hot up there. I was glad I wasn’t sleeping there that night, and the thought of where we were going made me excited again. I rolled up two blankets and tied an old belt around them. I grabbed all my money, which was less than a dollar. Then I was ready to go. I went down the back stairs to avoid meeting my dad. I was walking up Carbine Street towards the clubhouse when Chris caught up with me. His eyes were shining. “Gordie! You want to see something?” “Sure. What?” “Come down here first.” He pointed down an alley between two shops. “What is it, Chris?” “Come on, I said!” He ran down the alley and I ran after him. At the bottom, the smell from the trash was terrible. “Chris, I’m going to puke, I’m – ” But I forgot about the smell when Chris put his hand into his backpack and pulled out a big gun. “Where did you get that?” “From my dad’s desk.” “Man, your dad’s going to beat you when he finds out.” Chris’s eyes just went on dancing. “He isn’t going to find out. He and his friends have got enough wine to keep them drunk for a week. I’ll put it back before then.” Chris hated alcohol – he’d already seen too much of what it can do. He was the only one of us who didn’t have a drink when the DeSpain brothers brought some beer they’d stolen from their father. “Have you got bullets for it?” “Nine of them – all that was left in the box. He’ll think he used them himself, shooting at bottles when he was drunk.” “Any in it at the moment?” “No, of course not. What do you think I am?” I finally took the gun. I liked the heavy way it sat in my hand. I pointed the gun at a large tin with smelly trash spilling out of it and squeezed. KA – BLAM! The gun jumped in my hand. Fire shot from the end. It felt as if my wrist was broken. My heart was in my mouth. A big hole appeared in the tin – it was the work of an evil magician. “Wow!” I screamed. Chris was laughing wildly; I couldn’t tell if he was amused or scared. “You did it, you did it! Gordie Lachance is shooting Castle Rock to pieces. Be careful, everyone! Here comes Gordie!” “Shut up! Let’s go!” I screamed, and grabbed him by the shirt. I gave the gun to Chris and he pushed it into his backpack as we ran up the alley. When we reached Carbine Street we slowed to a walk, so that no one would notice us if they had heard the noise of the gun. Chris was still laughing. “Man, it’s a pity you couldn’t see your face. Oh, man, that was really great.” “You knew there was a bullet in it, didn’t you? That was a mean trick, Chris, really.” “I didn’t know, Gordie, honestly. I just took it out of my dad’s desk. He always takes the bullets out of it. I guess he was too drunk to remember last time.” Chris looked as innocent as a baby, but when we got to the clubhouse we found Vern and Teddy waiting, and he started to laugh again. He told them the whole story, and after everyone had had a good laugh Teddy asked Chris, “What do you think we need a gun for?” “Nothing, really,” Chris said. “Except we might see a wild animal. And anyway, it’s frightening out in the forest at night.” Everyone agreed with that. Chris was the strongest and bravest guy of us all, and he could say things like that. Did you put your tent up in the field?” Teddy asked Vern. “Yeah, and I put two lamps in it and turned them on, so it’ll look as if we’re there after dark.” “Hey, man, great!” I said, and slapped Vern on the back. For him, that was real thinking. He grinned. “So let’s go,” Teddy said. “It’s nearly twelve already.” Chris stood up and we gathered round him. “We’ll walk across Beeman’s field,” he said, “and then we’ll get to the railway tracks and just walk across the bridge into Harlow.” “How far is it, do you think?” Teddy asked. “I don’t know,” said Chris. “Harlow’s big. We’re going to have to walk at least twenty miles. Does that sound right to you, Gordie?” “Yeah. Maybe more – thirty miles.” “Come on, you guys,” Chris said, and picked up his backpack, blankets and water bottle.   Healthy and active at Thanksgiving? Healthy and active at Thanksgiving? headline written by Pam Warner (published 07/12/16 in Health & Style ) author, date, source What is your Thanksgiving like? Turkey and pumpkin pie? American football on the sofa? In the last couple of years a new trend has become popular in the USA: More people like to eat better quality food and live a more active life. introduction It is slowly going out of fashion to live off convenience and frozen food. A number of people shop for organic food at special supermarkets instead. In some states farmers’ markets offer a great variety of fresh vegetables and fruit from the region. “There are also dairy products, bread and meat without chemical additives at these markets. Organic food is not only much healthier but it tastes a lot better as well,” explains Emma from Boston. So how about some healthy recipes for Thanksgiving? Maybe pumpkin soup or mashed sweet potatoes? A roast turkey breast or a turkey roulade filled with apples and cranberries is delicious too. But there’s more to a healthy lifestyle than just food. A lot of trend sports show that you can have fun, spend time with friends and stay fit at the same time. Have you found the right sport for you yet? If not, here is a suggestion: How about standup paddleboarding? If you like water, that’s the ideal kind of sport for you. You stand on the board and you use a paddle to move through the water. Don’t worry, you don’t have to travel to the sea. A lot of clubs offer standup paddleboarding on lakes and rivers. Of course living healthy also means avoiding alcohol and drugs. Finn, a fitness instructor from Cleveland, says: “Drinking too much alcohol isn’t good for your health. Most alcoholic drinks have a lot of calories and negative effects on your fitness too. So why not try a smoothie instead?” Drugs are even worse. You can easily get addicted, and they often cause problems with your family or at school. main part To sum up, you can say that organic food together with doing sports is a great way to stay fit. You don’t have to do without your favorite meals. Just changing your lifestyle a bit will make you a much happier person. conclusion ",,190
+92,3040,6yCiittUCYxaK32qIJmbh8,EN,"Add more sentences to one of Dan’s diary entries. Choose a day and write five more sentences. You can say: what you did or didn’t do, what you liked or didn’t like, how you felt.","  A lucky day for Luke It was after school. Luke and Gwen were on the bus. “Dad said we can get a takeaway pizza tonight,” said Gwen. “I love tuna pizza. What’s your favourite pizza, Luke?” Luke didn’t answer. “Did you hear me?” asked Gwen. “Sorry. I’m playing this game on my phone,” said Luke. “I have a really high score. Look!” “I can’t see that,” said Gwen. “Sorry. I forgot you have a problem with your eyes,” said Luke. “You forgot Dave’s birthday. You forgot your homework. You forget everything,” said Gwen. “No, I don’t,” said Luke. He looked out of the window. “Oh no! This is my stop. I forgot where we are! Bye Gwen, see you tomorrow.” Luke rushed down the stairs and got off the bus. He wanted to finish his game. He put his hand in his pocket, but his phone wasn’t there! “Oh no, I must have forgotten it on the bus!” He looked up. But the bus wasn’t there any more. Luke went home and phoned the bus company. They wanted to help but first they needed a special number from his phone – and he didn’t know the number! Luke didn’t enjoy his dinner at all that night. Why wasn’t he more careful with his phone? Suddenly the doorbell rang. “Gwen’s here!” shouted Luke’s mum from the hall. Luke went to the door. Gwen and her dad were there. “I heard something fall on the floor when you got off the bus,” said Gwen. “I asked a woman to see what it was.” Gwen gave Luke his phone. “Wow!” said Luke. “Today is my lucky day! Thanks, Gwen.” “That’s what friends are for!” said Gwen. “Come on, Gwen. Let’s get that pizza!” said Gwen’s dad. Luke put his phone in his pocket. It really was his lucky day. Maybe he could get his best ever high score too.   How I won a prize The TV show ‘Teen chef of the year’ tries to find the UK’s best young chef. Twenty-four kids took part in the competition this year. They cooked lots of different meals for the judges – three chefs. The kids also answered many questions about food. At the end of the competition one kid was the winner – and that kid was me! My name is Joe Reedman. My entry form for the show: Entry form: Teen chef of the year Age: ‬13 Favourite food: scrambled eggs Favourite meal: breakfast Why I started: When I was six, I watched my mum in the kitchen. She was making a cake. The eggs, milk and flour became a delicious cake and it was like magic. I wanted to do magic cooking too! Ambition: to have my own restaurant   The amazing story of Dora White Narrator Dora White lives in the small village of Aldham, many miles from London. (A girl and an old woman are at a bus stop in the village. The girl has a bag. She has money in her hands.) Dora One, two, three, four pounds fifty. Yes! I have enough money for the bus to London. Old woman Why do young people always want to go to London? It’s dirty and not safe. Dora That’s not true. It’s the most amazing city in the world. And it’s the place where dreams come true 1 . London is the place for me! Old woman I don’t think so. It’s an awful place. (Dora looks down the road. There is the sound of a bus.) Dora Here’s my bus. Oh … and my name’s Dora White. Remember that name, because you’ll hear it again 2 when I’m famous. (Dora takes her bag. The old woman shakes her head. The lights go down 3 .) Narrator When Dora arrives in London, she gets a job. (Dora is in a busy restaurant kitchen. She is doing the washing up 4 . A chef and a waiter are in the kitchen. There are dirty plates, glasses and pots next to Dora.) Waiter I need six plates and glasses now! Dora One moment, please. Chef Work faster. I need three clean pots now. Dora Yes, chef. Chef Where are they? I need them now! Dora You can have them in a minute. I’m busy with these plates. (Dora gives the plates to the waiter.) Waiter These plates are dirty! Dora I’m sorry! Chef You are useless! Dora No, I’m not. Chef You can go, Nora! Never come back! Dora It’s not Nora. It’s Dora. Dora White. Remember that name, because you’ll hear it again when I’m famous. (Dora exits the stage 5 on the right. The waiter and the chef shake their heads.) (The lights go down.) Narrator Dora’s life in London isn’t like it was in her dreams. (Dora is at a London bus stop with her bag. She looks very sad.) Dora Maybe London isn’t the place for me. (Dora sees a leaflet on the road. She takes it and looks at it.) (She reads from the leaflet.) Three Lions Hotel. We need kitchen workers for our very special restaurant. We are a friendly restaurant, but you must be hard-working and determined. (Dora smiles and stands up straight. There is the sound of a bus.) Bus driver (From off the stage 6 , on the left) Do you want to get on? This is the last bus to Aldham today. Dora No thanks. I want to stay here. London is the place for me. (A young woman walks past Dora.) Dora Excuse me. Can you tell me the way to the Three Lions Hotel, please? Young woman The Three Lions Hotel? Yes, of course. Go straight on. It’s on the right. Dora Thank you. Goodbye! (She takes her bag happily and starts to walk. The lights go down.) ___ 1 where dreams come true – wo Träume wahr werden ; 2 you’ll hear it again – Sie werden davon hören ; 3 the lights go down – die Lichter gehen aus ; 4 doing the washing up – den Abwasch machen ; 5 exits the stage – verlässt die Bühne ; 6 from off stage – aus dem Off (aus dem Hintergrund)   Dan’s holidays in the country Holidays! I want to be with my friends. But I’m not. Mum and Dad sent me to stay with Aunt Susan for six long days. To a village! In the middle of nowhere. All you can see are fields, trees and some animals. There are no shops, no cafés and no buses. No skate park either! It’s so boring! How can people live here? There was a party in the village this evening. But it wasn’t fun. There was a barbecue 1 and then singing and dancing. But the music was awful. I was so bored that I turned their music off and played some hip-hop 2 instead. Everybody was mad and shouted at me. I laughed at them and left. I hate this place and I hate these people. How can birds be so loud? Some of them started singing at four in the morning! Later the church bells 3 rang 4 . Nothing happened today. Just another boring day. When can I go home? Nothing! Aunt Susan wanted me to help with the cows and in the garden, but I stayed in my room and watched films. The village boys tried to pick me up for a football game. I told them that I didn’t have my football shoes and couldn’t play. I can’t believe what happened last night. I woke up in the middle of the night because there was a loud noise in the house. I went to the kitchen and saw Aunt Susan there. She was on the phone, and she was very excited. When she saw me, she told me to come with her. Rosalie needed help. I didn’t know who Rosalie was. I was surprised when I saw that Rosalie was one of Aunt Susan’s cows. She needed help with her calf. Some other people from the village were there too. They were all very calm and knew what to do. They told me to hold the light so that the vet could see well. I could hardly look. That noise! And it smelt terrible. Yuck! 5 Then it was there. A little calf. So sweet, so clumsy. We all felt very happy. I was so tired but so excited. I got up early again. I just had to see if the calf was OK. It was. It stood next to Rosalie and drank its milk. It’s the most beautiful little cow I’ve ever seen 6 . I think I’ll ask Aunt Susan if I can come back again. I think it’s not that bad here. ___ 1 barbecue – Grillparty ; 2 hip-hop – Hip Hop (Musikrichtung) ; 3 bell – die Glocke ; 4 ring – läuten ; 5 yuck – igitt 6 the most beautiful cow I’ve ever seen – die schönste Kuh, die ich je gesehen habe ",,35
+93,1329,4xdj6L8TQ165E50uhhgx2F,EN,"Translate ""Ich habe keinen Beweis."" to English.",,,7
+94,1667,34dypfvMvegaCA5dzRqIk1,EN,Schreibe was du hörst auf Englisch.,,,6
+95,1611,9uunjOyHQJp5ylIEWlCriR,EN,Schreibe was du hörst auf Englisch.,,,6
+96,1786,27bT2HoJAAa8T2WGtN4P94,EN,"Übersetzen Sie den Satz: ""Mark wird das Auto verkaufen.""",,,9
+97,1706,3ygJZUwraxV9k7b0jDSspx,EN,"Übersetzen Sie den Satz: ""Sie trägt normalerweise Jeans.""",,,8
+98,1187,2PqNTcM5pSPav1Hou9ZWcW,EN,"Translate ""Ich esse gerade einen Apfel."" to English.",,,8
+99,2441,4QoaqmHMkr9JTM0xbx5gr,eng,Who comes to Howie's shop?,,,5
+100,3612,3rjTCMSMHTB5Xl6wescySE,EN,Translate the following sentence to Englisch: Wir sitzen vor dem Computer.,,,11
+101,1459,7XMHvB04uiy5L90zxyfjoJ,EN,Schreibe was du hörst auf Englisch.,,,6
+102,1584,9scHqMrjxpH8rfeIV8Mxy4,EN,"Übersetzen Sie den Satz: ""Tom hat keine politische Erfahrung.""",,,9
+103,1536,37JMdmzgZj78jEV7EiqelI,EN,"Übersetzen Sie den Satz: ""Ich bin von der Arbeit sehr müde.""",,,11
+104,1220,1dxt2rW5BSQ8iLFIvlsExo,EN,"Translate ""Ich habe Sand im Auge."" to English.",,,8
+105,2023,6yZ1gvV09vsaN624mxeA0x,EN,"Übersetzen Sie den Satz: ""Dieser Baum ist so alt wie jener.""",,,11
+106,1769,8ywMkH9nWq56kjCHFqTEkd,EN,"Übersetzen Sie den Satz: ""Er hat einen Fehler in fünf Zeilen gefunden.""",,,12
+107,1332,aNTCZdFf9hW8DEGYi058Ut,EN,"Translate ""Wie können wir es beweisen?"" to English.",,,8
+108,2275,929t9knVhXx9k4eSpNe3XJ,eng,When did Caroline move to the countryside near Edinburgh?,,,9
+109,2011,aDUqrwDMlFzabTZOtmYJLa,EN,"Übersetzen Sie den Satz: ""Die Ökonomie ist keine exakte Wissenschaft.""",,,10
+110,1627,9MobGAxLEl9OqisySUZNU,EN,Schreibe was du hörst auf Englisch.,,,6
+111,1505,301OdQXw3QM8bDQzabxVZd,EN,Schreibe was du hörst auf Englisch.,,,6
+112,2568,8YYBHbP9SFK5TMaSGUcaEM,EN,Translate the following sentence to Englisch: Das Haus ist gross.,,,10
+113,1777,4Ro18nFkZCJafOveC6is7X,EN,"Übersetzen Sie den Satz: ""Das ist mein Lied!""",,,8
