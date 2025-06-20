@@ -6,6 +6,7 @@ This is the content of my master thesis project at EPFL and Taskbase.
 beated by the large number of labels in a small dataset. The GPT-based solution provides interesting results at the cost of prompt engineering and post-processing. This work represents a starting point to develop sophisticated systems to automate the generation of feedback on E-learning platforms.*
 <hr/>
 I implemented, evaluated and compared 5 different solutions of task modelling based on the following techniques:
+
 - Latent Dirichlet Allocation (LDA)
 - Latent Semantic Analysis (LSA)
 - Multi-label classification with BERT
