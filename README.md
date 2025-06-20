@@ -24,6 +24,6 @@ I implemented, evaluated and compared 5 different solutions of task modelling ba
 - Finetuning language models
 - Testing and evaluating language models
 - Usage of OpenAi API
-- Production of a detailed report
+- Production of a detailed report [Final report.pdf](https://github.com/ghalifaten/master_thesis/blob/main/Final%20report.pdf)
 - Communication and presentation skills
 - Working autonomously 
